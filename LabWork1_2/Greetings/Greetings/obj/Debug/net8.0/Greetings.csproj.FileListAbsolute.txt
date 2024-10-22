@@ -1,0 +1,15 @@
+E:\C#\LabWorks\LabWork2\Greetings\Greetings\bin\Debug\net8.0\Greetings.exe
+E:\C#\LabWorks\LabWork2\Greetings\Greetings\bin\Debug\net8.0\Greetings.deps.json
+E:\C#\LabWorks\LabWork2\Greetings\Greetings\bin\Debug\net8.0\Greetings.runtimeconfig.json
+E:\C#\LabWorks\LabWork2\Greetings\Greetings\bin\Debug\net8.0\Greetings.dll
+E:\C#\LabWorks\LabWork2\Greetings\Greetings\bin\Debug\net8.0\Greetings.pdb
+E:\C#\LabWorks\LabWork2\Greetings\Greetings\obj\Debug\net8.0\Greetings.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\LabWorks\LabWork2\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfoInputs.cache
+E:\C#\LabWorks\LabWork2\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfo.cs
+E:\C#\LabWorks\LabWork2\Greetings\Greetings\obj\Debug\net8.0\Greetings.csproj.CoreCompileInputs.cache
+E:\C#\LabWorks\LabWork2\Greetings\Greetings\obj\Debug\net8.0\Greetings.sourcelink.json
+E:\C#\LabWorks\LabWork2\Greetings\Greetings\obj\Debug\net8.0\Greetings.dll
+E:\C#\LabWorks\LabWork2\Greetings\Greetings\obj\Debug\net8.0\refint\Greetings.dll
+E:\C#\LabWorks\LabWork2\Greetings\Greetings\obj\Debug\net8.0\Greetings.pdb
+E:\C#\LabWorks\LabWork2\Greetings\Greetings\obj\Debug\net8.0\Greetings.genruntimeconfig.cache
+E:\C#\LabWorks\LabWork2\Greetings\Greetings\obj\Debug\net8.0\ref\Greetings.dll

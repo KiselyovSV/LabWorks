@@ -1,0 +1,15 @@
+E:\C#\LabWorks\LabWork1_4\Divider\Divider\bin\Debug\net8.0\Divider.exe
+E:\C#\LabWorks\LabWork1_4\Divider\Divider\bin\Debug\net8.0\Divider.deps.json
+E:\C#\LabWorks\LabWork1_4\Divider\Divider\bin\Debug\net8.0\Divider.runtimeconfig.json
+E:\C#\LabWorks\LabWork1_4\Divider\Divider\bin\Debug\net8.0\Divider.dll
+E:\C#\LabWorks\LabWork1_4\Divider\Divider\bin\Debug\net8.0\Divider.pdb
+E:\C#\LabWorks\LabWork1_4\Divider\Divider\obj\Debug\net8.0\Divider.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\LabWorks\LabWork1_4\Divider\Divider\obj\Debug\net8.0\Divider.AssemblyInfoInputs.cache
+E:\C#\LabWorks\LabWork1_4\Divider\Divider\obj\Debug\net8.0\Divider.AssemblyInfo.cs
+E:\C#\LabWorks\LabWork1_4\Divider\Divider\obj\Debug\net8.0\Divider.csproj.CoreCompileInputs.cache
+E:\C#\LabWorks\LabWork1_4\Divider\Divider\obj\Debug\net8.0\Divider.sourcelink.json
+E:\C#\LabWorks\LabWork1_4\Divider\Divider\obj\Debug\net8.0\Divider.dll
+E:\C#\LabWorks\LabWork1_4\Divider\Divider\obj\Debug\net8.0\refint\Divider.dll
+E:\C#\LabWorks\LabWork1_4\Divider\Divider\obj\Debug\net8.0\Divider.pdb
+E:\C#\LabWorks\LabWork1_4\Divider\Divider\obj\Debug\net8.0\Divider.genruntimeconfig.cache
+E:\C#\LabWorks\LabWork1_4\Divider\Divider\obj\Debug\net8.0\ref\Divider.dll

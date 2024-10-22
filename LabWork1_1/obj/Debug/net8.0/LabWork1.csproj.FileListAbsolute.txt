@@ -1,0 +1,14 @@
+E:\C#\LabWorks\LabWork1\bin\Debug\net8.0\LabWork1.exe
+E:\C#\LabWorks\LabWork1\bin\Debug\net8.0\LabWork1.deps.json
+E:\C#\LabWorks\LabWork1\bin\Debug\net8.0\LabWork1.runtimeconfig.json
+E:\C#\LabWorks\LabWork1\bin\Debug\net8.0\LabWork1.dll
+E:\C#\LabWorks\LabWork1\bin\Debug\net8.0\LabWork1.pdb
+E:\C#\LabWorks\LabWork1\obj\Debug\net8.0\LabWork1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\LabWorks\LabWork1\obj\Debug\net8.0\LabWork1.AssemblyInfoInputs.cache
+E:\C#\LabWorks\LabWork1\obj\Debug\net8.0\LabWork1.AssemblyInfo.cs
+E:\C#\LabWorks\LabWork1\obj\Debug\net8.0\LabWork1.csproj.CoreCompileInputs.cache
+E:\C#\LabWorks\LabWork1\obj\Debug\net8.0\LabWork1.dll
+E:\C#\LabWorks\LabWork1\obj\Debug\net8.0\refint\LabWork1.dll
+E:\C#\LabWorks\LabWork1\obj\Debug\net8.0\LabWork1.pdb
+E:\C#\LabWorks\LabWork1\obj\Debug\net8.0\LabWork1.genruntimeconfig.cache
+E:\C#\LabWorks\LabWork1\obj\Debug\net8.0\ref\LabWork1.dll
