@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\C#\\LabWorks\\LabWork1_5\\AreaOfTheTriangle\\",
+  "WorkspaceRootPath": "E:\\LabWorks\\LabWork1_5\\AreaOfTheTriangle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A8DB58B-FDC8-4548-BC54-F0E68B37D7A5}|AreaOfTheTriangle\\AreaOfTheTriangle.csproj|e:\\c#\\labworks\\labwork1_5\\areaofthetriangle\\areaofthetriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A8DB58B-FDC8-4548-BC54-F0E68B37D7A5}|AreaOfTheTriangle\\AreaOfTheTriangle.csproj|e:\\labworks\\labwork1_5\\areaofthetriangle\\areaofthetriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A8DB58B-FDC8-4548-BC54-F0E68B37D7A5}|AreaOfTheTriangle\\AreaOfTheTriangle.csproj|solutionrelative:areaofthetriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C#\\LabWorks\\LabWork1_5\\AreaOfTheTriangle\\AreaOfTheTriangle\\Program.cs",
+              "DocumentMoniker": "E:\\LabWorks\\LabWork1_5\\AreaOfTheTriangle\\AreaOfTheTriangle\\Program.cs",
               "RelativeDocumentMoniker": "AreaOfTheTriangle\\Program.cs",
-              "ToolTip": "E:\\C#\\LabWorks\\LabWork1_5\\AreaOfTheTriangle\\AreaOfTheTriangle\\Program.cs",
+              "ToolTip": "E:\\LabWorks\\LabWork1_5\\AreaOfTheTriangle\\AreaOfTheTriangle\\Program.cs",
               "RelativeToolTip": "AreaOfTheTriangle\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

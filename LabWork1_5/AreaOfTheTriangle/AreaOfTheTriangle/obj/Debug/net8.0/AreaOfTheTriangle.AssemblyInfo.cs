@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AreaOfTheTriangle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8566b99ede55b95fea439f45bf95bff63fd7b319")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05c5aa946e80cf2865595475f77c693d17eb65ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("AreaOfTheTriangle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AreaOfTheTriangle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\LabWorks\\LabWork1_5\\AreaOfTheTriangle\\AreaOfTheTriangle\\AreaOfTheTriangle.csproj",
+      "projectUniqueName": "E:\\LabWorks\\LabWork1_5\\AreaOfTheTriangle\\AreaOfTheTriangle\\AreaOfTheTriangle.csproj",
       "projectName": "AreaOfTheTriangle",
-      "projectPath": "E:\\C#\\LabWorks\\LabWork1_5\\AreaOfTheTriangle\\AreaOfTheTriangle\\AreaOfTheTriangle.csproj",
+      "projectPath": "E:\\LabWorks\\LabWork1_5\\AreaOfTheTriangle\\AreaOfTheTriangle\\AreaOfTheTriangle.csproj",
       "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\LabWorks\\LabWork1_5\\AreaOfTheTriangle\\AreaOfTheTriangle\\obj\\",
+      "outputPath": "E:\\LabWorks\\LabWork1_5\\AreaOfTheTriangle\\AreaOfTheTriangle\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config",

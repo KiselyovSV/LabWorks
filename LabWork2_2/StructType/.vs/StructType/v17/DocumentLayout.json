@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LabWorks\\LabWork2_2\\StructType\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F12EF9-41E4-43F5-AC3A-00C15D319FEF}|StructType\\StructType.csproj|e:\\labworks\\labwork2_2\\structtype\\structtype\\struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F12EF9-41E4-43F5-AC3A-00C15D319FEF}|StructType\\StructType.csproj|solutionrelative:structtype\\struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Struct.cs",
+              "DocumentMoniker": "E:\\LabWorks\\LabWork2_2\\StructType\\StructType\\Struct.cs",
+              "RelativeDocumentMoniker": "StructType\\Struct.cs",
+              "ToolTip": "E:\\LabWorks\\LabWork2_2\\StructType\\StructType\\Struct.cs",
+              "RelativeToolTip": "StructType\\Struct.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:20:01.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
