@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\C#\\LabWorks\\LabWork1_4\\Divider\\",
+  "WorkspaceRootPath": "E:\\LabWorks\\LabWork1_4\\Divider\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66C9FE46-C59D-455E-9C8E-99CAFD539148}|Divider\\Divider.csproj|e:\\c#\\labworks\\labwork1_4\\divider\\divider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66C9FE46-C59D-455E-9C8E-99CAFD539148}|Divider\\Divider.csproj|e:\\labworks\\labwork1_4\\divider\\divider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66C9FE46-C59D-455E-9C8E-99CAFD539148}|Divider\\Divider.csproj|solutionrelative:divider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C#\\LabWorks\\LabWork1_4\\Divider\\Divider\\Program.cs",
+              "DocumentMoniker": "E:\\LabWorks\\LabWork1_4\\Divider\\Divider\\Program.cs",
               "RelativeDocumentMoniker": "Divider\\Program.cs",
-              "ToolTip": "E:\\C#\\LabWorks\\LabWork1_4\\Divider\\Divider\\Program.cs",
+              "ToolTip": "E:\\LabWorks\\LabWork1_4\\Divider\\Divider\\Program.cs",
               "RelativeToolTip": "Divider\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T09:07:25.252Z",
               "EditorCaption": ""

@@ -1,0 +1,15 @@
+E:\LabWorks\LabWork3_4\Deriver\Deriver\bin\Debug\net8.0\Deriver.exe
+E:\LabWorks\LabWork3_4\Deriver\Deriver\bin\Debug\net8.0\Deriver.deps.json
+E:\LabWorks\LabWork3_4\Deriver\Deriver\bin\Debug\net8.0\Deriver.runtimeconfig.json
+E:\LabWorks\LabWork3_4\Deriver\Deriver\bin\Debug\net8.0\Deriver.dll
+E:\LabWorks\LabWork3_4\Deriver\Deriver\bin\Debug\net8.0\Deriver.pdb
+E:\LabWorks\LabWork3_4\Deriver\Deriver\obj\Debug\net8.0\Deriver.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabWorks\LabWork3_4\Deriver\Deriver\obj\Debug\net8.0\Deriver.AssemblyInfoInputs.cache
+E:\LabWorks\LabWork3_4\Deriver\Deriver\obj\Debug\net8.0\Deriver.AssemblyInfo.cs
+E:\LabWorks\LabWork3_4\Deriver\Deriver\obj\Debug\net8.0\Deriver.csproj.CoreCompileInputs.cache
+E:\LabWorks\LabWork3_4\Deriver\Deriver\obj\Debug\net8.0\Deriver.sourcelink.json
+E:\LabWorks\LabWork3_4\Deriver\Deriver\obj\Debug\net8.0\Deriver.dll
+E:\LabWorks\LabWork3_4\Deriver\Deriver\obj\Debug\net8.0\refint\Deriver.dll
+E:\LabWorks\LabWork3_4\Deriver\Deriver\obj\Debug\net8.0\Deriver.pdb
+E:\LabWorks\LabWork3_4\Deriver\Deriver\obj\Debug\net8.0\Deriver.genruntimeconfig.cache
+E:\LabWorks\LabWork3_4\Deriver\Deriver\obj\Debug\net8.0\ref\Deriver.dll

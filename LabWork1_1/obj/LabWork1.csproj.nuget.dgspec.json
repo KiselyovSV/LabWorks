@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\LabWorks\\LabWork1\\LabWork1.csproj": {}
+    "E:\\LabWorks\\LabWork1_1\\LabWork1.csproj": {}
   },
   "projects": {
-    "E:\\C#\\LabWorks\\LabWork1\\LabWork1.csproj": {
+    "E:\\LabWorks\\LabWork1_1\\LabWork1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\LabWorks\\LabWork1\\LabWork1.csproj",
+        "projectUniqueName": "E:\\LabWorks\\LabWork1_1\\LabWork1.csproj",
         "projectName": "LabWork1",
-        "projectPath": "E:\\C#\\LabWorks\\LabWork1\\LabWork1.csproj",
+        "projectPath": "E:\\LabWorks\\LabWork1_1\\LabWork1.csproj",
         "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\LabWorks\\LabWork1\\obj\\",
+        "outputPath": "E:\\LabWorks\\LabWork1_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+E:\LabWorks\LabWork3_5\TargetShooting\TargetShooting\bin\Debug\net8.0\TargetShooting.exe
+E:\LabWorks\LabWork3_5\TargetShooting\TargetShooting\bin\Debug\net8.0\TargetShooting.deps.json
+E:\LabWorks\LabWork3_5\TargetShooting\TargetShooting\bin\Debug\net8.0\TargetShooting.runtimeconfig.json
+E:\LabWorks\LabWork3_5\TargetShooting\TargetShooting\bin\Debug\net8.0\TargetShooting.dll
+E:\LabWorks\LabWork3_5\TargetShooting\TargetShooting\bin\Debug\net8.0\TargetShooting.pdb
+E:\LabWorks\LabWork3_5\TargetShooting\TargetShooting\obj\Debug\net8.0\TargetShooting.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabWorks\LabWork3_5\TargetShooting\TargetShooting\obj\Debug\net8.0\TargetShooting.AssemblyInfoInputs.cache
+E:\LabWorks\LabWork3_5\TargetShooting\TargetShooting\obj\Debug\net8.0\TargetShooting.AssemblyInfo.cs
+E:\LabWorks\LabWork3_5\TargetShooting\TargetShooting\obj\Debug\net8.0\TargetShooting.csproj.CoreCompileInputs.cache
+E:\LabWorks\LabWork3_5\TargetShooting\TargetShooting\obj\Debug\net8.0\TargetShooting.sourcelink.json
+E:\LabWorks\LabWork3_5\TargetShooting\TargetShooting\obj\Debug\net8.0\TargetShooting.dll
+E:\LabWorks\LabWork3_5\TargetShooting\TargetShooting\obj\Debug\net8.0\refint\TargetShooting.dll
+E:\LabWorks\LabWork3_5\TargetShooting\TargetShooting\obj\Debug\net8.0\TargetShooting.pdb
+E:\LabWorks\LabWork3_5\TargetShooting\TargetShooting\obj\Debug\net8.0\TargetShooting.genruntimeconfig.cache
+E:\LabWorks\LabWork3_5\TargetShooting\TargetShooting\obj\Debug\net8.0\ref\TargetShooting.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Divider")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8566b99ede55b95fea439f45bf95bff63fd7b319")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f34576c2ba9f23606d232eb5c7e55294efd36a8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Divider")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Divider")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

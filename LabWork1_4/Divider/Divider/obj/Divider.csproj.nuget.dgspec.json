@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\LabWorks\\LabWork1_4\\Divider\\Divider\\Divider.csproj": {}
+    "E:\\LabWorks\\LabWork1_4\\Divider\\Divider\\Divider.csproj": {}
   },
   "projects": {
-    "E:\\C#\\LabWorks\\LabWork1_4\\Divider\\Divider\\Divider.csproj": {
+    "E:\\LabWorks\\LabWork1_4\\Divider\\Divider\\Divider.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\LabWorks\\LabWork1_4\\Divider\\Divider\\Divider.csproj",
+        "projectUniqueName": "E:\\LabWorks\\LabWork1_4\\Divider\\Divider\\Divider.csproj",
         "projectName": "Divider",
-        "projectPath": "E:\\C#\\LabWorks\\LabWork1_4\\Divider\\Divider\\Divider.csproj",
+        "projectPath": "E:\\LabWorks\\LabWork1_4\\Divider\\Divider\\Divider.csproj",
         "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\LabWorks\\LabWork1_4\\Divider\\Divider\\obj\\",
+        "outputPath": "E:\\LabWorks\\LabWork1_4\\Divider\\Divider\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+E:\LabWorks\LabWork3_1\WhatDay1\WhatDay1\bin\Debug\net8.0\WhatDay1.exe
+E:\LabWorks\LabWork3_1\WhatDay1\WhatDay1\bin\Debug\net8.0\WhatDay1.deps.json
+E:\LabWorks\LabWork3_1\WhatDay1\WhatDay1\bin\Debug\net8.0\WhatDay1.runtimeconfig.json
+E:\LabWorks\LabWork3_1\WhatDay1\WhatDay1\bin\Debug\net8.0\WhatDay1.dll
+E:\LabWorks\LabWork3_1\WhatDay1\WhatDay1\bin\Debug\net8.0\WhatDay1.pdb
+E:\LabWorks\LabWork3_1\WhatDay1\WhatDay1\obj\Debug\net8.0\WhatDay1.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabWorks\LabWork3_1\WhatDay1\WhatDay1\obj\Debug\net8.0\WhatDay1.AssemblyInfoInputs.cache
+E:\LabWorks\LabWork3_1\WhatDay1\WhatDay1\obj\Debug\net8.0\WhatDay1.AssemblyInfo.cs
+E:\LabWorks\LabWork3_1\WhatDay1\WhatDay1\obj\Debug\net8.0\WhatDay1.csproj.CoreCompileInputs.cache
+E:\LabWorks\LabWork3_1\WhatDay1\WhatDay1\obj\Debug\net8.0\WhatDay1.sourcelink.json
+E:\LabWorks\LabWork3_1\WhatDay1\WhatDay1\obj\Debug\net8.0\WhatDay1.dll
+E:\LabWorks\LabWork3_1\WhatDay1\WhatDay1\obj\Debug\net8.0\refint\WhatDay1.dll
+E:\LabWorks\LabWork3_1\WhatDay1\WhatDay1\obj\Debug\net8.0\WhatDay1.pdb
+E:\LabWorks\LabWork3_1\WhatDay1\WhatDay1\obj\Debug\net8.0\WhatDay1.genruntimeconfig.cache
+E:\LabWorks\LabWork3_1\WhatDay1\WhatDay1\obj\Debug\net8.0\ref\WhatDay1.dll
