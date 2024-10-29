@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Greetings
-build_property.ProjectDir = E:\C#\LabWorks\LabWork2\Greetings\Greetings\
+build_property.ProjectDir = E:\LabWorks\LabWork1_2\Greetings\Greetings\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

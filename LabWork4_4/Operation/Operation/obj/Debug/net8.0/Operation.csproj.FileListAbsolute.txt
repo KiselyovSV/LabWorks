@@ -1,0 +1,15 @@
+E:\LabWorks\LabWork4_4\Operation\Operation\bin\Debug\net8.0\Operation.exe
+E:\LabWorks\LabWork4_4\Operation\Operation\bin\Debug\net8.0\Operation.deps.json
+E:\LabWorks\LabWork4_4\Operation\Operation\bin\Debug\net8.0\Operation.runtimeconfig.json
+E:\LabWorks\LabWork4_4\Operation\Operation\bin\Debug\net8.0\Operation.dll
+E:\LabWorks\LabWork4_4\Operation\Operation\bin\Debug\net8.0\Operation.pdb
+E:\LabWorks\LabWork4_4\Operation\Operation\obj\Debug\net8.0\Operation.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabWorks\LabWork4_4\Operation\Operation\obj\Debug\net8.0\Operation.AssemblyInfoInputs.cache
+E:\LabWorks\LabWork4_4\Operation\Operation\obj\Debug\net8.0\Operation.AssemblyInfo.cs
+E:\LabWorks\LabWork4_4\Operation\Operation\obj\Debug\net8.0\Operation.csproj.CoreCompileInputs.cache
+E:\LabWorks\LabWork4_4\Operation\Operation\obj\Debug\net8.0\Operation.sourcelink.json
+E:\LabWorks\LabWork4_4\Operation\Operation\obj\Debug\net8.0\Operation.dll
+E:\LabWorks\LabWork4_4\Operation\Operation\obj\Debug\net8.0\refint\Operation.dll
+E:\LabWorks\LabWork4_4\Operation\Operation\obj\Debug\net8.0\Operation.pdb
+E:\LabWorks\LabWork4_4\Operation\Operation\obj\Debug\net8.0\Operation.genruntimeconfig.cache
+E:\LabWorks\LabWork4_4\Operation\Operation\obj\Debug\net8.0\ref\Operation.dll

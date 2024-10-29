@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LabWorks\\LabWork4_5\\SquareRoot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE909C4-920A-42F5-AD77-B6E9DC129CBF}|SquareRoot\\SquareRoot.csproj|e:\\labworks\\labwork4_5\\squareroot\\squareroot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE909C4-920A-42F5-AD77-B6E9DC129CBF}|SquareRoot\\SquareRoot.csproj|solutionrelative:squareroot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LabWorks\\LabWork4_5\\SquareRoot\\SquareRoot\\Program.cs",
+              "RelativeDocumentMoniker": "SquareRoot\\Program.cs",
+              "ToolTip": "E:\\LabWorks\\LabWork4_5\\SquareRoot\\SquareRoot\\Program.cs",
+              "RelativeToolTip": "SquareRoot\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:11:28.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

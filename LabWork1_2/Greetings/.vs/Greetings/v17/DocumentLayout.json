@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\C#\\LabWorks\\LabWork2\\Greetings\\",
+  "WorkspaceRootPath": "E:\\LabWorks\\LabWork1_2\\Greetings\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FB1C455-88D3-4817-A0AE-33DB9406BD61}|Greetings\\Greetings.csproj|e:\\c#\\labworks\\labwork2\\greetings\\greetings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7FB1C455-88D3-4817-A0AE-33DB9406BD61}|Greetings\\Greetings.csproj|e:\\labworks\\labwork1_2\\greetings\\greetings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FB1C455-88D3-4817-A0AE-33DB9406BD61}|Greetings\\Greetings.csproj|solutionrelative:greetings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C#\\LabWorks\\LabWork2\\Greetings\\Greetings\\Program.cs",
+              "DocumentMoniker": "E:\\LabWorks\\LabWork1_2\\Greetings\\Greetings\\Program.cs",
               "RelativeDocumentMoniker": "Greetings\\Program.cs",
-              "ToolTip": "E:\\C#\\LabWorks\\LabWork2\\Greetings\\Greetings\\Program.cs",
+              "ToolTip": "E:\\LabWorks\\LabWork1_2\\Greetings\\Greetings\\Program.cs",
               "RelativeToolTip": "Greetings\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

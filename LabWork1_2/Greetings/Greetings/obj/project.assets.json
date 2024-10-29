@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\LabWorks\\LabWork2\\Greetings\\Greetings\\Greetings.csproj",
+      "projectUniqueName": "E:\\LabWorks\\LabWork1_2\\Greetings\\Greetings\\Greetings.csproj",
       "projectName": "Greetings",
-      "projectPath": "E:\\C#\\LabWorks\\LabWork2\\Greetings\\Greetings\\Greetings.csproj",
+      "projectPath": "E:\\LabWorks\\LabWork1_2\\Greetings\\Greetings\\Greetings.csproj",
       "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\LabWorks\\LabWork2\\Greetings\\Greetings\\obj\\",
+      "outputPath": "E:\\LabWorks\\LabWork1_2\\Greetings\\Greetings\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config",

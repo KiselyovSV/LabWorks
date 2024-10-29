@@ -1,0 +1,15 @@
+E:\LabWorks\LabWork4_5\SquareRoot\SquareRoot\bin\Debug\net8.0\SquareRoot.exe
+E:\LabWorks\LabWork4_5\SquareRoot\SquareRoot\bin\Debug\net8.0\SquareRoot.deps.json
+E:\LabWorks\LabWork4_5\SquareRoot\SquareRoot\bin\Debug\net8.0\SquareRoot.runtimeconfig.json
+E:\LabWorks\LabWork4_5\SquareRoot\SquareRoot\bin\Debug\net8.0\SquareRoot.dll
+E:\LabWorks\LabWork4_5\SquareRoot\SquareRoot\bin\Debug\net8.0\SquareRoot.pdb
+E:\LabWorks\LabWork4_5\SquareRoot\SquareRoot\obj\Debug\net8.0\SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabWorks\LabWork4_5\SquareRoot\SquareRoot\obj\Debug\net8.0\SquareRoot.AssemblyInfoInputs.cache
+E:\LabWorks\LabWork4_5\SquareRoot\SquareRoot\obj\Debug\net8.0\SquareRoot.AssemblyInfo.cs
+E:\LabWorks\LabWork4_5\SquareRoot\SquareRoot\obj\Debug\net8.0\SquareRoot.csproj.CoreCompileInputs.cache
+E:\LabWorks\LabWork4_5\SquareRoot\SquareRoot\obj\Debug\net8.0\SquareRoot.sourcelink.json
+E:\LabWorks\LabWork4_5\SquareRoot\SquareRoot\obj\Debug\net8.0\SquareRoot.dll
+E:\LabWorks\LabWork4_5\SquareRoot\SquareRoot\obj\Debug\net8.0\refint\SquareRoot.dll
+E:\LabWorks\LabWork4_5\SquareRoot\SquareRoot\obj\Debug\net8.0\SquareRoot.pdb
+E:\LabWorks\LabWork4_5\SquareRoot\SquareRoot\obj\Debug\net8.0\SquareRoot.genruntimeconfig.cache
+E:\LabWorks\LabWork4_5\SquareRoot\SquareRoot\obj\Debug\net8.0\ref\SquareRoot.dll

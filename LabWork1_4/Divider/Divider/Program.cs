@@ -32,7 +32,7 @@ namespace Divider
                     double result = num1 / num2;
                     Console.WriteLine($"\nРезультат деления числа {num1} на число {num2} равен: {result}");
                 }
-                else Console.WriteLine($"\nРезультат деления числа {num1} на число 0 равен: 0");
+                else Console.WriteLine($"\nНа ноль делить нельзя!");
                 Console.ReadLine();
                 Console.Clear();
             }

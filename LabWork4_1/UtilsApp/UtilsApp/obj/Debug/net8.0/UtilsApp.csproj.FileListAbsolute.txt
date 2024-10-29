@@ -1,0 +1,15 @@
+E:\LabWorks\LabWork4_1\UtilsApp\UtilsApp\bin\Debug\net8.0\UtilsApp.exe
+E:\LabWorks\LabWork4_1\UtilsApp\UtilsApp\bin\Debug\net8.0\UtilsApp.deps.json
+E:\LabWorks\LabWork4_1\UtilsApp\UtilsApp\bin\Debug\net8.0\UtilsApp.runtimeconfig.json
+E:\LabWorks\LabWork4_1\UtilsApp\UtilsApp\bin\Debug\net8.0\UtilsApp.dll
+E:\LabWorks\LabWork4_1\UtilsApp\UtilsApp\bin\Debug\net8.0\UtilsApp.pdb
+E:\LabWorks\LabWork4_1\UtilsApp\UtilsApp\obj\Debug\net8.0\UtilsApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabWorks\LabWork4_1\UtilsApp\UtilsApp\obj\Debug\net8.0\UtilsApp.AssemblyInfoInputs.cache
+E:\LabWorks\LabWork4_1\UtilsApp\UtilsApp\obj\Debug\net8.0\UtilsApp.AssemblyInfo.cs
+E:\LabWorks\LabWork4_1\UtilsApp\UtilsApp\obj\Debug\net8.0\UtilsApp.csproj.CoreCompileInputs.cache
+E:\LabWorks\LabWork4_1\UtilsApp\UtilsApp\obj\Debug\net8.0\UtilsApp.sourcelink.json
+E:\LabWorks\LabWork4_1\UtilsApp\UtilsApp\obj\Debug\net8.0\UtilsApp.dll
+E:\LabWorks\LabWork4_1\UtilsApp\UtilsApp\obj\Debug\net8.0\refint\UtilsApp.dll
+E:\LabWorks\LabWork4_1\UtilsApp\UtilsApp\obj\Debug\net8.0\UtilsApp.pdb
+E:\LabWorks\LabWork4_1\UtilsApp\UtilsApp\obj\Debug\net8.0\UtilsApp.genruntimeconfig.cache
+E:\LabWorks\LabWork4_1\UtilsApp\UtilsApp\obj\Debug\net8.0\ref\UtilsApp.dll
