@@ -1,0 +1,15 @@
+E:\LabWorks\LabWork_A\Algorithm\Algorithm\bin\Debug\net8.0\Algorithm.exe
+E:\LabWorks\LabWork_A\Algorithm\Algorithm\bin\Debug\net8.0\Algorithm.deps.json
+E:\LabWorks\LabWork_A\Algorithm\Algorithm\bin\Debug\net8.0\Algorithm.runtimeconfig.json
+E:\LabWorks\LabWork_A\Algorithm\Algorithm\bin\Debug\net8.0\Algorithm.dll
+E:\LabWorks\LabWork_A\Algorithm\Algorithm\bin\Debug\net8.0\Algorithm.pdb
+E:\LabWorks\LabWork_A\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabWorks\LabWork_A\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.AssemblyInfoInputs.cache
+E:\LabWorks\LabWork_A\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.AssemblyInfo.cs
+E:\LabWorks\LabWork_A\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.csproj.CoreCompileInputs.cache
+E:\LabWorks\LabWork_A\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.sourcelink.json
+E:\LabWorks\LabWork_A\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.dll
+E:\LabWorks\LabWork_A\Algorithm\Algorithm\obj\Debug\net8.0\refint\Algorithm.dll
+E:\LabWorks\LabWork_A\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.pdb
+E:\LabWorks\LabWork_A\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.genruntimeconfig.cache
+E:\LabWorks\LabWork_A\Algorithm\Algorithm\obj\Debug\net8.0\ref\Algorithm.dll

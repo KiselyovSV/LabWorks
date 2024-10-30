@@ -1,0 +1,17 @@
+E:\LabWorks\LabWork5_1\Mas1\Mas1\bin\Debug\net8.0\Mas1.exe
+E:\LabWorks\LabWork5_1\Mas1\Mas1\bin\Debug\net8.0\Mas1.deps.json
+E:\LabWorks\LabWork5_1\Mas1\Mas1\bin\Debug\net8.0\Mas1.runtimeconfig.json
+E:\LabWorks\LabWork5_1\Mas1\Mas1\bin\Debug\net8.0\Mas1.dll
+E:\LabWorks\LabWork5_1\Mas1\Mas1\bin\Debug\net8.0\Mas1.pdb
+E:\LabWorks\LabWork5_1\Mas1\Mas1\obj\Debug\net8.0\Mas1.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabWorks\LabWork5_1\Mas1\Mas1\obj\Debug\net8.0\Mas1.AssemblyInfoInputs.cache
+E:\LabWorks\LabWork5_1\Mas1\Mas1\obj\Debug\net8.0\Mas1.AssemblyInfo.cs
+E:\LabWorks\LabWork5_1\Mas1\Mas1\obj\Debug\net8.0\Mas1.csproj.CoreCompileInputs.cache
+E:\LabWorks\LabWork5_1\Mas1\Mas1\obj\Debug\net8.0\Mas1.sourcelink.json
+E:\LabWorks\LabWork5_1\Mas1\Mas1\obj\Debug\net8.0\Mas1.dll
+E:\LabWorks\LabWork5_1\Mas1\Mas1\obj\Debug\net8.0\refint\Mas1.dll
+E:\LabWorks\LabWork5_1\Mas1\Mas1\obj\Debug\net8.0\Mas1.pdb
+E:\LabWorks\LabWork5_1\Mas1\Mas1\obj\Debug\net8.0\Mas1.genruntimeconfig.cache
+E:\LabWorks\LabWork5_1\Mas1\Mas1\obj\Debug\net8.0\ref\Mas1.dll
+E:\LabWorks\LabWork5_1\Mas1\Mas1\obj\Debug\net8.0\Mas1.Properties.Resources.resources
+E:\LabWorks\LabWork5_1\Mas1\Mas1\obj\Debug\net8.0\Mas1.csproj.GenerateResource.cache
