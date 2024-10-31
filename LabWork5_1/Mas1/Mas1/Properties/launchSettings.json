@@ -1,7 +1,8 @@
 {
   "profiles": {
     "Mas1": {
-      "commandName": "Project"
+      "commandName": "Project",
+      "commandLineArgs": "E:\\LabWorks\\LabWork5_1\\Mas1\\Mas1\\Program.cs "
     }
   }
 }

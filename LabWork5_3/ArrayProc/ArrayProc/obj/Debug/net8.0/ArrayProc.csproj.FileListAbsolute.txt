@@ -1,0 +1,15 @@
+E:\LabWorks\LabWork5_3\ArrayProc\ArrayProc\bin\Debug\net8.0\ArrayProc.exe
+E:\LabWorks\LabWork5_3\ArrayProc\ArrayProc\bin\Debug\net8.0\ArrayProc.deps.json
+E:\LabWorks\LabWork5_3\ArrayProc\ArrayProc\bin\Debug\net8.0\ArrayProc.runtimeconfig.json
+E:\LabWorks\LabWork5_3\ArrayProc\ArrayProc\bin\Debug\net8.0\ArrayProc.dll
+E:\LabWorks\LabWork5_3\ArrayProc\ArrayProc\bin\Debug\net8.0\ArrayProc.pdb
+E:\LabWorks\LabWork5_3\ArrayProc\ArrayProc\obj\Debug\net8.0\ArrayProc.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabWorks\LabWork5_3\ArrayProc\ArrayProc\obj\Debug\net8.0\ArrayProc.AssemblyInfoInputs.cache
+E:\LabWorks\LabWork5_3\ArrayProc\ArrayProc\obj\Debug\net8.0\ArrayProc.AssemblyInfo.cs
+E:\LabWorks\LabWork5_3\ArrayProc\ArrayProc\obj\Debug\net8.0\ArrayProc.csproj.CoreCompileInputs.cache
+E:\LabWorks\LabWork5_3\ArrayProc\ArrayProc\obj\Debug\net8.0\ArrayProc.sourcelink.json
+E:\LabWorks\LabWork5_3\ArrayProc\ArrayProc\obj\Debug\net8.0\ArrayProc.dll
+E:\LabWorks\LabWork5_3\ArrayProc\ArrayProc\obj\Debug\net8.0\refint\ArrayProc.dll
+E:\LabWorks\LabWork5_3\ArrayProc\ArrayProc\obj\Debug\net8.0\ArrayProc.pdb
+E:\LabWorks\LabWork5_3\ArrayProc\ArrayProc\obj\Debug\net8.0\ArrayProc.genruntimeconfig.cache
+E:\LabWorks\LabWork5_3\ArrayProc\ArrayProc\obj\Debug\net8.0\ref\ArrayProc.dll

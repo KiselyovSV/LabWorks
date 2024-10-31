@@ -1,0 +1,15 @@
+E:\LabWorks\LabWork5_2\Matrix\Matrix\bin\Debug\net8.0\Matrix.exe
+E:\LabWorks\LabWork5_2\Matrix\Matrix\bin\Debug\net8.0\Matrix.deps.json
+E:\LabWorks\LabWork5_2\Matrix\Matrix\bin\Debug\net8.0\Matrix.runtimeconfig.json
+E:\LabWorks\LabWork5_2\Matrix\Matrix\bin\Debug\net8.0\Matrix.dll
+E:\LabWorks\LabWork5_2\Matrix\Matrix\bin\Debug\net8.0\Matrix.pdb
+E:\LabWorks\LabWork5_2\Matrix\Matrix\obj\Debug\net8.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabWorks\LabWork5_2\Matrix\Matrix\obj\Debug\net8.0\Matrix.AssemblyInfoInputs.cache
+E:\LabWorks\LabWork5_2\Matrix\Matrix\obj\Debug\net8.0\Matrix.AssemblyInfo.cs
+E:\LabWorks\LabWork5_2\Matrix\Matrix\obj\Debug\net8.0\Matrix.csproj.CoreCompileInputs.cache
+E:\LabWorks\LabWork5_2\Matrix\Matrix\obj\Debug\net8.0\Matrix.sourcelink.json
+E:\LabWorks\LabWork5_2\Matrix\Matrix\obj\Debug\net8.0\Matrix.dll
+E:\LabWorks\LabWork5_2\Matrix\Matrix\obj\Debug\net8.0\refint\Matrix.dll
+E:\LabWorks\LabWork5_2\Matrix\Matrix\obj\Debug\net8.0\Matrix.pdb
+E:\LabWorks\LabWork5_2\Matrix\Matrix\obj\Debug\net8.0\Matrix.genruntimeconfig.cache
+E:\LabWorks\LabWork5_2\Matrix\Matrix\obj\Debug\net8.0\ref\Matrix.dll

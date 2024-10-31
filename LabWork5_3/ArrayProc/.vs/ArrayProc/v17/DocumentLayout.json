@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LabWorks\\LabWork5_3\\ArrayProc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3293A6-30F5-4960-BE94-AFD1E3612092}|ArrayProc\\ArrayProc.csproj|e:\\labworks\\labwork5_3\\arrayproc\\arrayproc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3293A6-30F5-4960-BE94-AFD1E3612092}|ArrayProc\\ArrayProc.csproj|solutionrelative:arrayproc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LabWorks\\LabWork5_3\\ArrayProc\\ArrayProc\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayProc\\Program.cs",
+              "ToolTip": "E:\\LabWorks\\LabWork5_3\\ArrayProc\\ArrayProc\\Program.cs",
+              "RelativeToolTip": "ArrayProc\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIA9wB8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:56:04.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
