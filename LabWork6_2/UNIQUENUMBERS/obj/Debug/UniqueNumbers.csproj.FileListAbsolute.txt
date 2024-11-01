@@ -1,0 +1,6 @@
+E:\LabWorks\LabWork6_2\UNIQUENUMBERS\bin\Debug\UniqueNumbers.exe
+E:\LabWorks\LabWork6_2\UNIQUENUMBERS\bin\Debug\UniqueNumbers.pdb
+E:\LabWorks\LabWork6_2\UNIQUENUMBERS\obj\Debug\UniqueNumbers.csproj.AssemblyReference.cache
+E:\LabWorks\LabWork6_2\UNIQUENUMBERS\obj\Debug\UniqueNumbers.csproj.CoreCompileInputs.cache
+E:\LabWorks\LabWork6_2\UNIQUENUMBERS\obj\Debug\UniqueNumbers.exe
+E:\LabWorks\LabWork6_2\UNIQUENUMBERS\obj\Debug\UniqueNumbers.pdb

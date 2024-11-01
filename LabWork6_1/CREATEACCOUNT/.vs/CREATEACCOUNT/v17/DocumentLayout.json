@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LabWorks\\LabWork6_1\\CREATEACCOUNT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2B0E3-87D6-4978-A91B-18144A759FD7}|CreateAccount.csproj|e:\\labworks\\labwork6_1\\createaccount\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F2B0E3-87D6-4978-A91B-18144A759FD7}|CreateAccount.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2B0E3-87D6-4978-A91B-18144A759FD7}|CreateAccount.csproj|e:\\labworks\\labwork6_1\\createaccount\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F2B0E3-87D6-4978-A91B-18144A759FD7}|CreateAccount.csproj|solutionrelative:createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2B0E3-87D6-4978-A91B-18144A759FD7}|CreateAccount.csproj|e:\\labworks\\labwork6_1\\createaccount\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F2B0E3-87D6-4978-A91B-18144A759FD7}|CreateAccount.csproj|solutionrelative:accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateAccount.cs",
+              "DocumentMoniker": "E:\\LabWorks\\LabWork6_1\\CREATEACCOUNT\\CREATEACCOUNT.CS",
+              "RelativeDocumentMoniker": "CREATEACCOUNT.CS",
+              "ToolTip": "E:\\LabWorks\\LabWork6_1\\CREATEACCOUNT\\CREATEACCOUNT.CS",
+              "RelativeToolTip": "CREATEACCOUNT.CS",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:07:36.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "E:\\LabWorks\\LabWork6_1\\CREATEACCOUNT\\BANKACCOUNT.CS",
+              "RelativeDocumentMoniker": "BANKACCOUNT.CS",
+              "ToolTip": "E:\\LabWorks\\LabWork6_1\\CREATEACCOUNT\\BANKACCOUNT.CS",
+              "RelativeToolTip": "BANKACCOUNT.CS",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:24:08.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "4c5bda9f-c085-4a95-a142-ca85fb418635",
+        "Display": 0,
+        "X": 555,
+        "Y": 192,
+        "Width": 810,
+        "Height": 573,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountType.cs",
+              "DocumentMoniker": "E:\\LabWorks\\LabWork6_1\\CREATEACCOUNT\\ACCOUNTTYPE.CS",
+              "RelativeDocumentMoniker": "ACCOUNTTYPE.CS",
+              "ToolTip": "E:\\LabWorks\\LabWork6_1\\CREATEACCOUNT\\ACCOUNTTYPE.CS",
+              "RelativeToolTip": "ACCOUNTTYPE.CS",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:24:33.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
