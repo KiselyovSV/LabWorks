@@ -1,0 +1,6 @@
+E:\LabWorks\LabWork7_3\COPYFILEUPPER\obj\Debug\CopyFileUpper.csproj.AssemblyReference.cache
+E:\LabWorks\LabWork7_3\COPYFILEUPPER\obj\Debug\CopyFileUpper.csproj.CoreCompileInputs.cache
+E:\LabWorks\LabWork7_3\COPYFILEUPPER\bin\Debug\CopyFileUpper.exe
+E:\LabWorks\LabWork7_3\COPYFILEUPPER\bin\Debug\CopyFileUpper.pdb
+E:\LabWorks\LabWork7_3\COPYFILEUPPER\obj\Debug\CopyFileUpper.exe
+E:\LabWorks\LabWork7_3\COPYFILEUPPER\obj\Debug\CopyFileUpper.pdb

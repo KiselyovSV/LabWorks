@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleTriangle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0b644ded43b616ef06a2512b6ab339f6fa55283")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b78907cb659db94b31ba388329042c5610061f8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleTriangle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleTriangle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

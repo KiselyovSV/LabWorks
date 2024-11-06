@@ -1,0 +1,6 @@
+E:\LabWorks\LabWork7_4\INTERFACETEST\obj\Debug\InterfaceTest.csproj.AssemblyReference.cache
+E:\LabWorks\LabWork7_4\INTERFACETEST\obj\Debug\InterfaceTest.csproj.CoreCompileInputs.cache
+E:\LabWorks\LabWork7_4\INTERFACETEST\bin\Debug\Utils.exe
+E:\LabWorks\LabWork7_4\INTERFACETEST\bin\Debug\Utils.pdb
+E:\LabWorks\LabWork7_4\INTERFACETEST\obj\Debug\Utils.exe
+E:\LabWorks\LabWork7_4\INTERFACETEST\obj\Debug\Utils.pdb

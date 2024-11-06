@@ -19,11 +19,11 @@ namespace ConsoleTriangle
         public static void Print(Triangle t)
         {
             Console.WriteLine(t.OllSides);
-            if (Triangle.Perimeter(t) == 0 || Triangle.Area(t) == 0) Console.WriteLine("Треугольник не существует!");
+            if (t.Perimeter() == 0 || t.Area() == 0) Console.WriteLine("Треугольник не существует!");
             else
             {
-                Console.WriteLine($"Периметр треугольника равен:{Triangle.Perimeter(t)}.");
-                Console.WriteLine($"Площадь треугольника равна:{Triangle.Area(t):F2}.");
+                Console.WriteLine($"Периметр треугольника равен:{t.Perimeter()}.");
+                Console.WriteLine($"Площадь треугольника равна:{t.Area():F2}.");
             }
         }
     }

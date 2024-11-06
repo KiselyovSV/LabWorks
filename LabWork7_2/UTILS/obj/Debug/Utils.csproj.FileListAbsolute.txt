@@ -1,0 +1,6 @@
+E:\LabWorks\LabWork7_2\UTILS\obj\Debug\Utils.csproj.AssemblyReference.cache
+E:\LabWorks\LabWork7_2\UTILS\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+E:\LabWorks\LabWork7_2\UTILS\bin\Debug\Utils.exe
+E:\LabWorks\LabWork7_2\UTILS\bin\Debug\Utils.pdb
+E:\LabWorks\LabWork7_2\UTILS\obj\Debug\Utils.exe
+E:\LabWorks\LabWork7_2\UTILS\obj\Debug\Utils.pdb

@@ -46,20 +46,20 @@ internal class Triangle
         SideC = sideC;
     }
 
-    internal static double Perimeter(Triangle t)
+    internal double Perimeter()
     {
-        if (Area(t) > 0)
+        if (Area() > 0)
         {
-            double sum = t.sideA + t.sideB + t.sideC;
+            double sum = sideA + sideB + sideC;
             return sum;
         }
         else return 0;
     }
 
-    internal static double Area(Triangle t)
+    internal double Area()
     {
-        double half = (t.sideA+t.sideB+t.sideC)/2;
-        double area = Math.Sqrt(half*(half-t.sideA)*(half-t.sideB)*(half-t.sideC));
+        double half = (sideA+sideB+sideC)/2;
+        double area = Math.Sqrt(half*(half-sideA)*(half-sideB)*(half-sideC));
         if (area is double.NaN) return 0;
         else return area;
     }

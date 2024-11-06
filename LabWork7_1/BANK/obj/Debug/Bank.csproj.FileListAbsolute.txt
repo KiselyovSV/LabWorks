@@ -1,0 +1,6 @@
+E:\LabWorks\LabWork7_1\BANK\bin\Debug\MoreMethods.exe
+E:\LabWorks\LabWork7_1\BANK\bin\Debug\MoreMethods.pdb
+E:\LabWorks\LabWork7_1\BANK\obj\Debug\Bank.csproj.AssemblyReference.cache
+E:\LabWorks\LabWork7_1\BANK\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+E:\LabWorks\LabWork7_1\BANK\obj\Debug\MoreMethods.exe
+E:\LabWorks\LabWork7_1\BANK\obj\Debug\MoreMethods.pdb

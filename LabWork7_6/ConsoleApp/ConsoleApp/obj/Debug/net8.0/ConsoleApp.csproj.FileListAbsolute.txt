@@ -1,0 +1,15 @@
+E:\LabWorks\LabWork7_6\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+E:\LabWorks\LabWork7_6\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+E:\LabWorks\LabWork7_6\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+E:\LabWorks\LabWork7_6\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+E:\LabWorks\LabWork7_6\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+E:\LabWorks\LabWork7_6\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabWorks\LabWork7_6\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+E:\LabWorks\LabWork7_6\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+E:\LabWorks\LabWork7_6\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\LabWorks\LabWork7_6\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+E:\LabWorks\LabWork7_6\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+E:\LabWorks\LabWork7_6\ConsoleApp\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+E:\LabWorks\LabWork7_6\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+E:\LabWorks\LabWork7_6\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+E:\LabWorks\LabWork7_6\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll

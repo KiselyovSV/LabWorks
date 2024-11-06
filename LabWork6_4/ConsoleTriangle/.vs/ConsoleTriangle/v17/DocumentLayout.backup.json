@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\LabWorks\\LabWork6_4\\ConsoleTriangle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96AE199B-20B1-41A1-A430-5757D4F6F71D}|ConsoleTriangle\\ConsoleTriangle.csproj|e:\\labworks\\labwork6_4\\consoletriangle\\consoletriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96AE199B-20B1-41A1-A430-5757D4F6F71D}|ConsoleTriangle\\ConsoleTriangle.csproj|solutionrelative:consoletriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{96AE199B-20B1-41A1-A430-5757D4F6F71D}|ConsoleTriangle\\ConsoleTriangle.csproj|e:\\labworks\\labwork6_4\\consoletriangle\\consoletriangle\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96AE199B-20B1-41A1-A430-5757D4F6F71D}|ConsoleTriangle\\ConsoleTriangle.csproj|solutionrelative:consoletriangle\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AE199B-20B1-41A1-A430-5757D4F6F71D}|ConsoleTriangle\\ConsoleTriangle.csproj|e:\\labworks\\labwork6_4\\consoletriangle\\consoletriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AE199B-20B1-41A1-A430-5757D4F6F71D}|ConsoleTriangle\\ConsoleTriangle.csproj|solutionrelative:consoletriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Triangle.cs",
               "DocumentMoniker": "E:\\LabWorks\\LabWork6_4\\ConsoleTriangle\\ConsoleTriangle\\Triangle.cs",
               "RelativeDocumentMoniker": "ConsoleTriangle\\Triangle.cs",
               "ToolTip": "E:\\LabWorks\\LabWork6_4\\ConsoleTriangle\\ConsoleTriangle\\Triangle.cs",
               "RelativeToolTip": "ConsoleTriangle\\Triangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowD0AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T20:37:56.679Z",
               "IsPinned": true,
@@ -36,13 +36,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\LabWorks\\LabWork6_4\\ConsoleTriangle\\ConsoleTriangle\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleTriangle\\Program.cs",
-              "ToolTip": "E:\\LabWorks\\LabWork6_4\\ConsoleTriangle\\ConsoleTriangle\\Program.cs*",
-              "RelativeToolTip": "ConsoleTriangle\\Program.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "ToolTip": "E:\\LabWorks\\LabWork6_4\\ConsoleTriangle\\ConsoleTriangle\\Program.cs",
+              "RelativeToolTip": "ConsoleTriangle\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T20:25:14.132Z",
               "IsPinned": true,
