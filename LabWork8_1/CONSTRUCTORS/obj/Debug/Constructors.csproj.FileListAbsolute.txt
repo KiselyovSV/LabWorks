@@ -1,0 +1,6 @@
+E:\LabWorks\LabWork8_1\CONSTRUCTORS\obj\Debug\Constructors.csproj.AssemblyReference.cache
+E:\LabWorks\LabWork8_1\CONSTRUCTORS\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+E:\LabWorks\LabWork8_1\CONSTRUCTORS\bin\Debug\Constructors.exe
+E:\LabWorks\LabWork8_1\CONSTRUCTORS\bin\Debug\Constructors.pdb
+E:\LabWorks\LabWork8_1\CONSTRUCTORS\obj\Debug\Constructors.exe
+E:\LabWorks\LabWork8_1\CONSTRUCTORS\obj\Debug\Constructors.pdb

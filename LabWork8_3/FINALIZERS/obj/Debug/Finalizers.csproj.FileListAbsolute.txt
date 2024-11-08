@@ -1,0 +1,6 @@
+E:\LabWorks\LabWork8_3\FINALIZERS\obj\Debug\Finalizers.csproj.AssemblyReference.cache
+E:\LabWorks\LabWork8_3\FINALIZERS\obj\Debug\Finalizers.csproj.CoreCompileInputs.cache
+E:\LabWorks\LabWork8_3\FINALIZERS\bin\Debug\Finalizers.exe
+E:\LabWorks\LabWork8_3\FINALIZERS\bin\Debug\Finalizers.pdb
+E:\LabWorks\LabWork8_3\FINALIZERS\obj\Debug\Finalizers.exe
+E:\LabWorks\LabWork8_3\FINALIZERS\obj\Debug\Finalizers.pdb

@@ -1,0 +1,15 @@
+E:\LabWorks\LabWork6_4\ConsoleTriangle\ConsoleTriangle\obj\Debug\net8.0\ConsoleTriangle.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabWorks\LabWork6_4\ConsoleTriangle\ConsoleTriangle\obj\Debug\net8.0\ConsoleTriangle.AssemblyInfoInputs.cache
+E:\LabWorks\LabWork6_4\ConsoleTriangle\ConsoleTriangle\obj\Debug\net8.0\ConsoleTriangle.AssemblyInfo.cs
+E:\LabWorks\LabWork6_4\ConsoleTriangle\ConsoleTriangle\obj\Debug\net8.0\ConsoleTriangle.csproj.CoreCompileInputs.cache
+E:\LabWorks\LabWork6_4\ConsoleTriangle\ConsoleTriangle\obj\Debug\net8.0\ConsoleTriangle.sourcelink.json
+E:\LabWorks\LabWork6_4\ConsoleTriangle\ConsoleTriangle\bin\Debug\net8.0\ConsoleTriangle.exe
+E:\LabWorks\LabWork6_4\ConsoleTriangle\ConsoleTriangle\bin\Debug\net8.0\ConsoleTriangle.deps.json
+E:\LabWorks\LabWork6_4\ConsoleTriangle\ConsoleTriangle\bin\Debug\net8.0\ConsoleTriangle.runtimeconfig.json
+E:\LabWorks\LabWork6_4\ConsoleTriangle\ConsoleTriangle\bin\Debug\net8.0\ConsoleTriangle.dll
+E:\LabWorks\LabWork6_4\ConsoleTriangle\ConsoleTriangle\bin\Debug\net8.0\ConsoleTriangle.pdb
+E:\LabWorks\LabWork6_4\ConsoleTriangle\ConsoleTriangle\obj\Debug\net8.0\ConsoleTriangle.dll
+E:\LabWorks\LabWork6_4\ConsoleTriangle\ConsoleTriangle\obj\Debug\net8.0\refint\ConsoleTriangle.dll
+E:\LabWorks\LabWork6_4\ConsoleTriangle\ConsoleTriangle\obj\Debug\net8.0\ConsoleTriangle.pdb
+E:\LabWorks\LabWork6_4\ConsoleTriangle\ConsoleTriangle\obj\Debug\net8.0\ConsoleTriangle.genruntimeconfig.cache
+E:\LabWorks\LabWork6_4\ConsoleTriangle\ConsoleTriangle\obj\Debug\net8.0\ref\ConsoleTriangle.dll
