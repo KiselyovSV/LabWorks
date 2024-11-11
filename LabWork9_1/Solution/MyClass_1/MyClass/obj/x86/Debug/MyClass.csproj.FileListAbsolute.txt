@@ -1,0 +1,13 @@
+c:\users\пользователь\documents\visual studio 2010\Projects\MyClass\MyClass\bin\Debug\MyClass.exe
+c:\users\пользователь\documents\visual studio 2010\Projects\MyClass\MyClass\bin\Debug\MyClass.pdb
+c:\users\пользователь\documents\visual studio 2010\Projects\MyClass\MyClass\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\пользователь\documents\visual studio 2010\Projects\MyClass\MyClass\obj\x86\Debug\MyClass.exe
+c:\users\пользователь\documents\visual studio 2010\Projects\MyClass\MyClass\obj\x86\Debug\MyClass.pdb
+D:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\Лабораторные работы\Labs\Старые решения лаб\Lab05\MyClass\MyClass\obj\x86\Debug\MyClass.exe
+D:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\Лабораторные работы\Labs\Старые решения лаб\Lab05\MyClass\MyClass\obj\x86\Debug\MyClass.pdb
+D:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\Лабораторные работы\Labs\Lab06\MyClass\MyClass\obj\x86\Debug\MyClass.exe
+D:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\Лабораторные работы\Labs\Lab06\MyClass\MyClass\obj\x86\Debug\MyClass.pdb
+D:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\Лабораторные работы\Labs\Lab06\MyClass\MyClass\bin\Debug\MyClass.exe
+D:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\Лабораторные работы\Labs\Lab06\MyClass\MyClass\bin\Debug\MyClass.pdb
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab10\Solution\MyClass\MyClass\obj\x86\Debug\MyClass.exe
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab10\Solution\MyClass\MyClass\obj\x86\Debug\MyClass.pdb

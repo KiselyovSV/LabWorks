@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{31B0839E-762B-49B6-89C4-03922F9E2C16}|Utils.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31B0839E-762B-49B6-89C4-03922F9E2C16}|Utils.csproj|e:\\labworks\\labwork7_2\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31B0839E-762B-49B6-89C4-03922F9E2C16}|Utils.csproj|E:\\LabWorks\\LabWork7_2\\UTILS\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31B0839E-762B-49B6-89C4-03922F9E2C16}|Utils.csproj|solutionrelative:utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -43,8 +43,7 @@
               "RelativeToolTip": "UTILS.CS",
               "ViewState": "AgIAAHIAAAAAAAAAAAAewH8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T13:04:31.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T13:04:31.706Z"
             }
           ]
         }

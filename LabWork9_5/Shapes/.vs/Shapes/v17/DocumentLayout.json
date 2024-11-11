@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LabWorks\\LabWork9_5\\Shapes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F09D6B2E-91B6-444C-831E-8C0933959671}|Shapes\\Shapes.csproj|e:\\labworks\\labwork9_5\\shapes\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09D6B2E-91B6-444C-831E-8C0933959671}|Shapes\\Shapes.csproj|solutionrelative:shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09D6B2E-91B6-444C-831E-8C0933959671}|Shapes\\Shapes.csproj|e:\\labworks\\labwork9_5\\shapes\\shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09D6B2E-91B6-444C-831E-8C0933959671}|Shapes\\Shapes.csproj|solutionrelative:shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09D6B2E-91B6-444C-831E-8C0933959671}|Shapes\\Shapes.csproj|e:\\labworks\\labwork9_5\\shapes\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09D6B2E-91B6-444C-831E-8C0933959671}|Shapes\\Shapes.csproj|solutionrelative:shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09D6B2E-91B6-444C-831E-8C0933959671}|Shapes\\Shapes.csproj|e:\\labworks\\labwork9_5\\shapes\\shapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09D6B2E-91B6-444C-831E-8C0933959671}|Shapes\\Shapes.csproj|solutionrelative:shapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09D6B2E-91B6-444C-831E-8C0933959671}|Shapes\\Shapes.csproj|e:\\labworks\\labwork9_5\\shapes\\shapes\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09D6B2E-91B6-444C-831E-8C0933959671}|Shapes\\Shapes.csproj|solutionrelative:shapes\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09D6B2E-91B6-444C-831E-8C0933959671}|Shapes\\Shapes.csproj|e:\\labworks\\labwork9_5\\shapes\\shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09D6B2E-91B6-444C-831E-8C0933959671}|Shapes\\Shapes.csproj|solutionrelative:shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Point.cs",
+              "DocumentMoniker": "E:\\LabWorks\\LabWork9_5\\Shapes\\Shapes\\Point.cs",
+              "RelativeDocumentMoniker": "Shapes\\Point.cs",
+              "ToolTip": "E:\\LabWorks\\LabWork9_5\\Shapes\\Shapes\\Point.cs",
+              "RelativeToolTip": "Shapes\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:15:29.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "E:\\LabWorks\\LabWork9_5\\Shapes\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Circle.cs",
+              "ToolTip": "E:\\LabWorks\\LabWork9_5\\Shapes\\Shapes\\Circle.cs",
+              "RelativeToolTip": "Shapes\\Circle.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:09:26.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "E:\\LabWorks\\LabWork9_5\\Shapes\\Shapes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Rectangle.cs",
+              "ToolTip": "E:\\LabWorks\\LabWork9_5\\Shapes\\Shapes\\Rectangle.cs",
+              "RelativeToolTip": "Shapes\\Rectangle.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:09:19.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "E:\\LabWorks\\LabWork9_5\\Shapes\\Shapes\\Triangle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Triangle.cs",
+              "ToolTip": "E:\\LabWorks\\LabWork9_5\\Shapes\\Shapes\\Triangle.cs",
+              "RelativeToolTip": "Shapes\\Triangle.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:09:11.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "E:\\LabWorks\\LabWork9_5\\Shapes\\Shapes\\Shape.cs",
+              "RelativeDocumentMoniker": "Shapes\\Shape.cs",
+              "ToolTip": "E:\\LabWorks\\LabWork9_5\\Shapes\\Shapes\\Shape.cs",
+              "RelativeToolTip": "Shapes\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:08:28.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LabWorks\\LabWork9_5\\Shapes\\Shapes\\Program.cs",
+              "RelativeDocumentMoniker": "Shapes\\Program.cs",
+              "ToolTip": "E:\\LabWorks\\LabWork9_5\\Shapes\\Shapes\\Program.cs",
+              "RelativeToolTip": "Shapes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:07:47.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

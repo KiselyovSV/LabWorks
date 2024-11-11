@@ -1,0 +1,10 @@
+E:\LabWorks\LabWork10_2\BANK\obj\Debug\BankSpace.csproj.AssemblyReference.cache
+E:\LabWorks\LabWork10_2\BANK\obj\Debug\BankSpace.csproj.CoreCompileInputs.cache
+E:\LabWorks\LabWork10_2\BANK\obj\Debug\Bank.exe
+E:\LabWorks\LabWork10_2\BANK\obj\Debug\Bank.pdb
+E:\LabWorks\LabWork10_2\BANK\bin\Debug\Bank.exe.config
+E:\LabWorks\LabWork10_2\BANK\bin\Debug\Bank.exe
+E:\LabWorks\LabWork10_2\BANK\bin\Debug\Bank.pdb
+E:\LabWorks\LabWork10_2\BANK\bin\Debug\Banking.dll
+E:\LabWorks\LabWork10_2\BANK\bin\Debug\Banking.pdb
+E:\LabWorks\LabWork10_2\BANK\obj\Debug\BankSpace.csproj.Up2Date

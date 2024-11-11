@@ -1,0 +1,22 @@
+c:\users\пользователь\documents\visual studio 2010\Projects\MyClass\MyClass\bin\Debug\MyClass.exe
+c:\users\пользователь\documents\visual studio 2010\Projects\MyClass\MyClass\bin\Debug\MyClass.pdb
+c:\users\пользователь\documents\visual studio 2010\Projects\MyClass\MyClass\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\пользователь\documents\visual studio 2010\Projects\MyClass\MyClass\obj\x86\Debug\MyClass.exe
+c:\users\пользователь\documents\visual studio 2010\Projects\MyClass\MyClass\obj\x86\Debug\MyClass.pdb
+D:\Лим\for lean\for Технология программирования\УМК_Технологии программирования\Лабораторные работы\Labs\Lab06\MyClass\MyClass\obj\x86\Debug\MyClass.exe
+D:\Лим\for lean\for Технология программирования\УМК_Технологии программирования\Лабораторные работы\Labs\Lab06\MyClass\MyClass\obj\x86\Debug\MyClass.pdb
+D:\Лим\for lean\for Технология программирования\УМК_Технологии программирования\Лабораторные работы\Labs\Lab06\MyClass\MyClass\bin\Debug\MyClass.exe
+D:\Лим\for lean\for Технология программирования\УМК_Технологии программирования\Лабораторные работы\Labs\Lab06\MyClass\MyClass\bin\Debug\MyClass.pdb
+D:\Лим\for lean\for Технология программирования\УМК_Технологии программирования\Лабораторные работы\Labs\Lab06\MyClass\MyClass\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Лим\for lean\for Технология программирования\УМК_Технологии программирования\Лабораторные работы\Labs\Lab06\MyClass_virtual\MyClass\obj\x86\Debug\MyClass.exe
+D:\Лим\for lean\for Технология программирования\УМК_Технологии программирования\Лабораторные работы\Labs\Lab06\MyClass_virtual\MyClass\obj\x86\Debug\MyClass.pdb
+D:\Лим\for lean\for Технология программирования\УМК_Технологии программирования\Лабораторные работы\Labs\Lab06\MyClass_virtual\MyClass\bin\Debug\MyClass.exe
+D:\Лим\for lean\for Технология программирования\УМК_Технологии программирования\Лабораторные работы\Labs\Lab06\MyClass_virtual\MyClass\bin\Debug\MyClass.pdb
+D:\Лим\for lean\for Технология программирования\УМК_Технологии программирования\Лабораторные работы\Labs\Lab06\MyClass_virtual\MyClass\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bayes\Documents\Visual Studio 2012\Projects\Lab06\MyClass_virtual\MyClass\obj\x86\Debug\MyClass.exe
+C:\Users\bayes\Documents\Visual Studio 2012\Projects\Lab06\MyClass_virtual\MyClass\obj\x86\Debug\MyClass.pdb
+C:\Users\bayes\Documents\Visual Studio 2012\Projects\Lab06\MyClass_virtual\MyClass\bin\Debug\MyClass.exe
+C:\Users\bayes\Documents\Visual Studio 2012\Projects\Lab06\MyClass_virtual\MyClass\bin\Debug\MyClass.pdb
+C:\Users\bayes\Documents\Visual Studio 2012\Projects\Lab06\MyClass_virtual\MyClass\obj\x86\Debug\MyClass.csprojResolveAssemblyReference.cache
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab10\Solution\MyClass_3(virtual)\MyClass\obj\x86\Debug\MyClass.exe
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab10\Solution\MyClass_3(virtual)\MyClass\obj\x86\Debug\MyClass.pdb

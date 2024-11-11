@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LabWorks\\LabWork9_3\\MyClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{928AD811-289C-4BA6-9871-7E8BDB7D045E}|MyClass\\MyClass.csproj|e:\\labworks\\labwork9_3\\myclass\\myclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928AD811-289C-4BA6-9871-7E8BDB7D045E}|MyClass\\MyClass.csproj|solutionrelative:myclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928AD811-289C-4BA6-9871-7E8BDB7D045E}|MyClass\\MyClass.csproj|e:\\labworks\\labwork9_3\\myclass\\myclass\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928AD811-289C-4BA6-9871-7E8BDB7D045E}|MyClass\\MyClass.csproj|solutionrelative:myclass\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928AD811-289C-4BA6-9871-7E8BDB7D045E}|MyClass\\MyClass.csproj|e:\\labworks\\labwork9_3\\myclass\\myclass\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928AD811-289C-4BA6-9871-7E8BDB7D045E}|MyClass\\MyClass.csproj|solutionrelative:myclass\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928AD811-289C-4BA6-9871-7E8BDB7D045E}|MyClass\\MyClass.csproj|e:\\labworks\\labwork9_3\\myclass\\myclass\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928AD811-289C-4BA6-9871-7E8BDB7D045E}|MyClass\\MyClass.csproj|solutionrelative:myclass\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "E:\\LabWorks\\LabWork9_3\\MyClass\\MyClass\\Magazine.cs",
+              "RelativeDocumentMoniker": "MyClass\\Magazine.cs",
+              "ToolTip": "E:\\LabWorks\\LabWork9_3\\MyClass\\MyClass\\Magazine.cs",
+              "RelativeToolTip": "MyClass\\Magazine.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:00:16.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "E:\\LabWorks\\LabWork9_3\\MyClass\\MyClass\\Item.cs",
+              "RelativeDocumentMoniker": "MyClass\\Item.cs",
+              "ToolTip": "E:\\LabWorks\\LabWork9_3\\MyClass\\MyClass\\Item.cs",
+              "RelativeToolTip": "MyClass\\Item.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:33:54.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\LabWorks\\LabWork9_3\\MyClass\\MyClass\\Book.cs",
+              "RelativeDocumentMoniker": "MyClass\\Book.cs",
+              "ToolTip": "E:\\LabWorks\\LabWork9_3\\MyClass\\MyClass\\Book.cs",
+              "RelativeToolTip": "MyClass\\Book.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAADwvzwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:02:24.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LabWorks\\LabWork9_3\\MyClass\\MyClass\\Program.cs",
+              "RelativeDocumentMoniker": "MyClass\\Program.cs",
+              "ToolTip": "E:\\LabWorks\\LabWork9_3\\MyClass\\MyClass\\Program.cs",
+              "RelativeToolTip": "MyClass\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:00:58.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LabWorks\\LabWork10_2\\BANK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|BankSpace.csproj|E:\\LabWorks\\LabWork10_2\\BANK\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|BankSpace.csproj|solutionrelative:createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB74B5C9-B13B-40A9-8B4F-6595B8441E91}|..\\Banking\\Banking.csproj|e:\\labworks\\labwork10_2\\banking\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB74B5C9-B13B-40A9-8B4F-6595B8441E91}|..\\Banking\\Banking.csproj|e:\\labworks\\labwork10_2\\banking\\banktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB74B5C9-B13B-40A9-8B4F-6595B8441E91}|..\\Banking\\Banking.csproj|e:\\labworks\\labwork10_2\\banking\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankTransaction.cs",
+              "DocumentMoniker": "E:\\LabWorks\\LabWork10_2\\Banking\\BankTransaction.cs",
+              "RelativeDocumentMoniker": "..\\Banking\\BankTransaction.cs",
+              "ToolTip": "E:\\LabWorks\\LabWork10_2\\Banking\\BankTransaction.cs",
+              "RelativeToolTip": "..\\Banking\\BankTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:09:26.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "E:\\LabWorks\\LabWork10_2\\Banking\\Bank.cs",
+              "RelativeDocumentMoniker": "..\\Banking\\Bank.cs",
+              "ToolTip": "E:\\LabWorks\\LabWork10_2\\Banking\\Bank.cs",
+              "RelativeToolTip": "..\\Banking\\Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:03:29.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "E:\\LabWorks\\LabWork10_2\\Banking\\BankAccount.cs",
+              "RelativeDocumentMoniker": "..\\Banking\\BankAccount.cs",
+              "ToolTip": "E:\\LabWorks\\LabWork10_2\\Banking\\BankAccount.cs",
+              "RelativeToolTip": "..\\Banking\\BankAccount.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:03:02.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateAccount.cs",
+              "DocumentMoniker": "E:\\LabWorks\\LabWork10_2\\BANK\\CREATEACCOUNT.CS",
+              "RelativeDocumentMoniker": "CREATEACCOUNT.CS",
+              "ToolTip": "E:\\LabWorks\\LabWork10_2\\BANK\\CREATEACCOUNT.CS*",
+              "RelativeToolTip": "CREATEACCOUNT.CS*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:01:51.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
