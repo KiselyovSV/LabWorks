@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Shapes
 {
-    internal class Rectangle: Shape
+    internal class Rectangle: Shape, IRotatable
     {
         public double SideAB { get; private set; }
         public double SideBC { get; private set; }
@@ -62,6 +62,11 @@ namespace Shapes
                     $"Сторона BC равна: {SideBC}\nСторона CD равна: {SideAB}\n" +
                     $"Сторона DA равна: {SideBC}\nПериметр прямоугольника равен: {Perim:F2}\nПлощадь прямоугольника равна: {Area:F2}");
             }
+        }
+
+        public void Rotation()
+        {
+            Console.WriteLine("Прямоугольник вращается.");
         }
 
     }

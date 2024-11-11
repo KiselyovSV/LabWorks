@@ -6,20 +6,20 @@ using System.Threading.Tasks;
 
 namespace Shapes
 {
-    internal class Triangle: Shape
+    internal class Triangle : Shape, IRotatable
     {
-        public double SideAB {  get; set; }
+        public double SideAB { get; set; }
         public double SideBC { get; set; }
         public double SideCA { get; set; }
-        
+
         private double area;
-        public override double Area 
-        { 
-         get=> area; 
-         protected set
+        public override double Area
+        {
+            get => area;
+            protected set
             {
                 if (double.IsNaN(value)) Console.WriteLine("Треугольник НЕ СУЩЕСТВУЕТ!");
-            else area = value;
+                else area = value;
             }
         }
         public override double Perim { get; protected set; }
@@ -42,12 +42,12 @@ namespace Shapes
         public override void СalculationArea()
         {
             double half = (SideAB + SideBC + SideCA) / 2;
-            Area = Math.Sqrt(half*(half-SideAB)*(half - SideBC)*(half - SideCA));
+            Area = Math.Sqrt(half * (half - SideAB) * (half - SideBC) * (half - SideCA));
         }
 
         public override void СalculationPerim()
         {
-         Perim = SideAB+SideBC+SideCA;
+            Perim = SideAB + SideBC + SideCA;
         }
 
         public override void Show()
@@ -57,7 +57,13 @@ namespace Shapes
                 $"Периметр равен: {Perim:F2}\nПлощадь треугольника равна: {Area:F2}");
         }
 
-
-
+        public void Rotation()
+        {
+            Console.WriteLine("Треугольник вращается.");
+        }
     }
+
+
+
 }
+
