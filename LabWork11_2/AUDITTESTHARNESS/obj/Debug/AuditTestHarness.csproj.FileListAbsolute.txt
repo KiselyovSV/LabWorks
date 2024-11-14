@@ -1,0 +1,9 @@
+E:\LabWorks\LabWork11_2\AUDITTESTHARNESS\obj\Debug\AuditTestHarness.csproj.AssemblyReference.cache
+E:\LabWorks\LabWork11_2\AUDITTESTHARNESS\obj\Debug\AuditTestHarness.csproj.CoreCompileInputs.cache
+E:\LabWorks\LabWork11_2\AUDITTESTHARNESS\bin\Debug\AuditTestHarness.exe
+E:\LabWorks\LabWork11_2\AUDITTESTHARNESS\bin\Debug\AuditTestHarness.pdb
+E:\LabWorks\LabWork11_2\AUDITTESTHARNESS\bin\Debug\Audit.dll
+E:\LabWorks\LabWork11_2\AUDITTESTHARNESS\bin\Debug\Audit.pdb
+E:\LabWorks\LabWork11_2\AUDITTESTHARNESS\obj\Debug\AuditTes.95127368.Up2Date
+E:\LabWorks\LabWork11_2\AUDITTESTHARNESS\obj\Debug\AuditTestHarness.exe
+E:\LabWorks\LabWork11_2\AUDITTESTHARNESS\obj\Debug\AuditTestHarness.pdb

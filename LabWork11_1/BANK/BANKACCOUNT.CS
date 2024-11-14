@@ -113,9 +113,34 @@ namespace Banking
 		{
 			Dispose();
 		}
-        public static bool operator ==(BankAccount acc1, BankAccount acc2)
-        {
-            
-        }
-    }
+		public static bool operator ==(BankAccount acc1, BankAccount acc2)
+		{
+			if (acc1.accNo == acc2.accNo && acc1.accBal == acc2.accBal && acc1.accType == acc2.accType) return true;
+			else return false;
+
+		}
+		public static bool operator !=(BankAccount acc1, BankAccount acc2)
+		{
+			return !(acc1 == acc2);
+
+		}
+		public override bool Equals(object obj)
+		{
+			if (obj is BankAccount acc) return (this == acc);
+			else return false;
+			
+		}
+		public override string ToString()
+		{
+			string retVal = "Номер счёта: " + this.accNo + "\tТип: ";
+			retVal += (this.accType == AccountType.Checking) ?
+			"Проверка" : "Депозит";
+			retVal += "\tБаланс: " + this.accBal;
+			return retVal;
+		}
+		public override int GetHashCode()
+		{
+			return (int)this.accNo;
+		}
+	}
 }

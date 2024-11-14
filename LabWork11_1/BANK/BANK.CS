@@ -44,7 +44,7 @@ namespace Banking
 		public static bool CloseAccount(long accNo)
 		{
 			BankAccount closing = (BankAccount)accounts[accNo];
-			if (closing != null)
+			if (closing.Equals(null))
 			{
 				accounts.Remove(accNo);
 				closing.Dispose();

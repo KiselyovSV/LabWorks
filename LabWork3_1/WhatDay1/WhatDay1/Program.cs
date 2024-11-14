@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace WhatDay1
 {
@@ -19,9 +20,7 @@ namespace WhatDay1
             November,
             December,
         }
-        static System.Collections.ICollection DaysInMonths
-           = new int[12] { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
-
+        static ICollection DaysInMonths = new int[12] { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
         static void Main(string[] args)
         {
             //Start:

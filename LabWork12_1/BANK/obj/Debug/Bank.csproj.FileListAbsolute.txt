@@ -1,0 +1,6 @@
+E:\LabWorks\LabWork12_1\BANK\obj\Debug\Bank.csproj.AssemblyReference.cache
+E:\LabWorks\LabWork12_1\BANK\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+E:\LabWorks\LabWork12_1\BANK\bin\Debug\Bank.dll
+E:\LabWorks\LabWork12_1\BANK\bin\Debug\Bank.pdb
+E:\LabWorks\LabWork12_1\BANK\obj\Debug\Bank.dll
+E:\LabWorks\LabWork12_1\BANK\obj\Debug\Bank.pdb

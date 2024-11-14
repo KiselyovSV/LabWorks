@@ -1,0 +1,6 @@
+E:\LabWorks\LabWork11_2\AUDIT\bin\Debug\Audit.dll
+E:\LabWorks\LabWork11_2\AUDIT\bin\Debug\Audit.pdb
+E:\LabWorks\LabWork11_2\AUDIT\obj\Debug\Audit.csproj.AssemblyReference.cache
+E:\LabWorks\LabWork11_2\AUDIT\obj\Debug\Audit.csproj.CoreCompileInputs.cache
+E:\LabWorks\LabWork11_2\AUDIT\obj\Debug\Audit.dll
+E:\LabWorks\LabWork11_2\AUDIT\obj\Debug\Audit.pdb
