@@ -1,0 +1,60 @@
+E:\LabWorks\Development of Windows applications in C#\ControlWork\SeaBattle\SeaBattle\bin\Debug\net8.0-windows\SeaBattle.exe
+E:\LabWorks\Development of Windows applications in C#\ControlWork\SeaBattle\SeaBattle\bin\Debug\net8.0-windows\SeaBattle.deps.json
+E:\LabWorks\Development of Windows applications in C#\ControlWork\SeaBattle\SeaBattle\bin\Debug\net8.0-windows\SeaBattle.runtimeconfig.json
+E:\LabWorks\Development of Windows applications in C#\ControlWork\SeaBattle\SeaBattle\bin\Debug\net8.0-windows\SeaBattle.dll
+E:\LabWorks\Development of Windows applications in C#\ControlWork\SeaBattle\SeaBattle\bin\Debug\net8.0-windows\SeaBattle.pdb
+E:\LabWorks\Development of Windows applications in C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.Form1.resources
+E:\LabWorks\Development of Windows applications in C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.Properties.Resources.resources
+E:\LabWorks\Development of Windows applications in C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.csproj.GenerateResource.cache
+E:\LabWorks\Development of Windows applications in C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabWorks\Development of Windows applications in C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.AssemblyInfoInputs.cache
+E:\LabWorks\Development of Windows applications in C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.AssemblyInfo.cs
+E:\LabWorks\Development of Windows applications in C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.csproj.CoreCompileInputs.cache
+E:\LabWorks\Development of Windows applications in C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.sourcelink.json
+E:\LabWorks\Development of Windows applications in C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.dll
+E:\LabWorks\Development of Windows applications in C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\refint\SeaBattle.dll
+E:\LabWorks\Development of Windows applications in C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.pdb
+E:\LabWorks\Development of Windows applications in C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.genruntimeconfig.cache
+E:\LabWorks\Development of Windows applications in C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\ref\SeaBattle.dll
+E:\LabWorks\Development of Windows applications in C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.PlFields.resources
+E:\LabWorks\Development of Windows applications in C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.YouLost.resources
+E:\LabWorks\Development_of_Windows_applications_in_C#\ControlWork\SeaBattle\SeaBattle\bin\Debug\net8.0-windows\SeaBattle.exe
+E:\LabWorks\Development_of_Windows_applications_in_C#\ControlWork\SeaBattle\SeaBattle\bin\Debug\net8.0-windows\SeaBattle.deps.json
+E:\LabWorks\Development_of_Windows_applications_in_C#\ControlWork\SeaBattle\SeaBattle\bin\Debug\net8.0-windows\SeaBattle.runtimeconfig.json
+E:\LabWorks\Development_of_Windows_applications_in_C#\ControlWork\SeaBattle\SeaBattle\bin\Debug\net8.0-windows\SeaBattle.dll
+E:\LabWorks\Development_of_Windows_applications_in_C#\ControlWork\SeaBattle\SeaBattle\bin\Debug\net8.0-windows\SeaBattle.pdb
+E:\LabWorks\Development_of_Windows_applications_in_C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.Form1.resources
+E:\LabWorks\Development_of_Windows_applications_in_C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.YouLost.resources
+E:\LabWorks\Development_of_Windows_applications_in_C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.PlFields.resources
+E:\LabWorks\Development_of_Windows_applications_in_C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.Properties.Resources.resources
+E:\LabWorks\Development_of_Windows_applications_in_C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.csproj.GenerateResource.cache
+E:\LabWorks\Development_of_Windows_applications_in_C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabWorks\Development_of_Windows_applications_in_C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.AssemblyInfoInputs.cache
+E:\LabWorks\Development_of_Windows_applications_in_C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.AssemblyInfo.cs
+E:\LabWorks\Development_of_Windows_applications_in_C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.csproj.CoreCompileInputs.cache
+E:\LabWorks\Development_of_Windows_applications_in_C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.sourcelink.json
+E:\LabWorks\Development_of_Windows_applications_in_C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.dll
+E:\LabWorks\Development_of_Windows_applications_in_C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\refint\SeaBattle.dll
+E:\LabWorks\Development_of_Windows_applications_in_C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.pdb
+E:\LabWorks\Development_of_Windows_applications_in_C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.genruntimeconfig.cache
+E:\LabWorks\Development_of_Windows_applications_in_C#\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\ref\SeaBattle.dll
+E:\LabWorks\Development_of_Windows_applications\ControlWork\SeaBattle\SeaBattle\bin\Debug\net8.0-windows\SeaBattle.exe
+E:\LabWorks\Development_of_Windows_applications\ControlWork\SeaBattle\SeaBattle\bin\Debug\net8.0-windows\SeaBattle.deps.json
+E:\LabWorks\Development_of_Windows_applications\ControlWork\SeaBattle\SeaBattle\bin\Debug\net8.0-windows\SeaBattle.runtimeconfig.json
+E:\LabWorks\Development_of_Windows_applications\ControlWork\SeaBattle\SeaBattle\bin\Debug\net8.0-windows\SeaBattle.dll
+E:\LabWorks\Development_of_Windows_applications\ControlWork\SeaBattle\SeaBattle\bin\Debug\net8.0-windows\SeaBattle.pdb
+E:\LabWorks\Development_of_Windows_applications\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.Form1.resources
+E:\LabWorks\Development_of_Windows_applications\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.YouLost.resources
+E:\LabWorks\Development_of_Windows_applications\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.PlFields.resources
+E:\LabWorks\Development_of_Windows_applications\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.Properties.Resources.resources
+E:\LabWorks\Development_of_Windows_applications\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.csproj.GenerateResource.cache
+E:\LabWorks\Development_of_Windows_applications\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabWorks\Development_of_Windows_applications\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.AssemblyInfoInputs.cache
+E:\LabWorks\Development_of_Windows_applications\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.AssemblyInfo.cs
+E:\LabWorks\Development_of_Windows_applications\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.csproj.CoreCompileInputs.cache
+E:\LabWorks\Development_of_Windows_applications\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.sourcelink.json
+E:\LabWorks\Development_of_Windows_applications\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.dll
+E:\LabWorks\Development_of_Windows_applications\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\refint\SeaBattle.dll
+E:\LabWorks\Development_of_Windows_applications\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.pdb
+E:\LabWorks\Development_of_Windows_applications\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\SeaBattle.genruntimeconfig.cache
+E:\LabWorks\Development_of_Windows_applications\ControlWork\SeaBattle\SeaBattle\obj\Debug\net8.0-windows\ref\SeaBattle.dll

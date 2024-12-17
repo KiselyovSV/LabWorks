@@ -1,0 +1,17 @@
+E:\LabWorks\Development of Windows applications in C#\LabWork2_2( ListBox,ComboBox,CheckedListBox)\TestList\TestList\bin\Debug\net8.0-windows\TestList.exe
+E:\LabWorks\Development of Windows applications in C#\LabWork2_2( ListBox,ComboBox,CheckedListBox)\TestList\TestList\bin\Debug\net8.0-windows\TestList.deps.json
+E:\LabWorks\Development of Windows applications in C#\LabWork2_2( ListBox,ComboBox,CheckedListBox)\TestList\TestList\bin\Debug\net8.0-windows\TestList.runtimeconfig.json
+E:\LabWorks\Development of Windows applications in C#\LabWork2_2( ListBox,ComboBox,CheckedListBox)\TestList\TestList\bin\Debug\net8.0-windows\TestList.dll
+E:\LabWorks\Development of Windows applications in C#\LabWork2_2( ListBox,ComboBox,CheckedListBox)\TestList\TestList\bin\Debug\net8.0-windows\TestList.pdb
+E:\LabWorks\Development of Windows applications in C#\LabWork2_2( ListBox,ComboBox,CheckedListBox)\TestList\TestList\obj\Debug\net8.0-windows\TestList.Form1.resources
+E:\LabWorks\Development of Windows applications in C#\LabWork2_2( ListBox,ComboBox,CheckedListBox)\TestList\TestList\obj\Debug\net8.0-windows\TestList.csproj.GenerateResource.cache
+E:\LabWorks\Development of Windows applications in C#\LabWork2_2( ListBox,ComboBox,CheckedListBox)\TestList\TestList\obj\Debug\net8.0-windows\TestList.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabWorks\Development of Windows applications in C#\LabWork2_2( ListBox,ComboBox,CheckedListBox)\TestList\TestList\obj\Debug\net8.0-windows\TestList.AssemblyInfoInputs.cache
+E:\LabWorks\Development of Windows applications in C#\LabWork2_2( ListBox,ComboBox,CheckedListBox)\TestList\TestList\obj\Debug\net8.0-windows\TestList.AssemblyInfo.cs
+E:\LabWorks\Development of Windows applications in C#\LabWork2_2( ListBox,ComboBox,CheckedListBox)\TestList\TestList\obj\Debug\net8.0-windows\TestList.csproj.CoreCompileInputs.cache
+E:\LabWorks\Development of Windows applications in C#\LabWork2_2( ListBox,ComboBox,CheckedListBox)\TestList\TestList\obj\Debug\net8.0-windows\TestList.sourcelink.json
+E:\LabWorks\Development of Windows applications in C#\LabWork2_2( ListBox,ComboBox,CheckedListBox)\TestList\TestList\obj\Debug\net8.0-windows\TestList.dll
+E:\LabWorks\Development of Windows applications in C#\LabWork2_2( ListBox,ComboBox,CheckedListBox)\TestList\TestList\obj\Debug\net8.0-windows\refint\TestList.dll
+E:\LabWorks\Development of Windows applications in C#\LabWork2_2( ListBox,ComboBox,CheckedListBox)\TestList\TestList\obj\Debug\net8.0-windows\TestList.pdb
+E:\LabWorks\Development of Windows applications in C#\LabWork2_2( ListBox,ComboBox,CheckedListBox)\TestList\TestList\obj\Debug\net8.0-windows\TestList.genruntimeconfig.cache
+E:\LabWorks\Development of Windows applications in C#\LabWork2_2( ListBox,ComboBox,CheckedListBox)\TestList\TestList\obj\Debug\net8.0-windows\ref\TestList.dll

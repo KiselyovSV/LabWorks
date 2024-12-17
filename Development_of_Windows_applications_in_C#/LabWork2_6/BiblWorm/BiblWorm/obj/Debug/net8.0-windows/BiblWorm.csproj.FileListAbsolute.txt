@@ -1,0 +1,17 @@
+E:\LabWorks\Development of Windows applications in C#\LabWork2_6\BiblWorm\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.exe
+E:\LabWorks\Development of Windows applications in C#\LabWork2_6\BiblWorm\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.deps.json
+E:\LabWorks\Development of Windows applications in C#\LabWork2_6\BiblWorm\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.runtimeconfig.json
+E:\LabWorks\Development of Windows applications in C#\LabWork2_6\BiblWorm\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.dll
+E:\LabWorks\Development of Windows applications in C#\LabWork2_6\BiblWorm\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.pdb
+E:\LabWorks\Development of Windows applications in C#\LabWork2_6\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.Form1.resources
+E:\LabWorks\Development of Windows applications in C#\LabWork2_6\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.csproj.GenerateResource.cache
+E:\LabWorks\Development of Windows applications in C#\LabWork2_6\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabWorks\Development of Windows applications in C#\LabWork2_6\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.AssemblyInfoInputs.cache
+E:\LabWorks\Development of Windows applications in C#\LabWork2_6\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.AssemblyInfo.cs
+E:\LabWorks\Development of Windows applications in C#\LabWork2_6\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.csproj.CoreCompileInputs.cache
+E:\LabWorks\Development of Windows applications in C#\LabWork2_6\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.sourcelink.json
+E:\LabWorks\Development of Windows applications in C#\LabWork2_6\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.dll
+E:\LabWorks\Development of Windows applications in C#\LabWork2_6\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\refint\BiblWorm.dll
+E:\LabWorks\Development of Windows applications in C#\LabWork2_6\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.pdb
+E:\LabWorks\Development of Windows applications in C#\LabWork2_6\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.genruntimeconfig.cache
+E:\LabWorks\Development of Windows applications in C#\LabWork2_6\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\ref\BiblWorm.dll

@@ -1,0 +1,17 @@
+E:\LabWorks\Development of Windows applications in C#\LabWork2_5(Panel, GroupBox)\WinContainer\WinContainer\bin\Debug\net8.0-windows\WinContainer.exe
+E:\LabWorks\Development of Windows applications in C#\LabWork2_5(Panel, GroupBox)\WinContainer\WinContainer\bin\Debug\net8.0-windows\WinContainer.deps.json
+E:\LabWorks\Development of Windows applications in C#\LabWork2_5(Panel, GroupBox)\WinContainer\WinContainer\bin\Debug\net8.0-windows\WinContainer.runtimeconfig.json
+E:\LabWorks\Development of Windows applications in C#\LabWork2_5(Panel, GroupBox)\WinContainer\WinContainer\bin\Debug\net8.0-windows\WinContainer.dll
+E:\LabWorks\Development of Windows applications in C#\LabWork2_5(Panel, GroupBox)\WinContainer\WinContainer\bin\Debug\net8.0-windows\WinContainer.pdb
+E:\LabWorks\Development of Windows applications in C#\LabWork2_5(Panel, GroupBox)\WinContainer\WinContainer\obj\Debug\net8.0-windows\WinContainer.Form1.resources
+E:\LabWorks\Development of Windows applications in C#\LabWork2_5(Panel, GroupBox)\WinContainer\WinContainer\obj\Debug\net8.0-windows\WinContainer.csproj.GenerateResource.cache
+E:\LabWorks\Development of Windows applications in C#\LabWork2_5(Panel, GroupBox)\WinContainer\WinContainer\obj\Debug\net8.0-windows\WinContainer.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabWorks\Development of Windows applications in C#\LabWork2_5(Panel, GroupBox)\WinContainer\WinContainer\obj\Debug\net8.0-windows\WinContainer.AssemblyInfoInputs.cache
+E:\LabWorks\Development of Windows applications in C#\LabWork2_5(Panel, GroupBox)\WinContainer\WinContainer\obj\Debug\net8.0-windows\WinContainer.AssemblyInfo.cs
+E:\LabWorks\Development of Windows applications in C#\LabWork2_5(Panel, GroupBox)\WinContainer\WinContainer\obj\Debug\net8.0-windows\WinContainer.csproj.CoreCompileInputs.cache
+E:\LabWorks\Development of Windows applications in C#\LabWork2_5(Panel, GroupBox)\WinContainer\WinContainer\obj\Debug\net8.0-windows\WinContainer.sourcelink.json
+E:\LabWorks\Development of Windows applications in C#\LabWork2_5(Panel, GroupBox)\WinContainer\WinContainer\obj\Debug\net8.0-windows\WinContainer.dll
+E:\LabWorks\Development of Windows applications in C#\LabWork2_5(Panel, GroupBox)\WinContainer\WinContainer\obj\Debug\net8.0-windows\refint\WinContainer.dll
+E:\LabWorks\Development of Windows applications in C#\LabWork2_5(Panel, GroupBox)\WinContainer\WinContainer\obj\Debug\net8.0-windows\WinContainer.pdb
+E:\LabWorks\Development of Windows applications in C#\LabWork2_5(Panel, GroupBox)\WinContainer\WinContainer\obj\Debug\net8.0-windows\WinContainer.genruntimeconfig.cache
+E:\LabWorks\Development of Windows applications in C#\LabWork2_5(Panel, GroupBox)\WinContainer\WinContainer\obj\Debug\net8.0-windows\ref\WinContainer.dll

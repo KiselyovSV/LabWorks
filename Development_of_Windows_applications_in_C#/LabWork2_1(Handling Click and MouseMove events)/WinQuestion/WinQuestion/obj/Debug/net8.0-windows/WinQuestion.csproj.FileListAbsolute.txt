@@ -1,0 +1,17 @@
+E:\LabWorks\Development of Windows applications in C#\LabWork2_1(Handling Click and MouseMove events)\WinQuestion\WinQuestion\bin\Debug\net8.0-windows\WinQuestion.exe
+E:\LabWorks\Development of Windows applications in C#\LabWork2_1(Handling Click and MouseMove events)\WinQuestion\WinQuestion\bin\Debug\net8.0-windows\WinQuestion.deps.json
+E:\LabWorks\Development of Windows applications in C#\LabWork2_1(Handling Click and MouseMove events)\WinQuestion\WinQuestion\bin\Debug\net8.0-windows\WinQuestion.runtimeconfig.json
+E:\LabWorks\Development of Windows applications in C#\LabWork2_1(Handling Click and MouseMove events)\WinQuestion\WinQuestion\bin\Debug\net8.0-windows\WinQuestion.dll
+E:\LabWorks\Development of Windows applications in C#\LabWork2_1(Handling Click and MouseMove events)\WinQuestion\WinQuestion\bin\Debug\net8.0-windows\WinQuestion.pdb
+E:\LabWorks\Development of Windows applications in C#\LabWork2_1(Handling Click and MouseMove events)\WinQuestion\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.Form1.resources
+E:\LabWorks\Development of Windows applications in C#\LabWork2_1(Handling Click and MouseMove events)\WinQuestion\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.csproj.GenerateResource.cache
+E:\LabWorks\Development of Windows applications in C#\LabWork2_1(Handling Click and MouseMove events)\WinQuestion\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabWorks\Development of Windows applications in C#\LabWork2_1(Handling Click and MouseMove events)\WinQuestion\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.AssemblyInfoInputs.cache
+E:\LabWorks\Development of Windows applications in C#\LabWork2_1(Handling Click and MouseMove events)\WinQuestion\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.AssemblyInfo.cs
+E:\LabWorks\Development of Windows applications in C#\LabWork2_1(Handling Click and MouseMove events)\WinQuestion\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.csproj.CoreCompileInputs.cache
+E:\LabWorks\Development of Windows applications in C#\LabWork2_1(Handling Click and MouseMove events)\WinQuestion\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.sourcelink.json
+E:\LabWorks\Development of Windows applications in C#\LabWork2_1(Handling Click and MouseMove events)\WinQuestion\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.dll
+E:\LabWorks\Development of Windows applications in C#\LabWork2_1(Handling Click and MouseMove events)\WinQuestion\WinQuestion\obj\Debug\net8.0-windows\refint\WinQuestion.dll
+E:\LabWorks\Development of Windows applications in C#\LabWork2_1(Handling Click and MouseMove events)\WinQuestion\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.pdb
+E:\LabWorks\Development of Windows applications in C#\LabWork2_1(Handling Click and MouseMove events)\WinQuestion\WinQuestion\obj\Debug\net8.0-windows\WinQuestion.genruntimeconfig.cache
+E:\LabWorks\Development of Windows applications in C#\LabWork2_1(Handling Click and MouseMove events)\WinQuestion\WinQuestion\obj\Debug\net8.0-windows\ref\WinQuestion.dll
