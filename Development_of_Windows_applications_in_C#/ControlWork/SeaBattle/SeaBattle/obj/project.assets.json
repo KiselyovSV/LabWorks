@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\LabWorks\\Development_of_Windows_applications\\ControlWork\\SeaBattle\\SeaBattle\\SeaBattle.csproj",
+      "projectUniqueName": "E:\\LabWorks\\Development_of_Windows_applications_in_C#\\ControlWork\\SeaBattle\\SeaBattle\\SeaBattle.csproj",
       "projectName": "SeaBattle",
-      "projectPath": "E:\\LabWorks\\Development_of_Windows_applications\\ControlWork\\SeaBattle\\SeaBattle\\SeaBattle.csproj",
+      "projectPath": "E:\\LabWorks\\Development_of_Windows_applications_in_C#\\ControlWork\\SeaBattle\\SeaBattle\\SeaBattle.csproj",
       "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
-      "outputPath": "E:\\LabWorks\\Development_of_Windows_applications\\ControlWork\\SeaBattle\\SeaBattle\\obj\\",
+      "outputPath": "E:\\LabWorks\\Development_of_Windows_applications_in_C#\\ControlWork\\SeaBattle\\SeaBattle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -18,8 +18,6 @@ namespace SeaBattle
         public static int Quantity3Deck { get; set; } = 2;
 
         public static int Quantity4Deck { get; set; } = 1;
-        
-        
 
     }
 

@@ -8,12 +8,15 @@ using System.Drawing;
 using System.Drawing.Text;
 using System.Linq;
 using System.Media;
+using System.Net.NetworkInformation;
 using System.Net.Sockets;
+using System.Runtime.CompilerServices;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Xml.Linq;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.Button;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.Window;
 
@@ -22,7 +25,7 @@ namespace SeaBattle
     public partial class PlFields : Form
     {
 
-        private YouLost youLost;
+        private YouLost youLost = new YouLost();
 
         private const int mapSize = 11;
 
@@ -34,7 +37,7 @@ namespace SeaBattle
 
         public static int[,] enField = new int[mapSize, mapSize];
 
-        private List<int> myShips = new List<int>(20) { 1, 1, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 5, 6, 6, 6, 7, 7, 7, 7};
+        private List<int> myShips = new List<int>(20) { 1, 1, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 5, 6, 6, 6, 7, 7, 7, 7 };
 
         private List<int> enShips = new List<int>(20) { 1, 1, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 5, 6, 6, 6, 7, 7, 7, 7 };
 
@@ -43,8 +46,10 @@ namespace SeaBattle
         private int quantity = 0;
 
         private Random random = new Random();
-        
-        private bool YouShoot = false;
+
+        private bool youShoot = false;
+
+        string shipsOrient = "";
 
         private int myShots = 4;
 
@@ -64,12 +69,11 @@ namespace SeaBattle
             Thread myThread = new Thread(this.CreateMyMap);
             myThread.Start();
             CreateEnMap();
-            youLost = new YouLost();
             youLost.Activate();
             PerformLayout();
         }
 
-        
+
         private void CreateEnMap()
         {
             Label enLabel = new Label();
@@ -142,7 +146,7 @@ namespace SeaBattle
             myLabel.Text = "ПОЛЕ ИГРОКА";
             this.Controls.Add(myLabel);
         }
-
+        // Name and numbering of coordinate fields
         private void ButtonNamer(int i, int j, Button but)
         {
             if (i == 0 && j > 0)
@@ -174,8 +178,8 @@ namespace SeaBattle
             {
                 condition = true;
                 Ship.Decks = 1;
-                quantity = Ship.Quantity1Deck;
-                textBox1.Text = $"Количество: {Ship.Quantity1Deck}";
+                quantity = Ship.Quantity1Deck; 
+                textBox1.Text = $"КОЛИЧЕСТВО: {Ship.Quantity1Deck}\n  ОБЩЕЕ КОЛИЧЕСТВО: {Total()}";
             }
 
         }
@@ -187,7 +191,7 @@ namespace SeaBattle
                 condition = true;
                 Ship.Decks = 2;
                 quantity = Ship.Quantity2Deck;
-                textBox1.Text = $"Количество: {Ship.Quantity2Deck}";
+                textBox1.Text = $"КОЛИЧЕСТВО: {Ship.Quantity2Deck}\n  ОБЩЕЕ КОЛИЧЕСТВО: {Total()}";
             }
         }
 
@@ -198,7 +202,7 @@ namespace SeaBattle
                 condition = true;
                 Ship.Decks = 3;
                 quantity = Ship.Quantity3Deck;
-                textBox1.Text = $"Количество: {Ship.Quantity3Deck}";
+                textBox1.Text = $"КОЛИЧЕСТВО: {Ship.Quantity3Deck}\n  ОБЩЕЕ КОЛИЧЕСТВО: {Total()}";
             }
         }
 
@@ -209,7 +213,7 @@ namespace SeaBattle
                 condition = true;
                 Ship.Decks = 4;
                 quantity = Ship.Quantity4Deck;
-                textBox1.Text = $"Количество: {Ship.Quantity4Deck}";
+                textBox1.Text = $"КОЛИЧЕСТВО: {Ship.Quantity4Deck}\n  ОБЩЕЕ КОЛИЧЕСТВО: {Total()}";
             }
         }
 
@@ -224,16 +228,17 @@ namespace SeaBattle
                 }
                 if (s != 20) ShipsStacker(enField, enPanel, "enBut", Color.Aquamarine);
                 textBox1.Text = "ТВОЙ ХОД. У ТЕБЯ 4 ВЫСТРЕЛА";
-                YouShoot = true;
+                youShoot = true;
                 startButton.Click -= StartButton_Click;
             }
         }
 
-        async private void enBut_Click(object sender, EventArgs e)
+        private void enBut_Click(object sender, EventArgs e)
         {
-            if (myShots != 0 && YouShoot && Ship.Quantity4Deck == 0 && Ship.Quantity2Deck == 0 && Ship.Quantity3Deck == 0 && Ship.Quantity4Deck == 0)
+            Button but = (Button)sender;
+            int tag = Convert.ToInt32(but.Tag);
+            if (tag != -1 && myShots != 0 && youShoot && Ship.Quantity4Deck == 0 && Ship.Quantity2Deck == 0 && Ship.Quantity3Deck == 0 && Ship.Quantity4Deck == 0)
             {
-                Button but = (Button)sender;
                 if (Convert.ToInt32(but.Tag) > 0)
                 {
                     but.BackColor = Color.Red;
@@ -272,20 +277,18 @@ namespace SeaBattle
                 }
                 else but.Text = "X";
                 myShots--;
-                switch(myShots)
+                switch (myShots)
                 {
-                    case 0: textBox1.Text = $"ТВОЙ ХОД. У ТЕБЯ {myShots} ВЫСТРЕЛОВ";break;
+                    case 0: textBox1.Text = $"ТВОЙ ХОД. У ТЕБЯ {myShots} ВЫСТРЕЛОВ"; break;
                     case 1: textBox1.Text = $"ТВОЙ ХОД. У ТЕБЯ {myShots} ВЫСТРЕЛ"; break;
                     default: textBox1.Text = $"ТВОЙ ХОД. У ТЕБЯ {myShots} ВЫСТРЕЛА"; break;
                 }
             }
             if (myShots == 0)
             {
-                await Task.Delay(2000);
                 textBox1.Text = "ХОД ПРОТИВНИКА";
                 for (int f = 0; f < enShots;)
                 {
-                    await Task.Delay(1000);
                     int i = random.Next(1, 11);
                     int j = random.Next(1, 11);
                     if (Convert.ToInt32(myPanel.Controls[$"myBut{i}{j}"].Tag) > 0 && myPanel.Controls[$"myBut{i}{j}"].BackColor != Color.Red)
@@ -356,45 +359,66 @@ namespace SeaBattle
                 textBox1.Text = "НАЖМИ КНОПКУ \"СТАРТ\"";
                 autoButton.Click -= AutoButton_Click;
                 condition = false;
+                quantity = 0;
+                radioButton1.CheckedChanged -= RadioButton1_CheckedChanged;
+                radioButton2.CheckedChanged -= RadioButton2_CheckedChanged;
+                radioButton3.CheckedChanged -= RadioButton3_CheckedChanged;
+                radioButton4.CheckedChanged -= RadioButton4_CheckedChanged;
             }
-            
+
         }
 
         // Automatic placement of ships
         private void ShipsStacker(int[,] array, Panel panel, string str, Color color)
-        {    
-                BuilderOf4Deck(array, panel, str, color);
-                BuilderOf3Deck(array, panel, str, color);
-                BuilderOf2Deck(array, panel, str, color);
-                BuilderOf1Deck(array, panel, str, color);
-               
-            
+        {
+            BuilderOf4Deck(array, panel, str, color);
+            BuilderOf3Deck(array, panel, str, color);
+            BuilderOf2Deck(array, panel, str, color);
+            BuilderOf1Deck(array, panel, str, color);
+
+
         }
 
         // Manual placement of ships
         private void myBut_Click(object sender, EventArgs e)
         {
 
-            if (YouShoot==false &&  quantity != 0 || condition)
+            if (youShoot == false && quantity != 0 || condition)
             {
+                int tag = 0;
+                switch (Ship.Decks)
+                {
+                    case 1: tag = 1; break;
+                    case 2:
+                        switch (quantity)
+                        {
+                            case 3: tag = 4; break;
+                            case 2: tag = 3; break;
+                            case 1: tag = 2; break;
+                        }
+                        break;
+                    case 3:
+                        switch (quantity)
+                        {
+                            case 2: tag = 6; break;
+                            case 1: tag = 5; break;
+                        }
+                        break;
+                    case 4: tag = 7; break;
+                }
                 Button but0 = sender as Button;
                 int i = but0.Location.X / cellSize;
                 int j = but0.Location.Y / cellSize;
-                if (i != 0 && j != 0)
+                if (i != 0 && j != 0 && myField[i, j] != 2 && myField[i, j] != 1)
                 {
                     but0.BackColor = Color.Black;
-                    but0.Tag = 1;
+                    but0.Tag = tag;
                     myField[i, j] = 1;
-                    for (int b = 1; b < Ship.Decks; b++)
-                    {
-                        i++;
-                        myPanel.Controls[$"myBut{i}{j}"].BackColor = Color.Black;
-                        myPanel.Controls[$"myBut{i}{j}"].Tag = 1;
-                        myField[i, j] = 1;
-                    }
+                    if (shipsOrient == "j++" && (j == 10 && Ship.Decks > 1 || j == 9 && Ship.Decks > 2 || j == 8 && Ship.Decks > 3)) ShipRenderer(i, j, "j--", tag);
+                    else if (shipsOrient == "i++" && (i == 10 && Ship.Decks > 1 || i == 9 && Ship.Decks > 2 || i == 8 && Ship.Decks > 3)) ShipRenderer(i, j, "i--", tag);
+                    else ShipRenderer(i, j, shipsOrient, tag);
+                    quantity--;
                 }
-                quantity--;
-                textBox1.Text = $"Количество: {quantity}";
                 condition = false;
                 switch (Ship.Decks)
                 {
@@ -411,12 +435,66 @@ namespace SeaBattle
                         Ship.Quantity4Deck -= 1;
                         break;
                 }
-            }
+                textBox1.Text = $"КОЛИЧЕСТВО: {quantity}\n  ОБЩЕЕ КОЛИЧЕСТВО: {Total()}";
 
-            if (YouShoot == false && Ship.Quantity1Deck == 0 && Ship.Quantity2Deck == 0 && Ship.Quantity3Deck == 0 && Ship.Quantity4Deck == 0)
+                if (youShoot == false && Ship.Quantity1Deck == 0 && Ship.Quantity2Deck == 0 && Ship.Quantity3Deck == 0 && Ship.Quantity4Deck == 0)
+                {
+                    textBox1.Text = "НАЖМИ КНОПКУ \"СТАРТ\"";
+                    condition = false;
+                }
+            }
+        }
+        // Ship renderer in manual placement of ships
+        private void ShipRenderer(int i, int j, string incr, int tag)
+        {
+            for (int b = 1; b < Ship.Decks; b++)
             {
-                textBox1.Text = "НАЖМИ КНОПКУ \"СТАРТ\"";
-                condition = false;
+                switch (incr)
+                {
+                    case "i++": i++; break;
+                    case "i--": i--; break;
+                    case "j++": j++; break;
+                    case "j--": j--; break;
+                }
+
+                int t = Convert.ToInt32(myPanel.Controls[$"myBut{i}{j}"].Tag);
+                if (t > 0)
+                {
+                    for (int c = 1; c < Ship.Decks; c++)
+                    {
+                        switch (incr)
+                        {
+                            case "i++": i--; break;
+                            case "i--": i++; break;
+                            case "j++": j--; break;
+                            case "j--": j++; break;
+                        }
+                        if (i > 10 || j > 10) break;
+                        myPanel.Controls[$"myBut{i}{j}"].BackColor = Color.Aquamarine;
+                        myPanel.Controls[$"myBut{i}{j}"].Tag = 0;
+                        myField[i, j] = 0;
+                    }
+                    switch (Ship.Decks)
+                    {
+                        case 1:
+                            Ship.Quantity1Deck += 1;
+                            break;
+                        case 2:
+                            Ship.Quantity2Deck += 1;
+                            break;
+                        case 3:
+                            Ship.Quantity3Deck += 1;
+                            break;
+                        case 4:
+                            Ship.Quantity4Deck += 1;
+                            break;
+                    }
+                    quantity++;
+                    return;
+                }
+                myPanel.Controls[$"myBut{i}{j}"].BackColor = Color.Black;
+                myPanel.Controls[$"myBut{i}{j}"].Tag = tag;
+                myField[i, j] = 1;
             }
         }
 
@@ -479,7 +557,7 @@ namespace SeaBattle
                         mas[k, j_] = 1;
                         break;
                     }
-                    else if (k == j && i_< 11 && k < 11 && mas[i_, k] == 0)
+                    else if (k == j && i_ < 11 && k < 11 && mas[i_, k] == 0)
                     {
                         panel.Controls[$"{s}{i_}{k}"].BackColor = color;
                         panel.Controls[$"{s}{i_}{k}"].Tag = v;
@@ -496,7 +574,7 @@ namespace SeaBattle
                         mas[i, j] = 0;
                     }
                 }
-                if (Ship.Quantity2Deck>0) Ship.Quantity2Deck -= 1;
+                if (Ship.Quantity2Deck > 0) Ship.Quantity2Deck -= 1;
             }
         }
         // Automatically set three-deck ships
@@ -723,11 +801,11 @@ namespace SeaBattle
                     panel.Controls[$"{s}{i}{j}"].Tag = 0;
                     mas[i, j] = 0;
                 }
-               
+
             }
             if (Ship.Quantity2Deck > 0) Ship.Quantity4Deck -= 1;
         }
-
+        // Circles ships with array elements with a value equal to 2
         private void Fence(int v, int z, int[,] mas)
         {
             for (int a = v - 1; a < v + 2; a++)
@@ -753,8 +831,8 @@ namespace SeaBattle
             this.condition = false;
 
             this.quantity = 0;
-                       
-            this.YouShoot = false;
+
+            this.youShoot = false;
 
             this.myShots = 4;
 
@@ -791,12 +869,30 @@ namespace SeaBattle
                     enField[i, j] = 0;
                 }
             }
+            radioButton1.CheckedChanged += RadioButton1_CheckedChanged;
+            radioButton2.CheckedChanged += RadioButton2_CheckedChanged;
+            radioButton3.CheckedChanged += RadioButton3_CheckedChanged;
+            radioButton4.CheckedChanged += RadioButton4_CheckedChanged;
             startButton.Click += StartButton_Click;
             autoButton.Click += AutoButton_Click;
             youLost.Hide();
         }
 
-       
+        private void VerticalBut_Click(object sender, EventArgs e)
+        {
+            shipsOrient = "j++";
+        }
+
+        private void HorizontalBut_Click(object sender, EventArgs e)
+        {
+            shipsOrient = "i++";
+        }
+
+        private int Total()
+        {
+            int x = Ship.Quantity1Deck + Ship.Quantity2Deck + Ship.Quantity3Deck + Ship.Quantity4Deck;
+            return x;
+        }
     }
 }
 
