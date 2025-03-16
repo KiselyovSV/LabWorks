@@ -10,3 +10,9 @@ E:\LabWorks\Programming in C#\LabWork8_3\FINALIZERS\obj\Debug\Finalizers.exe
 E:\LabWorks\Programming in C#\LabWork8_3\FINALIZERS\obj\Debug\Finalizers.pdb
 E:\LabWorks\Programming in C#\LabWork8_3\FINALIZERS\bin\Debug\Finalizers.exe
 E:\LabWorks\Programming in C#\LabWork8_3\FINALIZERS\bin\Debug\Finalizers.pdb
+E:\LabWorks\Programming_in_C#\LabWork8_3\FINALIZERS\bin\Debug\Finalizers.exe
+E:\LabWorks\Programming_in_C#\LabWork8_3\FINALIZERS\bin\Debug\Finalizers.pdb
+E:\LabWorks\Programming_in_C#\LabWork8_3\FINALIZERS\obj\Debug\Finalizers.csproj.AssemblyReference.cache
+E:\LabWorks\Programming_in_C#\LabWork8_3\FINALIZERS\obj\Debug\Finalizers.csproj.CoreCompileInputs.cache
+E:\LabWorks\Programming_in_C#\LabWork8_3\FINALIZERS\obj\Debug\Finalizers.exe
+E:\LabWorks\Programming_in_C#\LabWork8_3\FINALIZERS\obj\Debug\Finalizers.pdb

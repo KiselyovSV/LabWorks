@@ -1,26 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\LabWorks\\Programming in C#\\LabWork8_3\\FINALIZERS\\",
+  "WorkspaceRootPath": "E:\\LabWorks\\Programming_in_C#\\LabWork8_3\\FINALIZERS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Finalizers.csproj|e:\\labworks\\programming in c#\\labwork8_3\\finalizers\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Finalizers.csproj|e:\\labworks\\programming_in_c#\\labwork8_3\\finalizers\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Finalizers.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Finalizers.csproj|E:\\LabWorks\\Programming in C#\\LabWork8_3\\FINALIZERS\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Finalizers.csproj|e:\\labworks\\programming_in_c#\\labwork8_3\\finalizers\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Finalizers.csproj|solutionrelative:createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Finalizers.csproj|E:\\LabWorks\\Programming in C#\\LabWork8_3\\FINALIZERS\\banktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Finalizers.csproj|solutionrelative:banktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Finalizers.csproj|E:\\LabWorks\\Programming in C#\\LabWork8_3\\FINALIZERS\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Finalizers.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Finalizers.csproj|E:\\LabWorks\\Programming in C#\\LabWork8_3\\FINALIZERS\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Finalizers.csproj|solutionrelative:accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "E:\\LabWorks\\Programming in C#\\LabWork8_3\\FINALIZERS\\ASSEMBLYINFO.CS",
-              "RelativeDocumentMoniker": "ASSEMBLYINFO.CS",
-              "ToolTip": "E:\\LabWorks\\Programming in C#\\LabWork8_3\\FINALIZERS\\ASSEMBLYINFO.CS",
-              "RelativeToolTip": "ASSEMBLYINFO.CS",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "E:\\LabWorks\\Programming_in_C#\\LabWork8_3\\FINALIZERS\\BANKACCOUNT.CS",
+              "RelativeDocumentMoniker": "BANKACCOUNT.CS",
+              "ToolTip": "E:\\LabWorks\\Programming_in_C#\\LabWork8_3\\FINALIZERS\\BANKACCOUNT.CS",
+              "RelativeToolTip": "BANKACCOUNT.CS",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T21:45:15.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AccountType.cs",
-              "DocumentMoniker": "E:\\LabWorks\\Programming in C#\\LabWork8_3\\FINALIZERS\\ACCOUNTTYPE.CS",
-              "RelativeDocumentMoniker": "ACCOUNTTYPE.CS",
-              "ToolTip": "E:\\LabWorks\\Programming in C#\\LabWork8_3\\FINALIZERS\\ACCOUNTTYPE.CS",
-              "RelativeToolTip": "ACCOUNTTYPE.CS",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T21:45:13.486Z",
+              "WhenOpened": "2025-02-27T11:57:53.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CreateAccount.cs",
-              "DocumentMoniker": "E:\\LabWorks\\Programming in C#\\LabWork8_3\\FINALIZERS\\CREATEACCOUNT.CS",
+              "DocumentMoniker": "E:\\LabWorks\\Programming_in_C#\\LabWork8_3\\FINALIZERS\\CREATEACCOUNT.CS",
               "RelativeDocumentMoniker": "CREATEACCOUNT.CS",
-              "ToolTip": "E:\\LabWorks\\Programming in C#\\LabWork8_3\\FINALIZERS\\CREATEACCOUNT.CS",
+              "ToolTip": "E:\\LabWorks\\Programming_in_C#\\LabWork8_3\\FINALIZERS\\CREATEACCOUNT.CS",
               "RelativeToolTip": "CREATEACCOUNT.CS",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T15:06:46.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BankAccount.cs",
-              "DocumentMoniker": "E:\\LabWorks\\Programming in C#\\LabWork8_3\\FINALIZERS\\BANKACCOUNT.CS",
-              "RelativeDocumentMoniker": "BANKACCOUNT.CS",
-              "ToolTip": "E:\\LabWorks\\Programming in C#\\LabWork8_3\\FINALIZERS\\BANKACCOUNT.CS",
-              "RelativeToolTip": "BANKACCOUNT.CS",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwEgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T14:44:20.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BankTransaction.cs",
-              "DocumentMoniker": "E:\\LabWorks\\Programming in C#\\LabWork8_3\\FINALIZERS\\BANKTRANSACTION.CS",
-              "RelativeDocumentMoniker": "BANKTRANSACTION.CS",
-              "ToolTip": "E:\\LabWorks\\Programming in C#\\LabWork8_3\\FINALIZERS\\BANKTRANSACTION.CS",
-              "RelativeToolTip": "BANKTRANSACTION.CS",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T14:44:22.968Z",
+              "WhenOpened": "2025-02-27T11:56:50.907Z",
               "EditorCaption": ""
             }
           ]

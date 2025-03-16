@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LabWorks\\Development_of_Windows_applications_in_C#\\PracticalLesson1_1\\WpfHello\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D05A36A-E7F3-4BBD-9913-CD99C63A2CAA}|WpfHello\\WpfHello.csproj|e:\\labworks\\development_of_windows_applications_in_c#\\practicallesson1_1\\wpfhello\\wpfhello\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{9D05A36A-E7F3-4BBD-9913-CD99C63A2CAA}|WpfHello\\WpfHello.csproj|solutionrelative:wpfhello\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D05A36A-E7F3-4BBD-9913-CD99C63A2CAA}|WpfHello\\WpfHello.csproj|e:\\labworks\\development_of_windows_applications_in_c#\\practicallesson1_1\\wpfhello\\wpfhello\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D05A36A-E7F3-4BBD-9913-CD99C63A2CAA}|WpfHello\\WpfHello.csproj|solutionrelative:wpfhello\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D05A36A-E7F3-4BBD-9913-CD99C63A2CAA}|WpfHello\\WpfHello.csproj|e:\\labworks\\development_of_windows_applications_in_c#\\practicallesson1_1\\wpfhello\\wpfhello\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D05A36A-E7F3-4BBD-9913-CD99C63A2CAA}|WpfHello\\WpfHello.csproj|solutionrelative:wpfhello\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 344,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\LabWorks\\Development_of_Windows_applications_in_C#\\PracticalLesson1_1\\WpfHello\\WpfHello\\App.xaml",
+              "RelativeDocumentMoniker": "WpfHello\\App.xaml",
+              "ToolTip": "E:\\LabWorks\\Development_of_Windows_applications_in_C#\\PracticalLesson1_1\\WpfHello\\WpfHello\\App.xaml",
+              "RelativeToolTip": "WpfHello\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T11:56:11.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\LabWorks\\Development_of_Windows_applications_in_C#\\PracticalLesson1_1\\WpfHello\\WpfHello\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfHello\\MainWindow.xaml",
+              "ToolTip": "E:\\LabWorks\\Development_of_Windows_applications_in_C#\\PracticalLesson1_1\\WpfHello\\WpfHello\\MainWindow.xaml",
+              "RelativeToolTip": "WpfHello\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T11:49:42.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\LabWorks\\Development_of_Windows_applications_in_C#\\PracticalLesson1_1\\WpfHello\\WpfHello\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfHello\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\LabWorks\\Development_of_Windows_applications_in_C#\\PracticalLesson1_1\\WpfHello\\WpfHello\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfHello\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:15:44.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 56,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 344,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

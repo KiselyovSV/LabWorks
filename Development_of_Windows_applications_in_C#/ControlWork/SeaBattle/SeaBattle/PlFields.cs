@@ -289,6 +289,9 @@ namespace SeaBattle
                 textBox1.Text = "ХОД ПРОТИВНИКА";
                 for (int f = 0; f < enShots;)
                 {
+                    Task task = new Task(()=> Thread.Sleep(2000));
+                    task.Start();
+                    task.Wait();
                     int i = random.Next(1, 11);
                     int j = random.Next(1, 11);
                     if (Convert.ToInt32(myPanel.Controls[$"myBut{i}{j}"].Tag) > 0 && myPanel.Controls[$"myBut{i}{j}"].BackColor != Color.Red)

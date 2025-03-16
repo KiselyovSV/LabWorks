@@ -1,0 +1,50 @@
+﻿<Window x:Class="WpfAppAdo.net.AdditionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppAdo.net"
+        mc:Ignorable="d" Height="650" Width="1200" Background="#FFB0D2EF" Title="Введите следующие данные:" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Icon="/___83.png">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Left">Дата регистрации (год, месяц, дата):</TextBlock>
+        <TextBox Name="dateRegBox" Grid.Row="1" MinWidth="250" PreviewMouseLeftButtonDown="dateRegBox_PreviewMouseLeftButtonDown">ГГГГ-ММ-ДД</TextBox>
+        <TextBlock Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Left">Наименование организации, проводившей сертификацию:</TextBlock>
+        <TextBox x:Name="certOrgNameBox" Grid.Row="3" MinWidth="250" Text="Наименование" PreviewMouseLeftButtonDown="certOrgNameBox_PreviewMouseLeftButtonDown"/>
+        <TextBlock Grid.Row="4" VerticalAlignment="Center" HorizontalAlignment="Left">ИНН организации, проводившей сертификацию:</TextBlock>
+        <TextBox Name="innCetOrgBox" Grid.Row="5" MinWidth="250" Text="Номер ИНН" PreviewMouseLeftButtonDown="innCetOrgBox_PreviewMouseLeftButtonDown"/>
+        <TextBlock Grid.Row="6" VerticalAlignment="Center" HorizontalAlignment="Left">Наименование компании - производителя:</TextBlock>
+        <TextBox Name="mkrNameBox" Grid.Row="7" MinWidth="250" Text="Наименование" PreviewMouseLeftButtonDown="mkrNameBox_PreviewMouseLeftButtonDown"/>
+        <TextBlock Grid.Row="8" VerticalAlignment="Center" HorizontalAlignment="Left">ИНН компании - производителя:</TextBlock>
+        <TextBox Name="innMkrOrgBox" Grid.Row="9" MinWidth="250" Text="Номер ИНН" PreviewMouseLeftButtonDown="innMkrOrgBox_PreviewMouseLeftButtonDown"/>
+        <TextBlock Grid.Row="10" VerticalAlignment="Center" HorizontalAlignment="Left">Сертификационный номер:</TextBlock>
+        <TextBox Name="sertNumBox" Grid.Row="11" MinWidth="250" Text="Номер сертификата" PreviewMouseLeftButtonDown="sertNumBox_PreviewMouseLeftButtonDown"/>
+        <TextBlock Grid.Row="12" VerticalAlignment="Center" HorizontalAlignment="Left">Дата начала проведеня сертификации (год, месяц, дата):</TextBlock>
+        <TextBox Name="sertDateBox" Grid.Row="13" MinWidth="250" Text="ГГГГ-ММ-ДД" PreviewMouseLeftButtonDown="sertDateBox_PreviewMouseLeftButtonDown"/>
+        <TextBlock Grid.Row="14" VerticalAlignment="Center" HorizontalAlignment="Left">Дата окончания действия сертификата (год, месяц, дата):</TextBlock>
+        <TextBox Name="endDateBox" Grid.Row="15" MinWidth="250" Text="ГГГГ-ММ-ДД" PreviewMouseLeftButtonDown="endDateBox_PreviewMouseLeftButtonDown"/>
+        <TextBlock Grid.Row="16" VerticalAlignment="Center" HorizontalAlignment="Left">Статус сертификата соответствия (Действует, Прекращен, Приостановлен):</TextBlock>
+        <TextBox x:Name="statusBox" Grid.Row="17" MinWidth="250" Text="Статус" PreviewMouseLeftButtonDown="statusBox_PreviewMouseLeftButtonDown"/>
+        <Button x:Name="btnAccept" Grid.Row="18" IsDefault="True" MinWidth="60" Click="btnAccept_Click" Content="OK" HorizontalAlignment="Center" Width="106" Margin="0,62,0,-62" Height="36"/>
+    </Grid>
+</Window>

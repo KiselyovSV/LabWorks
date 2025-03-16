@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\LabWorks\\LabWork8_2\\CONSTRUCTORS\\",
+  "WorkspaceRootPath": "E:\\LabWorks\\Programming_in_C#\\LabWork8_2\\CONSTRUCTORS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Constructors.csproj|e:\\labworks\\labwork8_2\\constructors\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Constructors.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Constructors.csproj|e:\\labworks\\programming_in_c#\\labwork8_2\\constructors\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Constructors.csproj|solutionrelative:createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Constructors.csproj|E:\\LabWorks\\LabWork8_2\\CONSTRUCTORS\\banktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Constructors.csproj|e:\\labworks\\programming_in_c#\\labwork8_2\\constructors\\banktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Constructors.csproj|solutionrelative:banktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Constructors.csproj|E:\\LabWorks\\LabWork8_2\\CONSTRUCTORS\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Constructors.csproj|solutionrelative:createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Constructors.csproj|e:\\labworks\\programming_in_c#\\labwork8_2\\constructors\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Constructors.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,42 +25,67 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateAccount.cs",
-              "DocumentMoniker": "E:\\LabWorks\\LabWork8_2\\CONSTRUCTORS\\CREATEACCOUNT.CS",
-              "RelativeDocumentMoniker": "CREATEACCOUNT.CS",
-              "ToolTip": "E:\\LabWorks\\LabWork8_2\\CONSTRUCTORS\\CREATEACCOUNT.CS",
-              "RelativeToolTip": "CREATEACCOUNT.CS",
-              "ViewState": "AgIAAA8AAAAAAAAAAAApwBQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T13:44:03.065Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BankAccount.cs",
-              "DocumentMoniker": "E:\\LabWorks\\LabWork8_2\\CONSTRUCTORS\\BANKACCOUNT.CS",
-              "RelativeDocumentMoniker": "BANKACCOUNT.CS",
-              "ToolTip": "E:\\LabWorks\\LabWork8_2\\CONSTRUCTORS\\BANKACCOUNT.CS",
-              "RelativeToolTip": "BANKACCOUNT.CS",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Title": "CreateAccount.cs",
+              "DocumentMoniker": "E:\\LabWorks\\Programming_in_C#\\LabWork8_2\\CONSTRUCTORS\\CREATEACCOUNT.CS",
+              "RelativeDocumentMoniker": "CREATEACCOUNT.CS",
+              "ToolTip": "E:\\LabWorks\\Programming_in_C#\\LabWork8_2\\CONSTRUCTORS\\CREATEACCOUNT.CS",
+              "RelativeToolTip": "CREATEACCOUNT.CS",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T13:38:58.843Z",
+              "WhenOpened": "2025-02-27T08:09:16.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "BankTransaction.cs",
-              "DocumentMoniker": "E:\\LabWorks\\LabWork8_2\\CONSTRUCTORS\\BankTransaction.cs",
+              "DocumentMoniker": "E:\\LabWorks\\Programming_in_C#\\LabWork8_2\\CONSTRUCTORS\\BankTransaction.cs",
               "RelativeDocumentMoniker": "BankTransaction.cs",
-              "ToolTip": "E:\\LabWorks\\LabWork8_2\\CONSTRUCTORS\\BankTransaction.cs",
+              "ToolTip": "E:\\LabWorks\\Programming_in_C#\\LabWork8_2\\CONSTRUCTORS\\BankTransaction.cs",
               "RelativeToolTip": "BankTransaction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T13:17:08.814Z",
+              "WhenOpened": "2025-02-27T08:09:14.484Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "E:\\LabWorks\\Programming_in_C#\\LabWork8_2\\CONSTRUCTORS\\BANKACCOUNT.CS",
+              "RelativeDocumentMoniker": "BANKACCOUNT.CS",
+              "ToolTip": "E:\\LabWorks\\Programming_in_C#\\LabWork8_2\\CONSTRUCTORS\\BANKACCOUNT.CS",
+              "RelativeToolTip": "BANKACCOUNT.CS",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:38:58.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1668,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1431,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

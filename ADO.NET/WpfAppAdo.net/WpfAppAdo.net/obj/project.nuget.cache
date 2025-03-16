@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HyfGOFaqQT8=",
+  "success": true,
+  "projectFilePath": "E:\\LabWorks\\ADO.NET\\WpfAppAdo.net\\WpfAppAdo.net\\WpfAppAdo.net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Сергей\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Сергей\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Сергей\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
