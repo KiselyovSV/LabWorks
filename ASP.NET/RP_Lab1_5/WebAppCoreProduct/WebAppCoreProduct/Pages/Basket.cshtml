@@ -1,0 +1,23 @@
+﻿@page "{handler?}"
+@model WebAppCoreProduct.Pages.BasketModel
+@{
+    
+}
+@if (BasketModel.Basket?.products is not null)
+{
+    <ul>
+        @foreach (var product in BasketModel.Basket.products)
+        {
+            <li>Продукт: @product.Name,  цена: @product.Price, цена со скидкой:@product.DiscontPrice</li>
+        }
+    </ul>
+}
+<form method="post">
+    <label for="name">Название товара</label><br />
+    <input type="text" name="name" /><br /><br />
+    <input type="submit" asp-page-handler="Remove" value="Удалить товар из корзины" /><br /><br />
+</form>
+
+
+<h3>@BasketModel.BasketMessageRezult</h3>
+

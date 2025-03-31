@@ -133,7 +133,7 @@ namespace WpfAppAdo.net {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfAppAdo.net;V1.0.0.0;component/additionwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WpfAppAdo.net;component/additionwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\AdditionWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

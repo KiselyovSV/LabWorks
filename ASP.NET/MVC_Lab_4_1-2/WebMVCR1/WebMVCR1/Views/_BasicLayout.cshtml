@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="@Url.Content("../../Content/Site.css")" rel="stylesheet" type="text/css" />
+   @*  <link type="text/css" rel="stylesheet" href="~/Content/Site.css" /> *@
+</head>
+<body>
+    <h1>ОАО "Добро пожаловать"</h1>
+    <div>
+    @* <div style="padding: 20px; border: solid medium green; font-size: 20pt"> *@
+        @RenderBody()
+    </div>
+</body>
+</html>

@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4\\WebMVCR1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86976A08-AF59-4E2A-8C1B-53E876DC08D5}|WebMVCR1\\WebMVCR1.csproj|e:\\labworks\\asp.net\\mvc_lab_4\\webmvcr1\\webmvcr1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86976A08-AF59-4E2A-8C1B-53E876DC08D5}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86976A08-AF59-4E2A-8C1B-53E876DC08D5}|WebMVCR1\\WebMVCR1.csproj|e:\\labworks\\asp.net\\mvc_lab_4\\webmvcr1\\webmvcr1\\views\\_basiclayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86976A08-AF59-4E2A-8C1B-53E876DC08D5}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\views\\_basiclayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86976A08-AF59-4E2A-8C1B-53E876DC08D5}|WebMVCR1\\WebMVCR1.csproj|e:\\labworks\\asp.net\\mvc_lab_4\\webmvcr1\\webmvcr1\\wwwroot\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{86976A08-AF59-4E2A-8C1B-53E876DC08D5}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\wwwroot\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86976A08-AF59-4E2A-8C1B-53E876DC08D5}|WebMVCR1\\WebMVCR1.csproj|e:\\labworks\\asp.net\\mvc_lab_4\\webmvcr1\\webmvcr1\\views\\home\\inputdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86976A08-AF59-4E2A-8C1B-53E876DC08D5}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\views\\home\\inputdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4\\WebMVCR1\\WebMVCR1\\Program.cs",
+              "RelativeDocumentMoniker": "WebMVCR1\\Program.cs",
+              "ToolTip": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4\\WebMVCR1\\WebMVCR1\\Program.cs",
+              "RelativeToolTip": "WebMVCR1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:44:47.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputData.cshtml",
+              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4\\WebMVCR1\\WebMVCR1\\Views\\Home\\InputData.cshtml",
+              "RelativeDocumentMoniker": "WebMVCR1\\Views\\Home\\InputData.cshtml",
+              "ToolTip": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4\\WebMVCR1\\WebMVCR1\\Views\\Home\\InputData.cshtml",
+              "RelativeToolTip": "WebMVCR1\\Views\\Home\\InputData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T07:17:45.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site.css",
+              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4\\WebMVCR1\\WebMVCR1\\wwwroot\\Content\\Site.css",
+              "RelativeDocumentMoniker": "WebMVCR1\\wwwroot\\Content\\Site.css",
+              "ToolTip": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4\\WebMVCR1\\WebMVCR1\\wwwroot\\Content\\Site.css",
+              "RelativeToolTip": "WebMVCR1\\wwwroot\\Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-31T07:09:53.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_BasicLayout.cshtml",
+              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4\\WebMVCR1\\WebMVCR1\\Views\\_BasicLayout.cshtml",
+              "RelativeDocumentMoniker": "WebMVCR1\\Views\\_BasicLayout.cshtml",
+              "ToolTip": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4\\WebMVCR1\\WebMVCR1\\Views\\_BasicLayout.cshtml",
+              "RelativeToolTip": "WebMVCR1\\Views\\_BasicLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T20:23:47.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1668,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

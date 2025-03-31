@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "kptxBL7B+RmfPBJIVFtquwfSd4z8o/hli1SeKulRVlI=",
+  "Source": "WebMVCR1",
+  "BasePath": "_content/WebMVCR1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebMVCR1\\wwwroot",
+      "Source": "WebMVCR1",
+      "ContentRoot": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4\\WebMVCR1\\WebMVCR1\\wwwroot\\",
+      "BasePath": "_content/WebMVCR1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4\\WebMVCR1\\WebMVCR1\\wwwroot\\Content\\Site.css",
+      "SourceId": "WebMVCR1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4\\WebMVCR1\\WebMVCR1\\wwwroot\\",
+      "BasePath": "_content/WebMVCR1",
+      "RelativePath": "Content/Site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dhpv2zq6vv",
+      "Integrity": "P5+JP+ZFZ/Puir9Q1hZetF1thj3aMh0puxNlDHCl0kI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Content\\Site.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Content/Site.css",
+      "AssetFile": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4\\WebMVCR1\\WebMVCR1\\wwwroot\\Content\\Site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "374"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P5+JP+ZFZ/Puir9Q1hZetF1thj3aMh0puxNlDHCl0kI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 07:16:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P5+JP+ZFZ/Puir9Q1hZetF1thj3aMh0puxNlDHCl0kI="
+        }
+      ]
+    },
+    {
+      "Route": "Content/Site.dhpv2zq6vv.css",
+      "AssetFile": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4\\WebMVCR1\\WebMVCR1\\wwwroot\\Content\\Site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "374"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P5+JP+ZFZ/Puir9Q1hZetF1thj3aMh0puxNlDHCl0kI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 07:16:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dhpv2zq6vv"
+        },
+        {
+          "Name": "label",
+          "Value": "Content/Site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P5+JP+ZFZ/Puir9Q1hZetF1thj3aMh0puxNlDHCl0kI="
+        }
+      ]
+    }
+  ]
+}
