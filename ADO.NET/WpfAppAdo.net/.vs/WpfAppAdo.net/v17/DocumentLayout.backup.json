@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{A933E28C-1EE5-4CE1-B2ED-F32B777333E0}|WpfAppAdo.net\\WpfAppAdo.net.csproj|solutionrelative:wpfappado.net\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A933E28C-1EE5-4CE1-B2ED-F32B777333E0}|WpfAppAdo.net\\WpfAppAdo.net.csproj|e:\\labworks\\ado.net\\wpfappado.net\\wpfappado.net\\additionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A933E28C-1EE5-4CE1-B2ED-F32B777333E0}|WpfAppAdo.net\\WpfAppAdo.net.csproj|solutionrelative:wpfappado.net\\additionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A933E28C-1EE5-4CE1-B2ED-F32B777333E0}|WpfAppAdo.net\\WpfAppAdo.net.csproj|e:\\labworks\\ado.net\\wpfappado.net\\wpfappado.net\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A933E28C-1EE5-4CE1-B2ED-F32B777333E0}|WpfAppAdo.net\\WpfAppAdo.net.csproj|solutionrelative:wpfappado.net\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A933E28C-1EE5-4CE1-B2ED-F32B777333E0}|WpfAppAdo.net\\WpfAppAdo.net.csproj|e:\\labworks\\ado.net\\wpfappado.net\\wpfappado.net\\additionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A933E28C-1EE5-4CE1-B2ED-F32B777333E0}|WpfAppAdo.net\\WpfAppAdo.net.csproj|solutionrelative:wpfappado.net\\additionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A933E28C-1EE5-4CE1-B2ED-F32B777333E0}|WpfAppAdo.net\\WpfAppAdo.net.csproj|e:\\labworks\\ado.net\\wpfappado.net\\wpfappado.net\\additionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A933E28C-1EE5-4CE1-B2ED-F32B777333E0}|WpfAppAdo.net\\WpfAppAdo.net.csproj|solutionrelative:wpfappado.net\\additionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A933E28C-1EE5-4CE1-B2ED-F32B777333E0}|WpfAppAdo.net\\WpfAppAdo.net.csproj|e:\\labworks\\ado.net\\wpfappado.net\\wpfappado.net\\passwordwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
@@ -69,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "E:\\LabWorks\\ADO.NET\\WpfAppAdo.net\\WpfAppAdo.net\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfAppAdo.net\\MainWindow.xaml",
@@ -80,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AdditionWindow.xaml",
               "DocumentMoniker": "E:\\LabWorks\\ADO.NET\\WpfAppAdo.net\\WpfAppAdo.net\\AdditionWindow.xaml",
               "RelativeDocumentMoniker": "WpfAppAdo.net\\AdditionWindow.xaml",
@@ -109,14 +109,14 @@
               "RelativeDocumentMoniker": "WpfAppAdo.net\\MainWindow.xaml.cs",
               "ToolTip": "E:\\LabWorks\\ADO.NET\\WpfAppAdo.net\\WpfAppAdo.net\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfAppAdo.net\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAoBAAAAAAAAAAAAAAIBAABjAAAAAAAAAA==",
+              "ViewState": "AgIAAPMAAAAAAAAAAAA1wAMBAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T11:26:01.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AdditionWindow.xaml.cs",
               "DocumentMoniker": "E:\\LabWorks\\ADO.NET\\WpfAppAdo.net\\WpfAppAdo.net\\AdditionWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfAppAdo.net\\AdditionWindow.xaml.cs",
@@ -124,8 +124,7 @@
               "RelativeToolTip": "WpfAppAdo.net\\AdditionWindow.xaml.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAnwEIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T20:49:59.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T20:49:59.095Z"
             }
           ]
         },

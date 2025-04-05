@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\LabWorks\\ASP.NET\\Lab1_2\\WebAppCoreProduct\\",
+  "WorkspaceRootPath": "E:\\LabWorks\\ASP.NET\\RP_Lab1_2\\WebAppCoreProduct\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|e:\\labworks\\asp.net\\lab1_2\\webappcoreproduct\\webappcoreproduct\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|solutionrelative:webappcoreproduct\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|e:\\labworks\\asp.net\\lab1_2\\webappcoreproduct\\webappcoreproduct\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|solutionrelative:webappcoreproduct\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|e:\\labworks\\asp.net\\lab1_2\\webappcoreproduct\\webappcoreproduct\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|solutionrelative:webappcoreproduct\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|e:\\labworks\\asp.net\\lab1_2\\webappcoreproduct\\webappcoreproduct\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|solutionrelative:webappcoreproduct\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|e:\\labworks\\asp.net\\lab1_2\\webappcoreproduct\\webappcoreproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|e:\\labworks\\asp.net\\rp_lab1_2\\webappcoreproduct\\webappcoreproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|solutionrelative:webappcoreproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|e:\\labworks\\asp.net\\lab1_2\\webappcoreproduct\\webappcoreproduct\\webappcoreproduct.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|e:\\labworks\\asp.net\\rp_lab1_2\\webappcoreproduct\\webappcoreproduct\\webappcoreproduct.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|solutionrelative:webappcoreproduct\\webappcoreproduct.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|e:\\labworks\\asp.net\\rp_lab1_2\\webappcoreproduct\\webappcoreproduct\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|solutionrelative:webappcoreproduct\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|e:\\labworks\\asp.net\\rp_lab1_2\\webappcoreproduct\\webappcoreproduct\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|solutionrelative:webappcoreproduct\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|e:\\labworks\\asp.net\\rp_lab1_2\\webappcoreproduct\\webappcoreproduct\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|solutionrelative:webappcoreproduct\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|e:\\labworks\\asp.net\\rp_lab1_2\\webappcoreproduct\\webappcoreproduct\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|solutionrelative:webappcoreproduct\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 344,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,24 +58,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
-              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\Models\\Product.cs",
+              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\RP_Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\Models\\Product.cs",
               "RelativeDocumentMoniker": "WebAppCoreProduct\\Models\\Product.cs",
-              "ToolTip": "E:\\LabWorks\\ASP.NET\\Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\Models\\Product.cs",
+              "ToolTip": "E:\\LabWorks\\ASP.NET\\RP_Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\Models\\Product.cs",
               "RelativeToolTip": "WebAppCoreProduct\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T15:38:35.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T15:38:35.185Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\Pages\\_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\RP_Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "WebAppCoreProduct\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "E:\\LabWorks\\ASP.NET\\Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "E:\\LabWorks\\ASP.NET\\RP_Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\Pages\\_ViewImports.cshtml",
               "RelativeToolTip": "WebAppCoreProduct\\Pages\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -84,11 +83,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\Pages\\Index.cshtml.cs",
+              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\RP_Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "WebAppCoreProduct\\Pages\\Index.cshtml.cs",
-              "ToolTip": "E:\\LabWorks\\ASP.NET\\Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\Pages\\Index.cshtml.cs",
+              "ToolTip": "E:\\LabWorks\\ASP.NET\\RP_Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "WebAppCoreProduct\\Pages\\Index.cshtml.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -97,11 +96,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\Pages\\Index.cshtml",
+              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\RP_Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "WebAppCoreProduct\\Pages\\Index.cshtml",
-              "ToolTip": "E:\\LabWorks\\ASP.NET\\Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\Pages\\Index.cshtml",
+              "ToolTip": "E:\\LabWorks\\ASP.NET\\RP_Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\Pages\\Index.cshtml",
               "RelativeToolTip": "WebAppCoreProduct\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -110,27 +109,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "WebAppCoreProduct.csproj",
-              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\WebAppCoreProduct.csproj",
+              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\RP_Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\WebAppCoreProduct.csproj",
               "RelativeDocumentMoniker": "WebAppCoreProduct\\WebAppCoreProduct.csproj",
-              "ToolTip": "E:\\LabWorks\\ASP.NET\\Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\WebAppCoreProduct.csproj",
+              "ToolTip": "E:\\LabWorks\\ASP.NET\\RP_Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\WebAppCoreProduct.csproj",
               "RelativeToolTip": "WebAppCoreProduct\\WebAppCoreProduct.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-22T14:43:04.341Z"
+              "WhenOpened": "2025-03-22T14:43:04.341Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\Program.cs",
+              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\RP_Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\Program.cs",
               "RelativeDocumentMoniker": "WebAppCoreProduct\\Program.cs",
-              "ToolTip": "E:\\LabWorks\\ASP.NET\\Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\Program.cs",
+              "ToolTip": "E:\\LabWorks\\ASP.NET\\RP_Lab1_2\\WebAppCoreProduct\\WebAppCoreProduct\\Program.cs",
               "RelativeToolTip": "WebAppCoreProduct\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T14:43:14.498Z"
+              "WhenOpened": "2025-03-22T14:43:14.498Z",
+              "EditorCaption": ""
             }
           ]
         },
