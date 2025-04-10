@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4_3\\MvcDataViews\\",
+  "WorkspaceRootPath": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4_3(Valid)\\MvcDataViews\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6A7F4DE-CEE6-4330-A30A-60B11F1D9538}|MvcDataViews\\MvcDataViews.csproj|e:\\labworks\\asp.net\\mvc_lab_4_3\\mvcdataviews\\mvcdataviews\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6A7F4DE-CEE6-4330-A30A-60B11F1D9538}|MvcDataViews\\MvcDataViews.csproj|e:\\labworks\\asp.net\\mvc_lab_4_3(valid)\\mvcdataviews\\mvcdataviews\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A7F4DE-CEE6-4330-A30A-60B11F1D9538}|MvcDataViews\\MvcDataViews.csproj|solutionrelative:mvcdataviews\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A7F4DE-CEE6-4330-A30A-60B11F1D9538}|MvcDataViews\\MvcDataViews.csproj|e:\\labworks\\asp.net\\mvc_lab_4_3(valid)\\mvcdataviews\\mvcdataviews\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6A7F4DE-CEE6-4330-A30A-60B11F1D9538}|MvcDataViews\\MvcDataViews.csproj|solutionrelative:mvcdataviews\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6A7F4DE-CEE6-4330-A30A-60B11F1D9538}|MvcDataViews\\MvcDataViews.csproj|e:\\labworks\\asp.net\\mvc_lab_4_3\\mvcdataviews\\mvcdataviews\\views\\person\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F6A7F4DE-CEE6-4330-A30A-60B11F1D9538}|MvcDataViews\\MvcDataViews.csproj|e:\\labworks\\asp.net\\mvc_lab_4_3(valid)\\mvcdataviews\\mvcdataviews\\views\\person\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F6A7F4DE-CEE6-4330-A30A-60B11F1D9538}|MvcDataViews\\MvcDataViews.csproj|solutionrelative:mvcdataviews\\views\\person\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A7F4DE-CEE6-4330-A30A-60B11F1D9538}|MvcDataViews\\MvcDataViews.csproj|e:\\labworks\\asp.net\\mvc_lab_4_3\\mvcdataviews\\mvcdataviews\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6A7F4DE-CEE6-4330-A30A-60B11F1D9538}|MvcDataViews\\MvcDataViews.csproj|solutionrelative:mvcdataviews\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,42 +46,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Person.cs",
-              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4_3\\MvcDataViews\\MvcDataViews\\Models\\Person.cs",
+              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4_3(Valid)\\MvcDataViews\\MvcDataViews\\Models\\Person.cs",
               "RelativeDocumentMoniker": "MvcDataViews\\Models\\Person.cs",
-              "ToolTip": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4_3\\MvcDataViews\\MvcDataViews\\Models\\Person.cs",
+              "ToolTip": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4_3(Valid)\\MvcDataViews\\MvcDataViews\\Models\\Person.cs",
               "RelativeToolTip": "MvcDataViews\\Models\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T11:08:51.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PersonController.cs",
-              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4_3\\MvcDataViews\\MvcDataViews\\Controllers\\PersonController.cs",
+              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4_3(Valid)\\MvcDataViews\\MvcDataViews\\Controllers\\PersonController.cs",
               "RelativeDocumentMoniker": "MvcDataViews\\Controllers\\PersonController.cs",
-              "ToolTip": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4_3\\MvcDataViews\\MvcDataViews\\Controllers\\PersonController.cs",
+              "ToolTip": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4_3(Valid)\\MvcDataViews\\MvcDataViews\\Controllers\\PersonController.cs",
               "RelativeToolTip": "MvcDataViews\\Controllers\\PersonController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAACoAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wCoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T10:30:24.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T10:30:24.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4_3\\MvcDataViews\\MvcDataViews\\Views\\Person\\Create.cshtml",
+              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4_3(Valid)\\MvcDataViews\\MvcDataViews\\Views\\Person\\Create.cshtml",
               "RelativeDocumentMoniker": "MvcDataViews\\Views\\Person\\Create.cshtml",
-              "ToolTip": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4_3\\MvcDataViews\\MvcDataViews\\Views\\Person\\Create.cshtml",
+              "ToolTip": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4_3(Valid)\\MvcDataViews\\MvcDataViews\\Views\\Person\\Create.cshtml",
               "RelativeToolTip": "MvcDataViews\\Views\\Person\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T09:33:52.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T09:33:52.582Z"
             }
           ]
         },

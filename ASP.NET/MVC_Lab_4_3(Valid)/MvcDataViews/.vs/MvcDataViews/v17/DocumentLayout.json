@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "MvcDataViews\\Models\\Person.cs",
               "ToolTip": "E:\\LabWorks\\ASP.NET\\MVC_Lab_4_3(Valid)\\MvcDataViews\\MvcDataViews\\Models\\Person.cs",
               "RelativeToolTip": "MvcDataViews\\Models\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T11:08:51.813Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "MvcDataViews\\Controllers\\PersonController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAA1wCoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T10:30:24.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T10:30:24.427Z"
             },
             {
               "$type": "Document",

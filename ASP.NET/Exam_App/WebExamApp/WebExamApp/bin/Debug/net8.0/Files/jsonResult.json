@@ -1,0 +1,458 @@
+[
+  {
+    "Id": 1,
+    "StudentId": 1,
+    "Student": {
+      "Id": 1,
+      "FirstName": "Эльвира",
+      "Patronymic": "Сахипзадовна",
+      "LastName": "Набиулина",
+      "Email": "nab@gmail.com",
+      "Phone": "89823456718",
+      "Address": "ул.Ленина,д.8, кв.15"
+    },
+    "LessonId": 1,
+    "Lesson": {
+      "Id": 1,
+      "Name": "Введение в разработку ASP.NET MVC приложений"
+    },
+    "EvaluationId": 2,
+    "Evaluation": {
+      "Id": 2,
+      "Name": "2"
+    },
+    "Date": "2025-03-10T00:00:00Z"
+  },
+  {
+    "Id": 2,
+    "StudentId": 4,
+    "Student": {
+      "Id": 4,
+      "FirstName": "Ольга",
+      "Patronymic": "Олеговна",
+      "LastName": "Ивашова",
+      "Email": "iva@ya.ru",
+      "Phone": "3440115",
+      "Address": "ул.Блохина,д.22, кв.54"
+    },
+    "LessonId": 2,
+    "Lesson": {
+      "Id": 2,
+      "Name": "ASP.NET MVC Представления"
+    },
+    "EvaluationId": 5,
+    "Evaluation": {
+      "Id": 5,
+      "Name": "5"
+    },
+    "Date": "2025-04-18T00:00:00Z"
+  },
+  {
+    "Id": 3,
+    "StudentId": 3,
+    "Student": {
+      "Id": 3,
+      "FirstName": "Вадим",
+      "Patronymic": "Вениаминович",
+      "LastName": "Бурундуков",
+      "Email": "Bvv@mail.ru",
+      "Phone": "89693408112",
+      "Address": "пр.Лиговский,д.48, кв.9"
+    },
+    "LessonId": 2,
+    "Lesson": {
+      "Id": 2,
+      "Name": "ASP.NET MVC Представления"
+    },
+    "EvaluationId": 4,
+    "Evaluation": {
+      "Id": 4,
+      "Name": "4"
+    },
+    "Date": "2025-04-23T00:00:00Z"
+  },
+  {
+    "Id": 7,
+    "StudentId": 4,
+    "Student": {
+      "Id": 4,
+      "FirstName": "Ольга",
+      "Patronymic": "Олеговна",
+      "LastName": "Ивашова",
+      "Email": "iva@ya.ru",
+      "Phone": "3440115",
+      "Address": "ул.Блохина,д.22, кв.54"
+    },
+    "LessonId": 1,
+    "Lesson": {
+      "Id": 1,
+      "Name": "Введение в разработку ASP.NET MVC приложений"
+    },
+    "EvaluationId": 5,
+    "Evaluation": {
+      "Id": 5,
+      "Name": "5"
+    },
+    "Date": "2025-04-04T00:00:00Z"
+  },
+  {
+    "Id": 8,
+    "StudentId": 1,
+    "Student": {
+      "Id": 1,
+      "FirstName": "Эльвира",
+      "Patronymic": "Сахипзадовна",
+      "LastName": "Набиулина",
+      "Email": "nab@gmail.com",
+      "Phone": "89823456718",
+      "Address": "ул.Ленина,д.8, кв.15"
+    },
+    "LessonId": 3,
+    "Lesson": {
+      "Id": 3,
+      "Name": "MVC паттерн, контроллеры, модель"
+    },
+    "EvaluationId": 3,
+    "Evaluation": {
+      "Id": 3,
+      "Name": "3"
+    },
+    "Date": "2025-04-17T00:00:00Z"
+  },
+  {
+    "Id": 9,
+    "StudentId": 8,
+    "Student": {
+      "Id": 8,
+      "FirstName": "Полина",
+      "Patronymic": "Станиславовна",
+      "LastName": "Гагарина",
+      "Email": "gaga@mail.ru",
+      "Phone": "89635557722",
+      "Address": "-"
+    },
+    "LessonId": 3,
+    "Lesson": {
+      "Id": 3,
+      "Name": "MVC паттерн, контроллеры, модель"
+    },
+    "EvaluationId": 5,
+    "Evaluation": {
+      "Id": 5,
+      "Name": "5"
+    },
+    "Date": "2025-04-10T00:00:00Z"
+  },
+  {
+    "Id": 10,
+    "StudentId": 5,
+    "Student": {
+      "Id": 5,
+      "FirstName": "Иван",
+      "Patronymic": "Степанович",
+      "LastName": "Солнцев",
+      "Email": "sol@list.ru",
+      "Phone": "89213344518",
+      "Address": "-"
+    },
+    "LessonId": 2,
+    "Lesson": {
+      "Id": 2,
+      "Name": "ASP.NET MVC Представления"
+    },
+    "EvaluationId": 4,
+    "Evaluation": {
+      "Id": 4,
+      "Name": "4"
+    },
+    "Date": "2025-04-07T00:00:00Z"
+  },
+  {
+    "Id": 11,
+    "StudentId": 5,
+    "Student": {
+      "Id": 5,
+      "FirstName": "Иван",
+      "Patronymic": "Степанович",
+      "LastName": "Солнцев",
+      "Email": "sol@list.ru",
+      "Phone": "89213344518",
+      "Address": "-"
+    },
+    "LessonId": 3,
+    "Lesson": {
+      "Id": 3,
+      "Name": "MVC паттерн, контроллеры, модель"
+    },
+    "EvaluationId": 3,
+    "Evaluation": {
+      "Id": 3,
+      "Name": "3"
+    },
+    "Date": "2025-03-13T00:00:00Z"
+  },
+  {
+    "Id": 12,
+    "StudentId": 1,
+    "Student": {
+      "Id": 1,
+      "FirstName": "Эльвира",
+      "Patronymic": "Сахипзадовна",
+      "LastName": "Набиулина",
+      "Email": "nab@gmail.com",
+      "Phone": "89823456718",
+      "Address": "ул.Ленина,д.8, кв.15"
+    },
+    "LessonId": 6,
+    "Lesson": {
+      "Id": 6,
+      "Name": "Авторизация и аутентификация в ASP.NET MVC 5"
+    },
+    "EvaluationId": 1,
+    "Evaluation": {
+      "Id": 1,
+      "Name": "1"
+    },
+    "Date": "2025-02-20T00:00:00Z"
+  },
+  {
+    "Id": 13,
+    "StudentId": 2,
+    "Student": {
+      "Id": 2,
+      "FirstName": "Владимир",
+      "Patronymic": "Владимирович",
+      "LastName": "Путин",
+      "Email": "BOSS@ya.ru",
+      "Phone": "89257777777",
+      "Address": "ул.Марата,д.34, кв.89"
+    },
+    "LessonId": 6,
+    "Lesson": {
+      "Id": 6,
+      "Name": "Авторизация и аутентификация в ASP.NET MVC 5"
+    },
+    "EvaluationId": 4,
+    "Evaluation": {
+      "Id": 4,
+      "Name": "4"
+    },
+    "Date": "2025-04-01T00:00:00Z"
+  },
+  {
+    "Id": 14,
+    "StudentId": 2,
+    "Student": {
+      "Id": 2,
+      "FirstName": "Владимир",
+      "Patronymic": "Владимирович",
+      "LastName": "Путин",
+      "Email": "BOSS@ya.ru",
+      "Phone": "89257777777",
+      "Address": "ул.Марата,д.34, кв.89"
+    },
+    "LessonId": 4,
+    "Lesson": {
+      "Id": 4,
+      "Name": "ASP.NET MVC Валидация на стороне клиента"
+    },
+    "EvaluationId": 4,
+    "Evaluation": {
+      "Id": 4,
+      "Name": "4"
+    },
+    "Date": "2025-04-10T00:00:00Z"
+  },
+  {
+    "Id": 15,
+    "StudentId": 3,
+    "Student": {
+      "Id": 3,
+      "FirstName": "Вадим",
+      "Patronymic": "Вениаминович",
+      "LastName": "Бурундуков",
+      "Email": "Bvv@mail.ru",
+      "Phone": "89693408112",
+      "Address": "пр.Лиговский,д.48, кв.9"
+    },
+    "LessonId": 2,
+    "Lesson": {
+      "Id": 2,
+      "Name": "ASP.NET MVC Представления"
+    },
+    "EvaluationId": 5,
+    "Evaluation": {
+      "Id": 5,
+      "Name": "5"
+    },
+    "Date": "2025-04-18T00:00:00Z"
+  },
+  {
+    "Id": 16,
+    "StudentId": 9,
+    "Student": {
+      "Id": 9,
+      "FirstName": "Александр",
+      "Patronymic": "Сергеевич",
+      "LastName": "Кукушкин",
+      "Email": "kukuha@ya.ru",
+      "Phone": "89618884467",
+      "Address": "ул.Березовая, д.3, кв.51"
+    },
+    "LessonId": 3,
+    "Lesson": {
+      "Id": 3,
+      "Name": "MVC паттерн, контроллеры, модель"
+    },
+    "EvaluationId": 5,
+    "Evaluation": {
+      "Id": 5,
+      "Name": "5"
+    },
+    "Date": "2025-04-03T00:00:00Z"
+  },
+  {
+    "Id": 17,
+    "StudentId": 9,
+    "Student": {
+      "Id": 9,
+      "FirstName": "Александр",
+      "Patronymic": "Сергеевич",
+      "LastName": "Кукушкин",
+      "Email": "kukuha@ya.ru",
+      "Phone": "89618884467",
+      "Address": "ул.Березовая, д.3, кв.51"
+    },
+    "LessonId": 4,
+    "Lesson": {
+      "Id": 4,
+      "Name": "ASP.NET MVC Валидация на стороне клиента"
+    },
+    "EvaluationId": 3,
+    "Evaluation": {
+      "Id": 3,
+      "Name": "3"
+    },
+    "Date": "2025-04-14T00:00:00Z"
+  },
+  {
+    "Id": 18,
+    "StudentId": 7,
+    "Student": {
+      "Id": 7,
+      "FirstName": "Анатолий",
+      "Patronymic": "Викторович",
+      "LastName": "Петров",
+      "Email": "zoom@gmail.com",
+      "Phone": "89523855612",
+      "Address": "-"
+    },
+    "LessonId": 3,
+    "Lesson": {
+      "Id": 3,
+      "Name": "MVC паттерн, контроллеры, модель"
+    },
+    "EvaluationId": 3,
+    "Evaluation": {
+      "Id": 3,
+      "Name": "3"
+    },
+    "Date": "2025-04-11T00:00:00Z"
+  },
+  {
+    "Id": 19,
+    "StudentId": 3,
+    "Student": {
+      "Id": 3,
+      "FirstName": "Вадим",
+      "Patronymic": "Вениаминович",
+      "LastName": "Бурундуков",
+      "Email": "Bvv@mail.ru",
+      "Phone": "89693408112",
+      "Address": "пр.Лиговский,д.48, кв.9"
+    },
+    "LessonId": 5,
+    "Lesson": {
+      "Id": 5,
+      "Name": "Создание  стилизованных страниц в ASP.NET MVC"
+    },
+    "EvaluationId": 4,
+    "Evaluation": {
+      "Id": 4,
+      "Name": "4"
+    },
+    "Date": "2025-04-04T00:00:00Z"
+  },
+  {
+    "Id": 20,
+    "StudentId": 2,
+    "Student": {
+      "Id": 2,
+      "FirstName": "Владимир",
+      "Patronymic": "Владимирович",
+      "LastName": "Путин",
+      "Email": "BOSS@ya.ru",
+      "Phone": "89257777777",
+      "Address": "ул.Марата,д.34, кв.89"
+    },
+    "LessonId": 6,
+    "Lesson": {
+      "Id": 6,
+      "Name": "Авторизация и аутентификация в ASP.NET MVC 5"
+    },
+    "EvaluationId": 4,
+    "Evaluation": {
+      "Id": 4,
+      "Name": "4"
+    },
+    "Date": "2025-04-02T00:00:00Z"
+  },
+  {
+    "Id": 21,
+    "StudentId": 6,
+    "Student": {
+      "Id": 6,
+      "FirstName": "Майя",
+      "Patronymic": "Сергеевна",
+      "LastName": "Васнецова",
+      "Email": "Msv@mail.ru",
+      "Phone": "89818561634",
+      "Address": "Ленинский пр., д.20, кв.314"
+    },
+    "LessonId": 4,
+    "Lesson": {
+      "Id": 4,
+      "Name": "ASP.NET MVC Валидация на стороне клиента"
+    },
+    "EvaluationId": 4,
+    "Evaluation": {
+      "Id": 4,
+      "Name": "4"
+    },
+    "Date": "2025-04-15T00:00:00Z"
+  },
+  {
+    "Id": 22,
+    "StudentId": 7,
+    "Student": {
+      "Id": 7,
+      "FirstName": "Анатолий",
+      "Patronymic": "Викторович",
+      "LastName": "Петров",
+      "Email": "zoom@gmail.com",
+      "Phone": "89523855612",
+      "Address": "-"
+    },
+    "LessonId": 1,
+    "Lesson": {
+      "Id": 1,
+      "Name": "Введение в разработку ASP.NET MVC приложений"
+    },
+    "EvaluationId": 3,
+    "Evaluation": {
+      "Id": 3,
+      "Name": "3"
+    },
+    "Date": "2025-04-04T00:00:00Z"
+  }
+]

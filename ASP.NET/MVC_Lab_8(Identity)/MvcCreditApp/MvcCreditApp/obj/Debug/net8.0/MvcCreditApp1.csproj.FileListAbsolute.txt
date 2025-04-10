@@ -898,3 +898,4 @@ E:\LabWorks\ASP.NET\MVC_Lab_8(Identity)\MvcCreditApp\MvcCreditApp\obj\Debug\net8
 E:\LabWorks\ASP.NET\MVC_Lab_8(Identity)\MvcCreditApp\MvcCreditApp\obj\Debug\net8.0\MvcCreditApp1.pdb
 E:\LabWorks\ASP.NET\MVC_Lab_8(Identity)\MvcCreditApp\MvcCreditApp\obj\Debug\net8.0\MvcCreditApp1.genruntimeconfig.cache
 E:\LabWorks\ASP.NET\MVC_Lab_8(Identity)\MvcCreditApp\MvcCreditApp\obj\Debug\net8.0\ref\MvcCreditApp1.dll
+E:\LabWorks\ASP.NET\MVC_Lab_8(Identity)\MvcCreditApp\MvcCreditApp\bin\Debug\net8.0\Files\jsonResult.json

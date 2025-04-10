@@ -1,0 +1,13 @@
+﻿
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<div id="w5results">
+	<h4>@ViewBag.mes</h4>
+	<ul>
+		@foreach (var item in ViewBag.sts)
+		{
+			<li> Id: @item.StudentId, Фамилия: @item.LastName, Имя: @item.FirstName, Средний балл: @item.avg</li>
+		}
+	</ul>
+</div>

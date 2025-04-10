@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.IdentityModel.Tokens;
+using System;
 using System.ComponentModel.DataAnnotations;
 
 namespace MvcCreditApp1.Models
@@ -23,6 +24,12 @@ namespace MvcCreditApp1.Models
         { 
           get { return bid_date; } 
           set { bid_date = value.ToUniversalTime(); }
+        }
+
+        public override string? ToString()
+        {
+            if (string.IsNullOrEmpty(BidId.ToString())) return base.ToString();
+            return $"\nID заявки: {BidId}\n Имя заявителя: {Name}\n Название кредита: {CreditHead}\n Дата подачи заявки: {bidDate}";
         }
     }
 }
