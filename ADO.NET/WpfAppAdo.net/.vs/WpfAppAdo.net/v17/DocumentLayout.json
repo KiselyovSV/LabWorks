@@ -65,8 +65,7 @@
               "ToolTip": "E:\\LabWorks\\ADO.NET\\WpfAppAdo.net\\WpfAppAdo.net\\PasswordWindow.xaml",
               "RelativeToolTip": "WpfAppAdo.net\\PasswordWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-10T11:27:04.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T11:27:04.296Z"
             },
             {
               "$type": "Document",
@@ -77,8 +76,7 @@
               "ToolTip": "E:\\LabWorks\\ADO.NET\\WpfAppAdo.net\\WpfAppAdo.net\\MainWindow.xaml",
               "RelativeToolTip": "WpfAppAdo.net\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-15T13:04:03.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T13:04:03.727Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "ToolTip": "E:\\LabWorks\\ADO.NET\\WpfAppAdo.net\\WpfAppAdo.net\\AdditionWindow.xaml",
               "RelativeToolTip": "WpfAppAdo.net\\AdditionWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-14T19:46:44.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T19:46:44.975Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "WpfAppAdo.net\\PasswordWindow.xaml.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:30:16.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T12:30:16.866Z"
             },
             {
               "$type": "Document",
@@ -113,7 +109,7 @@
               "RelativeDocumentMoniker": "WpfAppAdo.net\\MainWindow.xaml.cs",
               "ToolTip": "E:\\LabWorks\\ADO.NET\\WpfAppAdo.net\\WpfAppAdo.net\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfAppAdo.net\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAAMBAABbAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAAMBAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T11:26:01.387Z",
               "EditorCaption": ""
@@ -128,8 +124,7 @@
               "RelativeToolTip": "WpfAppAdo.net\\AdditionWindow.xaml.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAnwEIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T20:49:59.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T20:49:59.095Z"
             }
           ]
         },

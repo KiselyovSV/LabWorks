@@ -1,0 +1,59 @@
+﻿@model Grad_WebApp.Models.Client_Subscription
+@{
+    ViewData["Title"] = "Удалить запись об абонементе";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1></h1>
+
+<h3 class="link-danger">Вы уверены, что хотите удалить данные?</h3>
+<div>
+    <h4>Удалить запись об абонементе</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Client)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Client!.LastName)
+            @Html.DisplayFor(model => model.Client!.FirstName)
+            @Html.DisplayFor(model => model.Client!.Patronymic)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Subscription)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Subscription!.Description)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.StartDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.StartDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.EndDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.EndDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CostIncludingDiscount)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CostIncludingDiscount)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Trainings)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Trainings)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Удалить" class="btn btn-danger" /> |
+        <a asp-action="Index" asp-route-id="@idService.Client_Id">К списку абонементов клиента</a>
+    </form>
+</div>

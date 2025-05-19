@@ -1,0 +1,103 @@
+﻿@using Grad_WebApp.Models
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<User> _signInManager
+@inject UserManager<User> _userManager
+@inject Id _idService
+@model IEnumerable<Grad_WebApp.Models.Timetable>
+@{
+    ViewData["Title"] = "Главная страница";
+    string? userId =null;
+    if (_signInManager.IsSignedIn(User)) 
+    { _idService.UserId = userId = _userManager.GetUserId(User); }
+}
+
+<h1>Расписание тренировок</h1>
+
+<a asp-action="TimetablesPrintTxt">Скачать расписание в формате txt</a>
+
+@if (!User.Identity!.IsAuthenticated)
+{
+    <h6 class="link-primary">Запись на тренировку возможна для зарегистрированных и авторизованных пользователей</h6>
+}
+
+<p>
+    @if (User.Identity!.IsAuthenticated && (User.IsInRole("manager") || User.IsInRole("admin")))
+    {
+        <a asp-action="TimetablesPrintJson">Скачать расписание в формате json</a><br/>
+        <a asp-action="Create">Добавить расписание</a>
+    }
+</p>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Workout)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Workout!.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Coach)
+            </th>
+            @if (User.Identity!.IsAuthenticated || User.IsInRole("manager") || User.IsInRole("admin"))
+            {
+                <td> </td>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Workout!.Type)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Workout!.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Coach!.LastName)
+                    @Html.DisplayFor(modelItem => item.Coach!.FirstName)
+                </td>
+                @if (User.Identity!.IsAuthenticated && !User.IsInRole("manager") && !User.IsInRole("admin"))
+                {
+                    <td>
+                        <a asp-action="CreateFromStartPage" asp-controller="Timetable_Client" asp-route-timetableId = "@item.Id", asp-route-userId = "@userId">Записаться</a>
+                    </td>
+                }
+                @if (User.Identity!.IsAuthenticated && (User.IsInRole("manager") || User.IsInRole("admin")))
+                {
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Изменить</a> <text>|</text>
+                        <a asp-action="Details" asp-route-id="@item.Id">Детали</a> <text>|</text>
+                        <a asp-action="Delete" asp-route-id="@item.Id">Удалить</a>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+@if (User.Identity!.IsAuthenticated && !User.IsInRole("manager") && !User.IsInRole("admin"))
+{
+    <div>
+        <h5>Записи на тренировки:</h5>
+    </div>
+    <div id="results">
+        <form data-ajax="true" data-ajax-url="/Timetable_Client/ShowUserTimetables"
+        data-ajax-update="#results" data-ajax-mode="after">
+            <input type="submit" value="Показать" />
+        </form>
+   
+    @section scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-ajax-unobtrusive/3.2.6/jquery.unobtrusive-ajax.js"
+    integrity="sha256-v2nySZafnswY87um3ymbg7p9f766IQspC5oqaqZVX2c=" crossorigin="anonymous"></script>
+}
+    </div>
+}
+
+

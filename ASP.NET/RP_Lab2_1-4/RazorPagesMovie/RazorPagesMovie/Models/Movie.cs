@@ -24,11 +24,13 @@ namespace RazorPagesMovie.Models
         }
 
         [StringLength(15)]
-        
         public string Genre { get; set; } = "";
-        
+
         [Required, Range(100, 3000), DisplayName("The cost of the movie")]
         public decimal Price { get; set; }
+        
+
+        
 
     }
 }

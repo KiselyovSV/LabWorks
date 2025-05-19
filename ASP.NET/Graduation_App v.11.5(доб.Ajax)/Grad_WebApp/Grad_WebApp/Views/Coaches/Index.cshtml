@@ -1,0 +1,77 @@
+﻿@model IEnumerable<Grad_WebApp.Models.Coach>
+
+@{
+    ViewData["Title"] = "Список тренеров";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Список тренеров</h1>
+
+<p>
+    <a asp-action="Create">Добавить запись о новом тренере</a>
+</p>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                Фото тренера
+            </th>
+            <th>
+                Ф.И.О. тренера
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) {
+            <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @foreach (var p in ViewBag.Photo)
+                {
+                    if (p.CoachId == item.Id)
+                    {
+                        <p><img src="@Url.Content(p.Path)"></p>
+                    }
+                }
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+                @Html.DisplayFor(modelItem => item.FirstName)
+                @Html.DisplayFor(modelItem => item.Patronymic)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Изменить</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Детали</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Удалить</a>
+                    <h6>Выберите фото для загрузки</h6>
+                    <form asp-action="AddPhoto" asp-controller="Coaches" asp-route-id="@item.Id" method="post" enctype="multipart/form-data">
+                        <input type="file" name="uploadedFile" /><br>
+                        <input type="submit" value="Загрузить" />
+                    </form><br/>
+                    <button class="btn btn-sm btn-dark" asp-action="DeletePhoto" asp-controller="Coaches" asp-route-id="@item.Id">Удалить фото</button>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<p>
+    <a asp-action="Index" asp-controller="Timetables">На главную</a>
+</p>

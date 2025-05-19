@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebExamApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3221b25aa6a8002356842e2c2a3ccec33b89fabe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c389447d2e55f42b170ac55ddad85360e835fe41")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebExamApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebExamApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

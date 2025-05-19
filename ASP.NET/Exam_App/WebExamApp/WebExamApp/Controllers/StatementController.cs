@@ -253,8 +253,8 @@ namespace WebExamApp.Controllers
             string file_path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "E:/LabWorks/ASP.NET/Exam_App/WebExamApp/WebExamApp/Files/jsonResult.json");
             // Тип файла - content-type
             string file_type = "application/octet-stream"; //   или так: string file_type = "text/json"; "application/octet-stream" - это универсальный тип
-                                                           // Имя файла - необязательно
-            string file_name = "jsonResult.json";
+                                                          
+            string file_name = "jsonResult.json";          // Имя файла - необязательно
             return PhysicalFile(file_path, file_type, file_name);
         }
 
@@ -263,9 +263,9 @@ namespace WebExamApp.Controllers
             // Путь к файлу
             string file_path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "E:/LabWorks/ASP.NET/Exam_App/WebExamApp/WebExamApp/Files/txtResult.txt");
             // Тип файла - content-type
-            string file_type = "application/octet-stream"; //   или так: string file_type = "text/json"; "application/octet-stream" - это универсальный тип
-                                                           // Имя файла - необязательно
-            string file_name = "txtResult.txt";
+            string file_type = "application/octet-stream"; //   или так: string file_type = "text/txt"; "application/octet-stream" - это универсальный тип
+                                                           
+            string file_name = "txtResult.txt";            // Имя файла - необязательно
             return PhysicalFile(file_path, file_type, file_name);
         }
 

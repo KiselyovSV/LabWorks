@@ -1,0 +1,40 @@
+﻿@model Grad_WebApp.ViewModels.RegisterViewModel
+@{
+    ViewData["Title"] = "Регистрация пользователя";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-controller="Account" asp-action="Register">
+            <h2>Создать новый аккаунт</h2>
+            <hr />
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+            <div class="form-floating mb-3">
+                <input asp-for="Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                <label asp-for="Email">Адрес электронной почты</label>
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Year" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                <label asp-for="Year">Год рождения</label>
+                <span asp-validation-for="Year" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+                <label asp-for="Password">Пароль</label>
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="PasswordConfirm" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+                <label asp-for="PasswordConfirm">Повторите пароль</label>
+                <span asp-validation-for="PasswordConfirm" class="text-danger"></span>
+            </div>
+            <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Создать</button>
+        </form>
+    </div>
+</div>
+<p>
+    <a asp-area="" asp-controller="Account" asp-action="Login">Вход для зарегистрированных пользователей</a>
+</p>

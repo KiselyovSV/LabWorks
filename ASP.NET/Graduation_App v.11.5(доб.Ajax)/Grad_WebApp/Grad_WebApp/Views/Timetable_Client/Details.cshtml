@@ -1,0 +1,49 @@
+﻿@model Grad_WebApp.Models.Timetable_Client
+
+@{
+    ViewData["Title"] = "Детали записи на тренировку";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1></h1>
+
+<div>
+    <h4>Детали записи на тренировку</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Timetable)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Timetable!.Date) -
+            (id:@Html.DisplayFor(model => model.Timetable!.Workout!.Id))
+            @Html.DisplayFor(model => model.Timetable!.Workout!.Type)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Timetable!.Workout!.Description)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Timetable!.Workout!.Description)
+        </dd>
+        <dt class="col-sm-2">
+            Ф.И.О. тренера
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Timetable!.Coach!.LastName)
+            @Html.DisplayFor(model => model.Timetable!.Coach!.FirstName)
+            @Html.DisplayFor(model => model.Timetable!.Coach!.Patronymic)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Сlient)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Сlient!.LastName)
+            @Html.DisplayFor(model => model.Сlient!.FirstName)
+            @Html.DisplayFor(model => model.Сlient!.Patronymic)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Изменить</a> |
+    <a asp-action="Index" asp-route-id="@idService.Client_Id">К списку записей</a>
+</div>

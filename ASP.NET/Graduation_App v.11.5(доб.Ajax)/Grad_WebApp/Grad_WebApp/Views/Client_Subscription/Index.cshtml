@@ -1,0 +1,105 @@
+﻿@model IEnumerable<Grad_WebApp.Models.Client_Subscription>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var clientName = "Клиент";
+    foreach (var item in Model)
+    {
+        clientName = item.Client!.LastName + " " + item.Client!.FirstName + " " + item.Client!.Patronymic;
+    }
+}
+
+<h1>@clientName имеет следующие абонементы: </h1>
+
+<p>
+    <a asp-action="Create">Добавить новый</a>
+</p>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Client!.Id)
+            </th>
+            <th>
+                Ф.И.О. клиента
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Subscription!.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Subscription!.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Subscription!.Cost)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Subscription!.AmountOfTrainings)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Subscription!.Period)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EndDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CostIncludingDiscount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Trainings)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) 
+{
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ClientId)
+            </td>
+            <td>
+                @clientName
+            </td>
+            <td>
+                 @Html.DisplayFor(modelItem => item.Subscription!.Id)
+            </td>
+            <td>
+                 @Html.DisplayFor(modelItem => item.Subscription!.Name)
+            </td>
+            <td>
+                 @Html.DisplayFor(modelItem => item.Subscription!.Cost)
+            </td>
+            <td>
+                 @Html.DisplayFor(modelItem => item.Subscription!.AmountOfTrainings)
+            </td>
+            <td>
+                 @Html.DisplayFor(modelItem => item.Subscription!.Period)
+            </td>
+            <td>
+                 @Html.DisplayFor(modelItem => item.StartDate)
+            </td>
+            <td>
+                 @Html.DisplayFor(modelItem => item.EndDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CostIncludingDiscount)
+            </td>
+            <td>
+                 @Html.DisplayFor(modelItem => item.Trainings)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Изменить</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Детали</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Удалить</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<p>
+    <a asp-action="Index" asp-controller="Clients">К списку клиентов</a>
+</p>

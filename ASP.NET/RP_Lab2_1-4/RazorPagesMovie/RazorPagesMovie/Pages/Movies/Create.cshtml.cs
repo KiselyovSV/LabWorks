@@ -34,7 +34,6 @@ namespace RazorPagesMovie.Pages.Movies
             {
                 return Page();
             }
-
             _context.Movie.Add(Movie);
             await _context.SaveChangesAsync();
 

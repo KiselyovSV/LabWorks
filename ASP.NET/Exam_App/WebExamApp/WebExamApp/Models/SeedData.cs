@@ -16,9 +16,9 @@ namespace WebExamApp.Models
                 {
                     throw new ArgumentNullException("Null StatementDbContext");
                 }
-                // Если в базе данных уже есть кредиты,
-                // то возвращается инициализатор заполнения и кредиты не добавляются
-                if (context.Statement.Any() || context.Statement.Any() || context.Students.Any() || context.Lessons.Any() || context.Evaluations.Any())
+                // Если в базе данных уже есть,
+                // то возвращается инициализатор заполнения и не добавляются
+                if (context.Statement.Any() || context.Students.Any() || context.Lessons.Any() || context.Evaluations.Any())
                 {
                     return;
                 }

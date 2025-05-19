@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LabWorks\\Graduation_App v.12.5(\u0442\u0435\u0441\u0442\u044B)\\Grad_WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6148FE77-FB4B-4E38-8E41-83A59FC1D63D}|TestProject\\TestProject.csproj|e:\\labworks\\graduation_app v.12.5(\u0442\u0435\u0441\u0442\u044B)\\grad_webapp\\testproject\\clientscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6148FE77-FB4B-4E38-8E41-83A59FC1D63D}|TestProject\\TestProject.csproj|solutionrelative:testproject\\clientscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0355E0-288A-454D-8A30-8C1260302AA1}|Grad_WebApp\\Grad_WebApp.csproj|e:\\labworks\\graduation_app v.12.5(\u0442\u0435\u0441\u0442\u044B)\\grad_webapp\\grad_webapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0355E0-288A-454D-8A30-8C1260302AA1}|Grad_WebApp\\Grad_WebApp.csproj|solutionrelative:grad_webapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0355E0-288A-454D-8A30-8C1260302AA1}|Grad_WebApp\\Grad_WebApp.csproj|e:\\labworks\\graduation_app v.12.5(\u0442\u0435\u0441\u0442\u044B)\\grad_webapp\\grad_webapp\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0355E0-288A-454D-8A30-8C1260302AA1}|Grad_WebApp\\Grad_WebApp.csproj|solutionrelative:grad_webapp\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0355E0-288A-454D-8A30-8C1260302AA1}|Grad_WebApp\\Grad_WebApp.csproj|e:\\labworks\\graduation_app v.12.5(\u0442\u0435\u0441\u0442\u044B)\\grad_webapp\\grad_webapp\\data\\fitnessdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0355E0-288A-454D-8A30-8C1260302AA1}|Grad_WebApp\\Grad_WebApp.csproj|solutionrelative:grad_webapp\\data\\fitnessdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0355E0-288A-454D-8A30-8C1260302AA1}|Grad_WebApp\\Grad_WebApp.csproj|e:\\labworks\\graduation_app v.12.5(\u0442\u0435\u0441\u0442\u044B)\\grad_webapp\\grad_webapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0355E0-288A-454D-8A30-8C1260302AA1}|Grad_WebApp\\Grad_WebApp.csproj|solutionrelative:grad_webapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0355E0-288A-454D-8A30-8C1260302AA1}|Grad_WebApp\\Grad_WebApp.csproj|e:\\labworks\\graduation_app v.12.5(\u0442\u0435\u0441\u0442\u044B)\\grad_webapp\\grad_webapp\\views\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B0355E0-288A-454D-8A30-8C1260302AA1}|Grad_WebApp\\Grad_WebApp.csproj|solutionrelative:grad_webapp\\views\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\LabWorks\\Graduation_App v.12.5(\u0442\u0435\u0441\u0442\u044B)\\Grad_WebApp\\Grad_WebApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Grad_WebApp\\Models\\User.cs",
+              "ToolTip": "E:\\LabWorks\\Graduation_App v.12.5(\u0442\u0435\u0441\u0442\u044B)\\Grad_WebApp\\Grad_WebApp\\Models\\User.cs",
+              "RelativeToolTip": "Grad_WebApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T22:25:56.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "E:\\LabWorks\\Graduation_App v.12.5(\u0442\u0435\u0441\u0442\u044B)\\Grad_WebApp\\Grad_WebApp\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Grad_WebApp\\Models\\Client.cs",
+              "ToolTip": "E:\\LabWorks\\Graduation_App v.12.5(\u0442\u0435\u0441\u0442\u044B)\\Grad_WebApp\\Grad_WebApp\\Models\\Client.cs",
+              "RelativeToolTip": "Grad_WebApp\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T20:54:29.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FitnessDbContext.cs",
+              "DocumentMoniker": "E:\\LabWorks\\Graduation_App v.12.5(\u0442\u0435\u0441\u0442\u044B)\\Grad_WebApp\\Grad_WebApp\\Data\\FitnessDbContext.cs",
+              "RelativeDocumentMoniker": "Grad_WebApp\\Data\\FitnessDbContext.cs",
+              "ToolTip": "E:\\LabWorks\\Graduation_App v.12.5(\u0442\u0435\u0441\u0442\u044B)\\Grad_WebApp\\Grad_WebApp\\Data\\FitnessDbContext.cs",
+              "RelativeToolTip": "Grad_WebApp\\Data\\FitnessDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T20:24:47.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\LabWorks\\Graduation_App v.12.5(\u0442\u0435\u0441\u0442\u044B)\\Grad_WebApp\\Grad_WebApp\\Views\\Clients\\Index.cshtml",
+              "RelativeDocumentMoniker": "Grad_WebApp\\Views\\Clients\\Index.cshtml",
+              "ToolTip": "E:\\LabWorks\\Graduation_App v.12.5(\u0442\u0435\u0441\u0442\u044B)\\Grad_WebApp\\Grad_WebApp\\Views\\Clients\\Index.cshtml",
+              "RelativeToolTip": "Grad_WebApp\\Views\\Clients\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T12:44:47.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "E:\\LabWorks\\Graduation_App v.12.5(\u0442\u0435\u0441\u0442\u044B)\\Grad_WebApp\\Grad_WebApp\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Grad_WebApp\\Controllers\\ClientsController.cs",
+              "ToolTip": "E:\\LabWorks\\Graduation_App v.12.5(\u0442\u0435\u0441\u0442\u044B)\\Grad_WebApp\\Grad_WebApp\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Grad_WebApp\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:44:36.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientsControllerTest.cs",
+              "DocumentMoniker": "E:\\LabWorks\\Graduation_App v.12.5(\u0442\u0435\u0441\u0442\u044B)\\Grad_WebApp\\TestProject\\ClientsControllerTest.cs",
+              "RelativeDocumentMoniker": "TestProject\\ClientsControllerTest.cs",
+              "ToolTip": "E:\\LabWorks\\Graduation_App v.12.5(\u0442\u0435\u0441\u0442\u044B)\\Grad_WebApp\\TestProject\\ClientsControllerTest.cs",
+              "RelativeToolTip": "TestProject\\ClientsControllerTest.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAIAzwG4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:58:07.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1668,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

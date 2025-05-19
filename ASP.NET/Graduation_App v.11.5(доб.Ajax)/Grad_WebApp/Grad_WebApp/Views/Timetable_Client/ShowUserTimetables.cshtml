@@ -1,0 +1,14 @@
+﻿@model IEnumerable<Grad_WebApp.Models.Timetable_Client>
+    <h6> @Model.First().Сlient!.FirstName @Model.First().Сlient!.Patronymic,Вы записаны на следующие тренировки:</h6>
+    
+           
+<table class="table table-bordered">
+    <tr><th>Дата и время проведения</th><th>Тип тренировки</th></tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.Timetable!.Date)</td>
+            <td>@Html.DisplayFor(modelItem => item.Timetable!.Workout!.Type)</td>
+        </tr>
+    }
+</table>

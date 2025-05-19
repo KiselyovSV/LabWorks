@@ -1,0 +1,25 @@
+﻿@model Grad_WebApp.ViewModels.ResendingConfirmationViewModel
+@{
+    ViewData["Title"] = "Повторное подтверждение регистрации через E-mail";
+}
+
+<h1>@ViewData["Title"]</h1>
+<h5 class="text-danger">@TempData["Message"]</h5>
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-controller="Account" asp-action="ResendingConfirmation">
+            <h2></h2>
+            <hr />
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+            <div class="form-floating mb-3">
+                <input asp-for="Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                <label asp-for="Email" class="form-label">E-mail</label>
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div>
+                <button id="login-submit" type="submit" class="w-100 btn btn-lg btn-primary">Отправить повторно</button>
+            </div>
+        </form>
+    </div>
+</div>
+

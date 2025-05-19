@@ -1,0 +1,38 @@
+﻿@model Grad_WebApp.Models.Timetable_Client
+
+@{
+    ViewData["Title"] = "Удалить запись на тренировку";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1></h1>
+
+<h3 class="link-danger">Вы точно хотите удалить запись?</h3>
+<div>
+    <h4>Удалить запись на тренировку</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Timetable)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Timetable!.Date) -
+            (id:@Html.DisplayFor(model => model.Timetable!.Workout!.Id))
+            @Html.DisplayFor(model => model.Timetable!.Workout!.Type)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Сlient)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Сlient!.LastName)
+            @Html.DisplayFor(model => model.Сlient!.FirstName)
+            @Html.DisplayFor(model => model.Сlient!.Patronymic)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Удалить" class="btn btn-danger" /> |
+        <a asp-action="Index" asp-route-id="@idService.Client_Id">К списку записей</a>
+    </form>
+</div>

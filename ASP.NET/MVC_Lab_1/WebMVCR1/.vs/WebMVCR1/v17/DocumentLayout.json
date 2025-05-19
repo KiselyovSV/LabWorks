@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\LabWorks\\ASP.NET\\MVC_Lab_1\\WebMVCR1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{86976A08-AF59-4E2A-8C1B-53E876DC08D5}|WebMVCR1\\WebMVCR1.csproj|e:\\labworks\\asp.net\\mvc_lab_1\\webmvcr1\\webmvcr1\\models\\modelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86976A08-AF59-4E2A-8C1B-53E876DC08D5}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\models\\modelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{86976A08-AF59-4E2A-8C1B-53E876DC08D5}|WebMVCR1\\WebMVCR1.csproj|e:\\labworks\\asp.net\\mvc_lab_1\\webmvcr1\\webmvcr1\\webmvcr1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{86976A08-AF59-4E2A-8C1B-53E876DC08D5}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\webmvcr1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86976A08-AF59-4E2A-8C1B-53E876DC08D5}|WebMVCR1\\WebMVCR1.csproj|e:\\labworks\\asp.net\\mvc_lab_1\\webmvcr1\\webmvcr1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86976A08-AF59-4E2A-8C1B-53E876DC08D5}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86976A08-AF59-4E2A-8C1B-53E876DC08D5}|WebMVCR1\\WebMVCR1.csproj|e:\\labworks\\asp.net\\mvc_lab_1\\webmvcr1\\webmvcr1\\models\\modelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86976A08-AF59-4E2A-8C1B-53E876DC08D5}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\models\\modelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86976A08-AF59-4E2A-8C1B-53E876DC08D5}|WebMVCR1\\WebMVCR1.csproj|e:\\labworks\\asp.net\\mvc_lab_1\\webmvcr1\\webmvcr1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WebMVCR1",
               "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_1\\WebMVCR1\\WebMVCR1\\WebMVCR1.csproj",
               "RelativeDocumentMoniker": "WebMVCR1\\WebMVCR1.csproj",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ModelClass.cs",
               "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_1\\WebMVCR1\\WebMVCR1\\Models\\ModelClass.cs",
               "RelativeDocumentMoniker": "WebMVCR1\\Models\\ModelClass.cs",
@@ -70,7 +70,8 @@
               "RelativeToolTip": "WebMVCR1\\Models\\ModelClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T18:28:43.405Z"
+              "WhenOpened": "2025-03-29T18:28:43.405Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -86,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_1\\WebMVCR1\\WebMVCR1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebMVCR1\\Controllers\\HomeController.cs",
@@ -94,8 +95,7 @@
               "RelativeToolTip": "WebMVCR1\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T18:02:46.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T18:02:46.786Z"
             }
           ]
         },

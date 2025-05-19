@@ -1,0 +1,79 @@
+﻿@model IEnumerable<Grad_WebApp.Models.Client>
+
+@{
+    ViewData["Title"] = "Клиенты";
+    Layout = "~/Views/Shared/_Layout.cshtml";     
+}
+      
+<h1>Список клиентов</h1>
+
+<p>
+    <a asp-action="Create">Добавить нового</a>
+</p>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                Ф.И.О. клиента
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateOfBirth)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Сomment)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Discount)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+                @Html.DisplayFor(modelItem => item.FirstName)
+                @Html.DisplayFor(modelItem => item.Patronymic)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfBirth)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Сomment)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Discount)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Изменить</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Детали</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Удалить</a> |
+                <a asp-controller="Client_Subscription" asp-action="Index" asp-route-id="@item.Id">Абонементы</a> |
+                <a asp-controller="Timetable_Client" asp-action="Index" asp-route-id="@item.Id">Тренировки</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<p>
+    <a asp-action="Index" asp-controller="Timetables">На главную</a>
+</p>

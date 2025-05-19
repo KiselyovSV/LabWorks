@@ -1,0 +1,55 @@
+﻿@model Grad_WebApp.Models.Subscription
+
+@{
+    ViewData["Title"] = "Создание нового абонемента";
+}
+
+<h1></h1>
+
+<h4>Создать новый абонемент</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AmountOfTrainings" class="control-label"></label>
+                <input asp-for="AmountOfTrainings" class="form-control" />
+                <span asp-validation-for="AmountOfTrainings" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cost" class="control-label"></label>
+                <input asp-for="Cost" class="form-control" />
+                <span asp-validation-for="Cost" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Period" class="control-label"></label>
+                <input asp-for="Period" class="form-control" />
+                <span asp-validation-for="Period" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <textarea asp-for="Description" class="form-control"> </textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsActive" /> @Html.DisplayNameFor(model => model.IsActive)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Создать" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">К списку абонементов</a>
+</div>
+

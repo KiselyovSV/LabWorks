@@ -454,5 +454,53 @@
       "Name": "3"
     },
     "Date": "2025-04-04T00:00:00Z"
+  },
+  {
+    "Id": 23,
+    "StudentId": 2,
+    "Student": {
+      "Id": 2,
+      "FirstName": "Владимир",
+      "Patronymic": "Владимирович",
+      "LastName": "Путин",
+      "Email": "BOSS@ya.ru",
+      "Phone": "89257777777",
+      "Address": "ул.Марата,д.34, кв.89"
+    },
+    "LessonId": 6,
+    "Lesson": {
+      "Id": 6,
+      "Name": "Авторизация и аутентификация в ASP.NET MVC 5"
+    },
+    "EvaluationId": 5,
+    "Evaluation": {
+      "Id": 5,
+      "Name": "5"
+    },
+    "Date": "2025-04-17T00:00:00Z"
+  },
+  {
+    "Id": 24,
+    "StudentId": 10,
+    "Student": {
+      "Id": 10,
+      "FirstName": "Ян",
+      "Patronymic": "Сергеевич",
+      "LastName": "Киселев",
+      "Email": "Yan@ya.ru",
+      "Phone": "89327654345",
+      "Address": "-"
+    },
+    "LessonId": 3,
+    "Lesson": {
+      "Id": 3,
+      "Name": "MVC паттерн, контроллеры, модель"
+    },
+    "EvaluationId": 5,
+    "Evaluation": {
+      "Id": 5,
+      "Name": "5"
+    },
+    "Date": "2025-04-15T00:00:00Z"
   }
 ]

@@ -1,0 +1,62 @@
+﻿@model Grad_WebApp.Models.Coach
+
+@{
+    ViewData["Title"] = "Изменить запись о тренере";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1></h1>
+
+<h4>Изменить запись о тренере</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="FirstName" class="control-label"></label>
+                <input asp-for="FirstName" class="form-control" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Patronymic" class="control-label"></label>
+                <input asp-for="Patronymic" class="form-control" />
+                <span asp-validation-for="Patronymic" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName" class="control-label"></label>
+                <input asp-for="LastName" class="form-control" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Phone" class="control-label"></label>
+                <input asp-for="Phone" class="form-control" />
+                <span asp-validation-for="Phone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Information" class="control-label"></label>
+                <textarea asp-for="Information" class="form-control"></textarea>
+                <span asp-validation-for="Information" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Сomment" class="control-label"></label>
+                <textarea asp-for="Сomment" class="form-control"></textarea>
+                <span asp-validation-for="Сomment" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Сохранить изменения" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">К списку тренеров</a>
+</div>
+

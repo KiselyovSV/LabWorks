@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\LabWorks\\ASP.NET\\MVC_Lab_5(DataSet)\\MvcCreditApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F7CD9358-037E-464C-9250-9A5C43025292}|MvcCreditApp\\MvcCreditApp.csproj|e:\\labworks\\asp.net\\mvc_lab_5(dataset)\\mvccreditapp\\mvccreditapp\\models\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7CD9358-037E-464C-9250-9A5C43025292}|MvcCreditApp\\MvcCreditApp.csproj|solutionrelative:mvccreditapp\\models\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CD9358-037E-464C-9250-9A5C43025292}|MvcCreditApp\\MvcCreditApp.csproj|e:\\labworks\\asp.net\\mvc_lab_5(dataset)\\mvccreditapp\\mvccreditapp\\models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7CD9358-037E-464C-9250-9A5C43025292}|MvcCreditApp\\MvcCreditApp.csproj|solutionrelative:mvccreditapp\\models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F7CD9358-037E-464C-9250-9A5C43025292}|MvcCreditApp\\MvcCreditApp.csproj|e:\\labworks\\asp.net\\mvc_lab_5(dataset)\\mvccreditapp\\mvccreditapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{F7CD9358-037E-464C-9250-9A5C43025292}|MvcCreditApp\\MvcCreditApp.csproj|solutionrelative:mvccreditapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -55,6 +63,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Credit.cs",
+              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_5(DataSet)\\MvcCreditApp\\MvcCreditApp\\Models\\Credit.cs",
+              "RelativeDocumentMoniker": "MvcCreditApp\\Models\\Credit.cs",
+              "ToolTip": "E:\\LabWorks\\ASP.NET\\MVC_Lab_5(DataSet)\\MvcCreditApp\\MvcCreditApp\\Models\\Credit.cs",
+              "RelativeToolTip": "MvcCreditApp\\Models\\Credit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T15:03:12.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bid.cs",
+              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_5(DataSet)\\MvcCreditApp\\MvcCreditApp\\Models\\Bid.cs",
+              "RelativeDocumentMoniker": "MvcCreditApp\\Models\\Bid.cs",
+              "ToolTip": "E:\\LabWorks\\ASP.NET\\MVC_Lab_5(DataSet)\\MvcCreditApp\\MvcCreditApp\\Models\\Bid.cs",
+              "RelativeToolTip": "MvcCreditApp\\Models\\Bid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T15:03:08.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "site.css",
               "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_5(DataSet)\\MvcCreditApp\\MvcCreditApp\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "MvcCreditApp\\wwwroot\\css\\site.css",
@@ -67,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CreateBid.cshtml",
               "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_5(DataSet)\\MvcCreditApp\\MvcCreditApp\\Views\\Home\\CreateBid.cshtml",
               "RelativeDocumentMoniker": "MvcCreditApp\\Views\\Home\\CreateBid.cshtml",
@@ -75,12 +109,11 @@
               "RelativeToolTip": "MvcCreditApp\\Views\\Home\\CreateBid.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAADsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T19:01:19.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T19:01:19.071Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_5(DataSet)\\MvcCreditApp\\MvcCreditApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MvcCreditApp\\Views\\Home\\Index.cshtml",
@@ -92,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_5(DataSet)\\MvcCreditApp\\MvcCreditApp\\Program.cs",
               "RelativeDocumentMoniker": "MvcCreditApp\\Program.cs",
@@ -104,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_5(DataSet)\\MvcCreditApp\\MvcCreditApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MvcCreditApp\\Controllers\\HomeController.cs",
@@ -112,8 +145,7 @@
               "RelativeToolTip": "MvcCreditApp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAADYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T18:57:23.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T18:57:23.325Z"
             }
           ]
         },

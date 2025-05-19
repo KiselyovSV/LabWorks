@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Grad_WebApp.props" />
+</Project>

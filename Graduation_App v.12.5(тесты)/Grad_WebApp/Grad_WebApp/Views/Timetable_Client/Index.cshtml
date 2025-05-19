@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Grad_WebApp.Models.Timetable_Client>
+
+@{
+    ViewData["Title"] = "Записи на тренировки";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var clientName = "Клиент";
+    foreach (var item in Model)
+    {
+        clientName = item.Сlient!.LastName + " " + item.Сlient!.FirstName + " " + item.Сlient!.Patronymic;
+    }
+}
+
+<h1>@clientName записан на следующие тренировки:</h1>
+
+<p>
+    <a asp-action="Create">Записать ещё</a>
+</p>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Timetable)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Timetable!.Date) - 
+            (id:@Html.DisplayFor(modelItem => item.Timetable!.Workout!.Id))
+                @Html.DisplayFor(modelItem => item.Timetable!.Workout!.Type)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Изменить</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Детали</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Удалить</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<p>
+    <a asp-action="Index" asp-controller="Clients">К списку клиентов</a>
+</p>

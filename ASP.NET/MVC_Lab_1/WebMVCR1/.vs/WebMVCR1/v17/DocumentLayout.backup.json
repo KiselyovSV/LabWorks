@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\LabWorks\\ASP.NET\\MVC_Lab_1\\WebMVCR1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{86976A08-AF59-4E2A-8C1B-53E876DC08D5}|WebMVCR1\\WebMVCR1.csproj|e:\\labworks\\asp.net\\mvc_lab_1\\webmvcr1\\webmvcr1\\webmvcr1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{86976A08-AF59-4E2A-8C1B-53E876DC08D5}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\webmvcr1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{86976A08-AF59-4E2A-8C1B-53E876DC08D5}|WebMVCR1\\WebMVCR1.csproj|e:\\labworks\\asp.net\\mvc_lab_1\\webmvcr1\\webmvcr1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86976A08-AF59-4E2A-8C1B-53E876DC08D5}|WebMVCR1\\WebMVCR1.csproj|solutionrelative:webmvcr1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +50,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "WebMVCR1",
+              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_1\\WebMVCR1\\WebMVCR1\\WebMVCR1.csproj",
+              "RelativeDocumentMoniker": "WebMVCR1\\WebMVCR1.csproj",
+              "ToolTip": "E:\\LabWorks\\ASP.NET\\MVC_Lab_1\\WebMVCR1\\WebMVCR1\\WebMVCR1.csproj",
+              "RelativeToolTip": "WebMVCR1\\WebMVCR1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-30T20:35:48.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ModelClass.cs",
               "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_1\\WebMVCR1\\WebMVCR1\\Models\\ModelClass.cs",
               "RelativeDocumentMoniker": "WebMVCR1\\Models\\ModelClass.cs",
@@ -58,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_1\\WebMVCR1\\WebMVCR1\\Program.cs",
               "RelativeDocumentMoniker": "WebMVCR1\\Program.cs",
@@ -70,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\MVC_Lab_1\\WebMVCR1\\WebMVCR1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebMVCR1\\Controllers\\HomeController.cs",

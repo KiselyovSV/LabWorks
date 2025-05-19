@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\LabWorks\\ASP.NET\\RP_Lab1_6\\WebAppCoreProduct\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|e:\\labworks\\asp.net\\rp_lab1_6\\webappcoreproduct\\webappcoreproduct\\pages\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|solutionrelative:webappcoreproduct\\pages\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|e:\\labworks\\asp.net\\rp_lab1_6\\webappcoreproduct\\webappcoreproduct\\pages\\basket.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{92D8503A-3EDA-4905-A5D1-D93210201E4C}|WebAppCoreProduct\\WebAppCoreProduct.csproj|solutionrelative:webappcoreproduct\\pages\\basket.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 344,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +70,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\RP_Lab1_6\\WebAppCoreProduct\\WebAppCoreProduct\\Pages\\Product.cshtml",
+              "RelativeDocumentMoniker": "WebAppCoreProduct\\Pages\\Product.cshtml",
+              "ToolTip": "E:\\LabWorks\\ASP.NET\\RP_Lab1_6\\WebAppCoreProduct\\WebAppCoreProduct\\Pages\\Product.cshtml",
+              "RelativeToolTip": "WebAppCoreProduct\\Pages\\Product.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T15:15:18.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\RP_Lab1_6\\WebAppCoreProduct\\WebAppCoreProduct\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebAppCoreProduct\\Pages\\Shared\\_Layout.cshtml",
@@ -78,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TelegramSender.cs",
               "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\RP_Lab1_6\\WebAppCoreProduct\\WebAppCoreProduct\\Models\\TelegramSender.cs",
               "RelativeDocumentMoniker": "WebAppCoreProduct\\Models\\TelegramSender.cs",
@@ -90,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\RP_Lab1_6\\WebAppCoreProduct\\WebAppCoreProduct\\Models\\Product.cs",
               "RelativeDocumentMoniker": "WebAppCoreProduct\\Models\\Product.cs",
@@ -102,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ISender.cs",
               "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\RP_Lab1_6\\WebAppCoreProduct\\WebAppCoreProduct\\Models\\ISender.cs",
               "RelativeDocumentMoniker": "WebAppCoreProduct\\Models\\ISender.cs",
@@ -114,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Basket.cs",
               "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\RP_Lab1_6\\WebAppCoreProduct\\WebAppCoreProduct\\Models\\Basket.cs",
               "RelativeDocumentMoniker": "WebAppCoreProduct\\Models\\Basket.cs",
@@ -126,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Product.cshtml.cs",
               "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\RP_Lab1_6\\WebAppCoreProduct\\WebAppCoreProduct\\Pages\\Product.cshtml.cs",
               "RelativeDocumentMoniker": "WebAppCoreProduct\\Pages\\Product.cshtml.cs",
@@ -138,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Basket.cshtml",
               "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\RP_Lab1_6\\WebAppCoreProduct\\WebAppCoreProduct\\Pages\\Basket.cshtml",
               "RelativeDocumentMoniker": "WebAppCoreProduct\\Pages\\Basket.cshtml",
@@ -151,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Basket.cshtml.cs",
               "DocumentMoniker": "E:\\LabWorks\\ASP.NET\\RP_Lab1_6\\WebAppCoreProduct\\WebAppCoreProduct\\Pages\\Basket.cshtml.cs",
               "RelativeDocumentMoniker": "WebAppCoreProduct\\Pages\\Basket.cshtml.cs",
